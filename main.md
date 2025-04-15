@@ -56,7 +56,7 @@ Das Seminar ist teil eines zweijährigen Lehrprojektes schließt an die Veransta
 | 29.04. | Universität und Philosophie in Deutschland 1920/1930 |
 | 06.05. | (REFERAT) Sozialgeschichte der Philosophie (bspw. Bourdieu)  |
 | 13.05. | (REFERAT) Der "Warburg-Kreis": Aby Warburg, Ernst Cassirer, Lotte Labowsky, Getrud Bing |
-| 20.05. | **II. Digitales Edieren** Einführung Editionsbegriff, Digitale Edition, Beispiele |
+| 20.05. | **II. Digitales Edieren.** Einführung Editionsbegriff, Digitale Edition, Beispiele |
 | 27.05. | OCR, (semi-)automatische Transkription m. Transkribus und Tesseract |
 | 03.06. | Einführung in XML und Annotieren mit TEI XML |
 | 10.06. | Auswertungs- und Visualisierungsmöglichkeiten: zeitliche Verläufe, Geo-Daten (GIS), Netzwerkanalysen |
@@ -99,16 +99,18 @@ Das Seminar ist teil eines zweijährigen Lehrprojektes schließt an die Veransta
 Jede der Prüfungsformen beinhaltet die gemeinsame Präsentation in einer Kleingruppe am Ende des Semesters.
 
 * Referate: bitte frühzeitig melden!
+* Podcast (nur für BA7 und BA8)
 * Essay
 * Hausarbeit
-* mdl. Prüfung
 
 ---
 
-Mögliche Referatsthemen:
+Mögliche Referats- und Podcastthemen:
 
-* Vorstellung phil. Schulen: Frankfurter Schule, Freiburger Phänomenologie, Warburg Schule, Wiener Kreis, ... 
-* Denkerinnenportraits: Simone Weil, Judith N. Shklar, Gretel Adorno, Lotte Labowsky, Margarete Kantorowicz ... 
+* Sozialgeschichte der Philosophie
+* Warburg-Kreis
+* Cassirer 
+* Porträt: Labowsky, Bing, Klibansky / Verhältnis von Philosophie und Philologie 
 * ... sprecht uns an!
 
 #### Hinweise zum "Poster" (für alle)
@@ -242,23 +244,15 @@ Philosophische Texte sollten bzw. können nicht wie andere Texte gelesen werden:
 
 Der vollständige Text mit einer Erläuterung, was es mit den einzelnen Thesen auf sich hat, findet sich im [OLAT-Materialverzeichnis](https://lms.uni-kiel.de/url/RepositoryEntry/5455183961/CourseNode/109271451133388/path%3D~~Texte~~Jay%20F%2E%20Rosenberg%5F%20Sechs%20Moglichkeiten%5F%20einen%20Text%20zu%20lesen%2Epdf/0). 
 
+### Zur nächsten Sitzung
 
-#### Wie liest man Hannah Arendts "Wir Flüchtlinge"?
+Lest zur folgenden Sitzung:
 
-Hannah Arendts kurzer Essay erschien 1943 mit dem englischen Titel "We refugees" im jüdischen Menorah Journal. Der Text wurde von der Forschung lange Zeit ignoriert, und erst 1986 erschien die erste deutsche Übersetzung von Marie-Louise Knott in der Aufsatzsammlung *Zur Zeit*, das Menorah Journal war bereits 1962 als Zeitschrift eingestellt worden.
-
-Der Text gilt als einer der ersten philosophischen Essays zur Situation jüdischer Flüchtlinge in den USA, der bereits im Wissen der Welt um die nationalsozialistischen Konzentrations- und Vernichtungslager entstand. Der englische Titel *We Refugees* kann dabei als die negative Emphase von [*We, the People*](https://de.wikipedia.org/wiki/We_the_People) gelesen werden, als das Gegenteil der Ermöglichung von Freiheit und eine Juxtaposition von Flüchtlingen und Staatenlosen auf der einen, sowie den ausgrenzenden und aufnehmenden Staaten auf der anderen Seite. Diese Gegenüberstellung unterstreicht in Arendts Denken die Inkongruenz von Menschenrechten und Bürgerrechten, die sie in verschiedenen Textstücken und Kontexten problematisiert und schließlich als die zentrale Aporie der Menschenrechte identifiziert. Denn das Recht, Rechte zu haben, welches Arendt seit 1948 als das einzige Menschenrecht identifiziert, postuliert und problematisiert die universale Geltung von Menschenrechten zugleich.
+* Shklar, J. N. (2019). *Verpflichtung, Loyalität, Exil* (H. Bajohr, Ed.; No. 130; Erste Auflage). Matthes & Seitz Berlin.
 
 Lest den Text aufmerksam auf folgende Fragen hin:
 
-1. Warum meint Arendt, dass niemand "Flüchtling" genannt werden will? 
-2. Welche Elemente [intersektionaler](https://de.wikipedia.org/wiki/Intersektionalit%C3%A4t) Diskriminierung der jüdischen Flüchtlinge lassen sich in Arendts Beschreibungen finden?
-3. Gibt es Hinweise darauf, ob die Situation intellektueller Geflüchteter besonders ist? Sucht nach spezifischen Herausforderungen, Verlusten, Gefahren. Achtet dabei auch auf die Perspektive, aus der Arendt den Text schreibt.
-4. Was hat es mit den Begriffen Parvenü, Paria und Avantgarde auf sich? 
-
-### Zur nächsten Sitzung
-
-Lest die beiden folgenden Texte:
-
-* Schäfer, H. (2023). Hannah Arendt in New York. Philosophie Magazin, 4, 32–39.
-* Arendt, H. (1989). Wir Flüchtlinge. In: Arendt, H. Zur Zeit. Politische Essays. dtv, 7-23.
+1. Warum spricht Shklar von Exil und nicht von Flucht oder Migration?
+2. In welchem Verhältnis stehen Verpflichtung und Loyalität zueinander? Was bedeuten die Begriffe bei Shklar?
+3. Was hat es mit dem Verrat eines Staats an seinen Bürger:innen auf sich?
+4. Warum muss Loyalität gebändigt werden und was ist Shklars Lösung dafür?
