@@ -52,7 +52,7 @@ Das Seminar ist teil eines zweijährigen Lehrprojektes schließt an die Veransta
 | Datum | Thema/Inhalt |
 |-------|--------------|
 | 15.04. | Begrüßung, Einführung in das Thema, Überblick über das Semester |
-| 22.04. | **I. Philosophiegeschichte.** Hannah Arendts "Wir Flüchtlinge" **ODER** Judith N. Shklar "Exil, Loyalität, Verpflichtung" |
+| 22.04. | **I. Philosophiegeschichte.** Judith N. Shklar "Exil, Loyalität, Verpflichtung" |
 | 29.04. | Universität und Philosophie in Deutschland 1920/1930 |
 | 06.05. | (REFERAT) Sozialgeschichte der Philosophie (bspw. Bourdieu)  |
 | 13.05. | (REFERAT) Der "Warburg-Kreis": Aby Warburg, Ernst Cassirer, Lotte Labowsky, Getrud Bing |
@@ -192,7 +192,7 @@ Die Ausarbeitung muss bis zum **30. September 2025** (Ende des Semesters) per E-
 
 Weitere Formalia:
 
-* 1.500 Wörter im einspaltigen [ACM-Template](https://www.acm.org/publications/proceedings-template), bevorzugt in LaTeX ([Overleaf](https://www.rz.uni-kiel.de/de/angebote/software/overleaf/overleaf))
+* 1500 Wörter im einspaltigen [ACM-Template](https://www.acm.org/publications/proceedings-template), bevorzugt in LaTeX ([Overleaf](https://www.rz.uni-kiel.de/de/angebote/software/overleaf/overleaf))
 * Name, stu-Mailadresse
 * Unterschriebene Eigenständigkeitserklärung
 * Externe Quellen sind gemäß der ACM-Zitierweise anzugeben; das Literaturverzeichnis zählt nicht zur Gesamtlänge
@@ -246,7 +246,7 @@ Der vollständige Text mit einer Erläuterung, was es mit den einzelnen Thesen a
 
 ### Zur nächsten Sitzung
 
-Lest zur folgenden Sitzung:
+Lest zur folgenden Sitzung (im OLAT Materialverzeichnis zu finden):
 
 * Shklar, J. N. (2019). *Verpflichtung, Loyalität, Exil* (H. Bajohr, Ed.; No. 130; Erste Auflage). Matthes & Seitz Berlin.
 
