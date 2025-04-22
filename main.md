@@ -49,21 +49,21 @@ Das Seminar ist teil eines zweijährigen Lehrprojektes schließt an die Veransta
 
 ### Semesterplan
 
-| Datum | Thema/Inhalt |
-|-------|--------------|
-| 15.04. | Begrüßung, Einführung in das Thema, Überblick über das Semester |
-| 22.04. | **I. Philosophiegeschichte.** Judith N. Shklar "Exil, Loyalität, Verpflichtung" |
-| 29.04. | Universität und Philosophie in Deutschland 1920/1930 |
-| 06.05. | (REFERAT) Sozialgeschichte der Philosophie (bspw. Bourdieu)  |
-| 13.05. | (REFERAT) Der "Warburg-Kreis": Aby Warburg, Ernst Cassirer, Lotte Labowsky, Getrud Bing |
-| 20.05. | **II. Digitales Edieren.** Einführung Editionsbegriff, Digitale Edition, Beispiele |
-| 27.05. | OCR, (semi-)automatische Transkription m. Transkribus und Tesseract |
-| 03.06. | Einführung in XML und Annotieren mit TEI XML |
-| 10.06. | Auswertungs- und Visualisierungsmöglichkeiten: zeitliche Verläufe, Geo-Daten (GIS), Netzwerkanalysen |
-| 17.06. | **III. Praxisteil / Projektphase.** Recherchemethoden und Quellen |
-| 24.06. | (REFERAT) FAIR-Prinzipien und Forschungsdatenmanagment |
-| 01.07. | (REFERAT) Arbeitssitzung |
-| 08.07. | *Doppelsitzung:* Abschlusspräsentation |
+| Datum | Thema/Inhalt | Protokoll |
+|-------|--------------| --------- |
+| 15.04. | Begrüßung, Einführung in das Thema, Überblick über das Semester | - | 
+| 22.04. | **I. Philosophiegeschichte.** Judith N. Shklar "Exil, Loyalität, Verpflichtung" | Mika |
+| 29.04. | Universität und Philosophie in Deutschland 1920/1930 | Senanur |
+| 06.05. | (REFERAT) Sozialgeschichte der Philosophie (bspw. Bourdieu)  |   |
+| 13.05. | (REFERAT) Der "Warburg-Kreis": Aby Warburg, Ernst Cassirer, Lotte Labowsky, Getrud Bing |   |
+| 20.05. | **II. Digitales Edieren.** Einführung Editionsbegriff, Digitale Edition, Beispiele |   |
+| 27.05. | OCR, (semi-)automatische Transkription m. Transkribus und Tesseract |   |
+| 03.06. | Einführung in XML und Annotieren mit TEI XML | Peer |
+| 10.06. | Auswertungs- und Visualisierungsmöglichkeiten: zeitliche Verläufe, Geo-Daten (GIS), Netzwerkanalysen |   |
+| 17.06. | **III. Praxisteil / Projektphase.** Recherchemethoden und Quellen |   |
+| 24.06. | (REFERAT) FAIR-Prinzipien und Forschungsdatenmanagment |   |
+| 01.07. | (REFERAT) Arbeitssitzung |   |
+| 08.07. | *Doppelsitzung:* Abschlusspräsentation | - |
 
 ### Forschungs(daten)zyklus
 
@@ -89,10 +89,12 @@ Das Seminar ist teil eines zweijährigen Lehrprojektes schließt an die Veransta
 
 **Für Informatiker_innen:**
 
-* "Sitzungsprotokoll" (10%)
-* Peer Review (10%)
+* "Sitzungsprotokoll" (15%)
+* Peer Review (15%)
 * Poster und Posterpräsentation (30%)
 * Ausarbeitung (40%)
+
+Alle Teilleistungen müssen für eine erfolgreiche Gesamtteilnahme eingereicht und bestanden werden. 
 
 **Für Philosoph_innen:**
 
@@ -225,7 +227,7 @@ Sprecht mit der Person, die euch gegenübersitzt, zwei Minuten über die folgend
 2. Was bewundert Ihr an der jeweils anderen Disziplin?
 3. Welche einflussreichen Frauen (Philosophinnen, Informatikerinnen) kennt ihr in eurer Disziplin?
 
-Wenn das Signal gegeben wird, rücken diejenigen, die mit dem Gesicht zum Eingang/Front sitzen, einen Platz nach links.
+Wenn das Signal gegeben wird, rücken diejenigen, die mit dem Rücken zum Eingang/Front sitzen, einen Platz nach links.
 
 Diejenigen die außen sitzen wechseln die Reihe und füllen den leeren Platz in der nächsten Reihe auf usw.
 
@@ -256,3 +258,12 @@ Lest den Text aufmerksam auf folgende Fragen hin:
 2. In welchem Verhältnis stehen Verpflichtung und Loyalität zueinander? Was bedeuten die Begriffe bei Shklar?
 3. Was hat es mit dem Verrat eines Staats an seinen Bürger:innen auf sich?
 4. Warum muss Loyalität gebändigt werden und was ist Shklars Lösung dafür?
+
+## Sitzung am 22.04.
+
+### Zur nächsten Sitzung 
+
+Lest zur folgenden Sitzung: 
+
+* Eilenberger, W. (2021). Zeit der Zauberer (Elfte Auflage). Klett-Cotta. S. 13 -- 42 (im OLAT)
+* Grüttner, M. (2021). The Expulsion of Academic Teaching Staff from German Universities, 1933–45. Journal of Contemporary History, 57(3), 513–533. https://doi.org/10.1177/00220094211063074 (frei verfügbar, hier: https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/8d843318-c8d0-4f11-9b01-0c1b06689006/content)
