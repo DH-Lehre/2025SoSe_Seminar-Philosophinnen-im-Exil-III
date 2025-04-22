@@ -261,6 +261,78 @@ Lest den Text aufmerksam auf folgende Fragen hin:
 
 ## Sitzung am 22.04.
 
+### Judith Nisse Shklar
+
+![Judith Shklar](judith-shklar.jpg)
+
+**Name:** Judith Nisse Shklar  
+
+**Geboren:** 24. September 1928 in Riga, Lettland 
+
+**Gestorben:** 17. September 1992 in Cambridge, Massachusetts, USA  
+
+**Beruf:** Politikwissenschaftlerin und politische Theoretikerin  
+
+
+Judith Shklar gilt als eine der bedeutendsten liberalen Theoretikerinnen des 20. Jahrhunderts. Ihre Arbeiten haben bis heute Einfluss auf Debatten über politische Ethik, Machtbegrenzung und die Rolle von Freiheit in einer liberalen Gesellschaft.
+
+#### Leben
+
+**Herkunft und Flucht:** 
+Geboren in eine deutschsprachige jüdische Familie, floh sie 1939 mit ihrer Familie vor den Nationalsozialisten und Sowjets über die Transsibirische Eisenbahn nach Kanada.  
+
+**Bildung:** 
+Studium der Politikwissenschaft an der McGill University in Montreal; Promotion an der Harvard University (1955). 
+
+**Karriere:**
+Erste Frau auf einer Festanstellung im Fachbereich Politische Wissenschaften an der Harvard University. Sie lehrte dort bis zu ihrem Tod und wurde 1980 zur "John Cowles Professor of Goverment" ernannt.
+
+[**Storymap zu Shklars Flucht und Vita**](https://storymaps.arcgis.com/stories/38af7d5862a84180a00f70f34981df5b)
+
+(Elaine Ringeloth, Fleming Jensen, SoSe 2024)
+
+#### Philosophisches Denken
+
+**Wichtige Werke**:
+
+- *After Utopia: The Decline of Political Faith* (1957)  
+- *Ordinary Vices* (*Ganz normale Laster*, 1984)  
+- *The Liberalism of Fear* (*Der Liberalismus der Furcht*, 1989)  
+- *Faces of Injustice* (*Über Ungerechtigkeit*, 1990)
+
+
+**Der Liberalismus der Furcht (1989)**
+Dieser kurze Text ist ihr bekanntester und prägendster. Es formuliert eine liberale Theorie, die darauf abzielt, Grausamkeit und Machtmissbrauch zu verhindern. Shklar argumentiert, dass der Liberalismus vor allem die Freiheit sichern sollte, ohne Furcht Entscheidungen treffen zu können. Sie befürwortet eine konstitutionelle, repräsentative und menschenrechtlich-liberale Demokratie, die Macht begrenzt und verteilt.
+
+**Ganz normale Laster (1984)**
+
+In diesem Buch untersucht Shklar alltägliche moralische Schwächen wie Grausamkeit, Heuchelei und Feigheit. Sie stellt Grausamkeit als das größte Übel (*summum malum*) dar und verbindet dies mit ihrer liberalen Theorie. Das Werk bietet eine tiefgehende Reflexion über die moralischen Grundlagen des politischen Handelns.
+
+**Über Ungerechtigkeit (1990)**
+
+In diesem Werk kritisiert Shklar die philosophische Vernachlässigung des Konzepts der Ungerechtigkeit zugunsten von Gerechtigkeitstheorien. Sie analysiert verschiedene Formen von Ungerechtigkeit (z. B. passive und aktive Ungerechtigkeit) und betont deren zentrale Bedeutung für politische und soziale Theorie.
+
+**After Utopia: The Decline of Political Faith (1957)**
+
+Dieses frühe Werk kritisiert utopisches Denken in der politischen Theorie und plädiert für eine realistische Betrachtung politischer Möglichkeiten. Es zeigt Shklars Skepsis gegenüber Ideologien, die auf idealisierten Zukunftsvisionen basieren.
+
+**Essays über Hannah Arendt**
+
+Ihre kritischen Texte über Hannah Arendt beleuchten Unterschiede in den Denkansätzen der beiden Philosophinnen, insbesondere in Bezug auf Exil, Freiheit und politische Romantik. Diese Essays sind besonders relevant für das Verständnis von Shklars Position im Vergleich zu anderen großen politischen Theoretikern[2].
+Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und politische Ethik und machen Judith Shklar zu einer der bedeutendsten Denkerinnen des 20. Jahrhunderts.
+
+#### Verpflichtung, Loyalität, Exil
+
+
+1. Warum spricht Shklar von Exil und nicht von Flucht oder Migration?
+2. In welchem Verhältnis stehen Verpflichtung und Loyalität zueinander? Was bedeuten die Begriffe bei Shklar?
+3. Was hat es mit dem Verrat eines Staats an seinen Bürger:innen auf sich?
+4. Warum muss Loyalität gebändigt werden und was ist Shklars Lösung dafür?
+
+>**Think. Pair. Share.** Jede Person geht 5 Minuten ihre Lektürenotizen durch. Danach besprecht Ihr Euch bitte zu zweit 10 Minuten lang über Eure Erkenntnisse und die Lektürefragen. Anschließend Diskussion im Plenum.
+
+## Sitzung am 22.04.
+
 ### Zur nächsten Sitzung 
 
 Lest zur folgenden Sitzung: 
