@@ -331,8 +331,6 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 
 >**Think. Pair. Share.** Jede Person geht 5 Minuten ihre Lektürenotizen durch. Danach besprecht Ihr Euch bitte zu zweit 10 Minuten lang über Eure Erkenntnisse und die Lektürefragen. Anschließend Diskussion im Plenum.
 
-## Sitzung am 22.04.
-
 ### Zur nächsten Sitzung 
 
 Lest zur folgenden Sitzung: 
