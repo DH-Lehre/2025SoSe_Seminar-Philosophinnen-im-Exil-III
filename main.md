@@ -263,7 +263,7 @@ Lest den Text aufmerksam auf folgende Fragen hin:
 
 ### Judith Nisse Shklar
 
-![Judith Shklar](img\Shklar.jpg)
+![Judith Shklar](img\Shklar.jpeg)
 
 **Name:** Judith Nisse Shklar  
 
