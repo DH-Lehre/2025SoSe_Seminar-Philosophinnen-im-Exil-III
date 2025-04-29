@@ -337,3 +337,22 @@ Lest zur folgenden Sitzung:
 
 * Eilenberger, W. (2021). Zeit der Zauberer (Elfte Auflage). Klett-Cotta. S. 13 -- 42 (im OLAT)
 * Grüttner, M. (2021). The Expulsion of Academic Teaching Staff from German Universities, 1933–45. Journal of Contemporary History, 57(3), 513–533. https://doi.org/10.1177/00220094211063074 (frei verfügbar, hier: https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/8d843318-c8d0-4f11-9b01-0c1b06689006/content)
+
+## Sitzung am 29.04. 
+
+### Philosophie in den 20er und 30er Jahren in Deutschland
+
+Bildet Gruppen aus drei bis vier Studierenden. In jeder Gruppe sollte sich min. eine Person befinden, die den Grüttner- bzw. Eilenbergertext gelesen hat. 
+
+Ergänzt vor dem Hintergrund des Eilenberger und Grüttner-Texts und durch weitere Internet-Recherche das ConceptBoard: https://app.conceptboard.com/board/e9sy-813k-qx9c-g5hm-czu0 unter den folgenden Gesichtspunkten:
+
+1. Welche bekannten Philosoph:innen und philosophischen Schulen könnt ihr finden? Welche Universitäten waren wichtige Orte für die akademische Philosophie der Zeit?
+2. Welche Frauen wurden genannt/könnt ihr finden? Wo haben die Frauen gelernt, gelehrt, gelebt?
+3. Welche Philosoph:innen mussten die Universitäten verlassen und aus welchen Gründen?
+4. Welche Philosoph:innen wurden von den Nazis ermordert oder begingen Suizid? 
+
+Ihr habt dafür 35 Minuten Zeit. 
+
+### Das BBG 
+
+[Gesetz zur Wiederherstellung des Berufsbeamtentums](https://de.wikisource.org/wiki/Gesetz_zur_Wiederherstellung_des_Berufsbeamtentums)
