@@ -54,11 +54,11 @@ Das Seminar ist teil eines zweijährigen Lehrprojektes schließt an die Veransta
 | 15.04. | Begrüßung, Einführung in das Thema, Überblick über das Semester | - | 
 | 22.04. | **I. Philosophiegeschichte.** Judith N. Shklar "Exil, Loyalität, Verpflichtung" | Mika |
 | 29.04. | Universität und Philosophie in Deutschland 1920/1930 | Senanur |
-| 06.05. | (REFERAT) Sozialgeschichte der Philosophie (bspw. Bourdieu)  | Ahad  |
-| 13.05. | (REFERAT) Der "Warburg-Kreis": Aby Warburg, Ernst Cassirer, Lotte Labowsky, Getrud Bing |   |
-| 20.05. | **II. Digitales Edieren.** Einführung Editionsbegriff, Digitale Edition, Beispiele |   |
-| 27.05. | OCR, (semi-)automatische Transkription m. Transkribus und Tesseract | Levan  |
-| 03.06. | Einführung in XML und Annotieren mit TEI XML | Peer |
+| 06.05. | (Digitales Edieren) Einführung in XML und Annotieren mit TEI XML | Peer |
+| 13.05. | (REFERAT) Sozialgeschichte der Philosophie (bspw. Bourdieu)  | Ahad  |
+| 20.05. | (REFERAT) Der "Warburg-Kreis": Aby Warburg, Ernst Cassirer, Lotte Labowsky, Getrud Bing |   |
+| 27.05. | **II. Digitales Edieren.** Einführung Editionsbegriff, Digitale Edition, Beispiele |   |
+| 03.06. | OCR, (semi-)automatische Transkription m. Transkribus und Tesseract | Levan  |
 | 10.06. | Auswertungs- und Visualisierungsmöglichkeiten: zeitliche Verläufe, Geo-Daten (GIS), Netzwerkanalysen |   |
 | 17.06. | **III. Praxisteil / Projektphase.** Recherchemethoden und Quellen |   |
 | 24.06. | (REFERAT) FAIR-Prinzipien und Forschungsdatenmanagment |   |
@@ -356,3 +356,12 @@ Ihr habt dafür 35 Minuten Zeit.
 ### Das BBG 
 
 [Gesetz zur Wiederherstellung des Berufsbeamtentums](https://de.wikisource.org/wiki/Gesetz_zur_Wiederherstellung_des_Berufsbeamtentums)
+
+### Zur nächsten Sitzung
+
+Lest zur folgenden Sitzung (im OLAT Materialverzeichnis zu finden):
+
+* Jannidis, F., Kohle, H., & Rehbein, M. (2017). Digital Humanities. J.B. Metzler. https://doi.org/10.1007/978-3-476-05446-3, Kapitel 9, S. 128 - 134
+* Drucker, J. (2021). Data modeling and use. In The Digital Humanities Coursebook. An Introduction to Digital Methods for Research and Scholarship. Routledge.
+
+## Sitzung am 06.05.
