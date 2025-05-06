@@ -10,6 +10,8 @@ narrator: UK English Female
 
 # Philosophinnen im Exil III 
 
+**OLAT-Kurs:** https://lms.uni-kiel.de/auth/RepositoryEntry/5612109826/CourseNode/111322663929783
+
 **Dozierende:**
 
 * Moritz Riemann (riemann@philsem.uni-kiel.de)
