@@ -54,10 +54,10 @@ Das Seminar ist teil eines zweijährigen Lehrprojektes schließt an die Veransta
 | 15.04. | Begrüßung, Einführung in das Thema, Überblick über das Semester | - | 
 | 22.04. | **I. Philosophiegeschichte.** Judith N. Shklar "Exil, Loyalität, Verpflichtung" | Mika |
 | 29.04. | Universität und Philosophie in Deutschland 1920/1930 | Senanur |
-| 06.05. | (Digitales Edieren) Einführung in XML und Annotieren mit TEI XML | Peer |
+| 06.05. | (Digitales Edieren) Einführung Editionsbegriff, Einführung in XML und Annotieren mit TEI XML | Peer |
 | 13.05. | (REFERAT) Sozialgeschichte der Philosophie (bspw. Bourdieu)  | Ahad  |
 | 20.05. | (REFERAT) Der "Warburg-Kreis": Aby Warburg, Ernst Cassirer, Lotte Labowsky, Getrud Bing |   |
-| 27.05. | **II. Digitales Edieren.** Einführung Editionsbegriff, Digitale Edition, Beispiele |   |
+| 27.05. | **II. Digitales Edieren.** Digitale Edition, Beispiele und Entwicklung von Forschungsfragen, Wdh. XML |   |
 | 03.06. | OCR, (semi-)automatische Transkription m. Transkribus und Tesseract | Levan  |
 | 10.06. | Auswertungs- und Visualisierungsmöglichkeiten: zeitliche Verläufe, Geo-Daten (GIS), Netzwerkanalysen |   |
 | 17.06. | **III. Praxisteil / Projektphase.** Recherchemethoden und Quellen |   |
@@ -365,3 +365,292 @@ Lest zur folgenden Sitzung (im OLAT Materialverzeichnis zu finden):
 * Drucker, J. (2021). Data modeling and use. In The Digital Humanities Coursebook. An Introduction to Digital Methods for Research and Scholarship. Routledge.
 
 ## Sitzung am 06.05.
+
+### Briefe von Lotte Labowsky und Gertrud Bing 
+
+#### Beispiel 1
+
+![Brief von Gertrud Bing](img/letter_gertrud_1.png)
+
+#### Beispiel 2
+
+![Ein weiterer Brief von Gertrud Bing](img/letter_gertrud_2.png)
+
+#### Beispiel 3
+
+![Undn noch ein Brief von Lotte Labowsky](img/letter_lotte.png)
+
+
+### XML-Grundlagen
+
+> Wo sind euch bereits XML-Formate begegnet?
+>
+> Welche Beispiele könnt ihr nennen?
+>
+> Warum könnte das eine sinnvolle Möglichkeit sein Daten abzulegen?
+
+#### Beispiele
+
+Sowohl Word, als auch Excel (und andere Microsoft Office-Tools) speichern ihre Daten im XML-Format ab. Dafür steht das *x* in der Dateiendung *.docx* bzw. *.xlsx* (in dem Fall: das zweite *x*). Man *sieht* die XML-Daten nicht, weil sie komprimiert werden, im sogenannten Zip-Format. Mit ein wenig technischem Verständnis kann man aber die Rohdaten sichtbar machen. In der Regel ist das nicht erforderlich und sollte auch nicht gemacht werden: Word und Excel "wissen", wie sie mit diesen Informationen umgehen müssen, händische (menschliche) Interventionen können die Daten zerstören.
+
+Ein weiteres Beispiel für XML (genau genommen: ein XML-ähnliches Format) ist die Hypertext Markup Language (HTML), die zum Bau von Websiten verwendet wird:
+
+![Die CAU Website ist mit HTML gebaut, einem XML-ähnlichen Standard](img/cau_website.png)
+
+#### Grundlagen
+
+XML — kurz für: eXtensible Markup Language — ist ein textbasiertes Format zur Speicherung von Daten. Von XML leiten sich verschiedene andere Standards ab, die jedoch alle gleichen Prinzipien folgen. Beispiele für solche abgeleiteten Standards sind TEI (*Text Encoding Initiative*), RDF (*Resource Description Framework*) oder XSLT (*Extensible Stylesheet Language Transformation*). XML ist eine Art Metasprache, um verschiedene Wege zu ermöglichen standardisierte Datenbeschreibungen vorzunehmen.
+
+XML-Dokumente bestehen aus sogenannten *tags*:
+
+```xml
+<name>Max Mustermann</name>
+```
+
+Der *tag* ist in diesem Fall *name*, der aus einem öffnenden und schließenden (mit einem "/" beginnend) Anteil gebildet wird. Dadurch wird ausgezeichnet, *was* beschrieben wird, in diesem Fall ein Name. Der konkrete Name steht zwischen den Tags. Einzelne XML-Tags funktionieren also wie ein Oreo-Keks: Außen herum ist die langweilige, harte Beschreibung, innendrin der weiche, semantische Kern.
+
+![Ein einzelner Tag ist wie ein Oreo-Keks](img/Oreo-Two-Cookies.jpg "Evan-Amos, Public domain, via Wikimedia Commons")
+
+*Tags* können nun ineinander geschachtelt werden oder auch nebeneinander stehen. Stehen zwei *tags* nebeneinander spricht man von Geschwistern, ist ein Tag in einem anderen geschachtelt, so spricht man bei dem inneren von dem Kind- (oder *child*), bei dem äußeren von dem Vater- bzw. Eltern- (oder *parent* bzw. *ancestor*) *tag*.
+
+Es **muss** immer ein Wurzelelement (*root element*) geben, dass alle anderen Elemente beinhaltet. Innerhalb dieses Wurzelelements kann es *siblings* geben, aber das *root element* kann niemals *sibling* zu einem anderen sein.
+
+![XML funktioniert wie eine Matroshka-Puppe](img/1024px-Russian-Matroshka.jpg "No machine-readable author provided. Fanghong assumed (based on copyright claims)., CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons")
+
+In diesem Sinne funktioniert XML wie eine Matroshka-Puppe, da sich *tags* ineinander schachteln und dadurch hierarchische Strukturen bilden lassen:
+
+```xml
+<person>
+   <name>Max Mustermann</name>
+   <alter>30</alter>
+      <adresse>
+      <straße>Hauptstraße 1</straße>
+      <stadt>Berlin</stadt>
+      <land>Deutschland</land>
+   </adresse>
+</person>
+```
+
+Ist ein XML-Dokument in diesem Sinne korrekt formatiert, dann sagt man auch es sei **well-formed**: Es wurden keine syntaktischen Fehler gemacht, alle Klammern schließen korrekt und die öffnenden und schließenden *tags* sind korrekt gesetzt.
+
+Es ist zudem möglich ein spezielles Schema mit einem Dokument zu verknüpfen um kenntlich zu machen, welche *tags* es gibt und in welcher Beziehung diese zueinander stehen können. Geschieht dies, so lässt sich automatisch überpüfen, ob ein Dokument **valide** (*valid*) ist.
+
+Noch ein Hinweis zum Schluss: Wenn ein XML-Dokument selbst bestimmte Sonderzeichen innerhalb eines Tags verwenden möchte, so müssen diese Zeichen **escaped** werden:
+
+```xml
+<formula>3 < 4 => True</formula>
+```
+
+Würde unweigerlich zu einem Fehler führen, während
+
+```xml
+<formula>3 &lt; 4 =&gt; True</formula>
+```
+
+korrekt ist.
+
+---
+
+Als Vorlage dieses Abschnitts diente der hervorragende Blogbeitrag [A shamelessly short intro to XML for DH beginners (includes TEI)](https://latex-ninja.com/2022/02/02/a-shamelessly-short-intro-to-xml-for-dh-beginners-includes-tei/)
+
+
+#### Übungen
+
+**1.** Gegeben ist das folgende XML-Dokument:
+
+```xml
+<person>
+   <name>Max Mustermann</name>
+   <alter>30</alter>
+   <adresse>
+      <straße>Hauptstraße 1</straße>
+      <stadt>Berlin</stadt>
+      <land>Deutschland</land>
+   </adresse>
+</person>
+```
+
+a) Ist das Dokument **well-formed**?
+
+[(X)] Ja
+[( )] Nein
+
+b) In welchem Verhältnis stehen die *tags* *name* und *alter* (X ist _ zu Y) zueinander?
+
+[( )] root element
+[( )] child
+[( )] parent
+[(X)] sibling
+[( )] ancestor
+[( )] successor
+
+c) In welchem Verhältnis stehen die *tags* *person* und *adresse* (X ist _ zu Y) zueinander?
+
+[( )] root element
+[( )] child
+[(X)] parent
+[( )] sibling
+[( )] ancestor
+[( )] successor
+
+d) In welchem Verhältnis stehen die *tags* *land* und *person* (X ist _ zu Y) zueinander?
+
+[( )] root element
+[( )] child
+[( )] parent
+[( )] sibling
+[( )] ancestor
+[(X)] successor
+
+---
+
+**2.** Das folgende XML-Dokument ist nicht **well-formed**:
+
+```xml
+<book>
+   <title>Harry Potter and the Sorcerer's Stone</title>
+   <author>J.K. Rowling</autor>
+   <year>1997</year>
+   <publisher>Scholastic</publisher>
+</book>
+<genre>Fantasy</genre>
+```
+
+Welche Fehler sind darin enthalten?
+
+[[X]] Es gibt kein Wurzelelement
+[[ ]] Der Title-tag wird nicht korrekt geschlossen
+[[X]] Der Author-tag wird nicht korrekt geschlossen
+[[ ]] Es gibt keinen Publisher namens "Scholastic"
+[[ ]] Harry Potter gehört in die Kategorie "YA Fantasy"
+
+---
+
+**3.** Das folgende XML-Dokument ist nicht **well-formed**:
+
+```xml
+<book>
+   <title>The Catcher in the Rye<title>
+   <author>J.D. Salinger<author>
+   <year>1951</year>
+   <publisher>Little, Brown and Company</publisher
+</book>
+```
+
+Welche Fehler sind darin enthalten?
+
+(Auswahlmöglichkeiten wurden hier bewusst ausgespart.)
+
+### TEI XML
+
+![Logo_TEI!](img/TEI.jpg)
+
+1. Die Text-Encoding-Initiative ist ein Konsortium, das einen *community standard* erstellt und pflegt.
+2. Sie stellen v.a. die guidelines zur Verfügung, die ein kontrolliertes Vokabular der Auszeichnung ermöglichen. Aus den (vermutlich) unendlichen Möglichkeiten der XML-Auszeichnungen trifft die TEI eine Auswahl und legt damit ein Vokabular und eine Grammatik fest.
+
+> TEI P5 Guidelines
+> http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html  
+> Version 4.6.0. (letztes Update am 04. April 2023)
+
+
+#### Grundstruktur
+
+Jedes valide TEI-Dokument enthält die folgenden Elemente:
+
+1. Das Wurzelelement `<TEI>`
+2. Einen "Namensraum" (*Namespace*), der im Wurzelelement als Attribut (`xmlns` angegeben ist): `<TEI xmlns="http://www.tei-c.org/ns/1.0">`
+3. Eine Zuweisung des verwendeten Schemas
+4. `<teiHeader>` für Metadaten
+5. `<text>` enthält den eigentlichen, zu annotierenden Text
+
+#### Header – Zuhause für Metadaten
+
+Der Header (`teiHeader`) ist eines der wenigen verpflichtenden Elemente in TEI. Er enthält verschiedene beschreibende und Meta-Information zum Text, Transkription, Edition und Bearbeitungshistorie. 
+
+Diese beschreibenden und erklärenden Metadaten, die der digitalen Ressource vorangestellt sind, werden bspw. von Repositorien, Bibliotheken und Archiven verwendet. Sie ermöglichen die schnelle Auffindbarkeit und Einschätzung einer (digitalen) Quelle. 
+
+Der Header enthält außerdem häufig (*best practice!*) die Dokumentation der Kodierungspraxis, d.h. Informationen dazu, warum welche Begriffe wie codiert wurden. 
+
+Der Header setzt sich wiederum aus verschiedenen *tags* zusammen, die ihrerseits weitere Informationen beinhalten:
+
+* `<fileDesc>`: bibliographische Beschreibung der Datei
+* `<encodingDesc>`: Verhältnis zwischen elektronischem Text und seiner Quelle
+* `<profileDesc>`: Beschreibung der nicht-bibliographischen Merkmale des Textes, insbes. Sprache, Entstehung(sbedingungen), Beteiligte, Aussehen des Mediums
+* `<xenoData>`: alle nicht TEI-konformenen Metadaten
+* `<revisionDesc>`: dokumentiert die Änderungen, die an der elektronischen Datei vorgenommen wurden (wer, wann, was)
+
+#### Beispiel für einen TEI-Header
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <!-- Title of the Text -->
+      <fileDesc>
+         <titleStmt>
+            <title>What is the title of the text?</title>
+         </titleStmt>
+         
+         <!-- Author Information -->
+         <publicationStmt>
+            <p>Who is the author of the text?</p>
+            <author>Author's Name</author>
+         </publicationStmt>
+         
+         <!-- Information about the Source of the Text -->
+         <sourceDesc>
+            <p>What is the source of the text? (e.g., book, article, manuscript)</p>
+            <bibl>Source Information</bibl>
+         </sourceDesc>
+      </fileDesc>
+      
+      <!-- Information about the Encoding Process -->
+      <encodingDesc>
+         <editorialDecl>
+            <p>Describe any editorial decisions or encoding practices used in the text.</p>
+            <p>Editorial decisions: </p>
+            <p>Encoding practices: </p>
+         </editorialDecl>
+      </encodingDesc>
+      
+      <!-- Information about the Project and Funding -->
+      <profileDesc>
+         <creation>
+            <p>When was the text created?</p>
+         </creation>
+         
+         <!-- Project and Funding Information -->
+         <langUsage>
+            <language id="en">English</language>
+         </langUsage>
+      </profileDesc>
+      
+      <!-- Information about the Text's Context -->
+      <revisionDesc>
+         <change>
+            <p>Describe any revisions made to the text or encoding.</p>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <!-- The main content of the text goes here -->
+   <text>
+      <!-- Content of the text -->
+   </text>
+</TEI>
+```
+
+#### Must-have: `fileDesc`
+
+`<fileDesc>` ist das einzige verpflichtende Elemente im header. Aus der `<fileDesc>` werden wichtige Informationen übernommen, die für Katalogeinträge relevant sind und die Zitation der elektronischen Datei ermöglichen. AutorIn, Titel, HerausgeberIn, Publikation, Distribution, Angaben zur analogen Quelle, Verantwortliche, Finanzierung des Projekts etc. werden dort festgehalten.
+
+Eine gute `<fileDesc>` weist gute wissenschaftliche Praxis aus und validiert digitale Publikationen als nachvollziehbar und zitierbar.
+
+Innerhalb der `<fileDesc>` stehen verpflichtend:
+
+1. `<titleStmt>` Angaben zum Titel der Datei
+2. `<publicationStmt>` Angaben zu den Publikationsdaten der Datei
+3. `<sourceDesc>` Angaben zur Quelle/Vorlage der Datei
+
+Wie für die meisten Dinge zu Beginn einer Publikation, ist es ratsam, diese Informationen erst am Ende des Prozesses einzutragen und zu Beginn lediglich Platzhalter zu schreiben.
+
