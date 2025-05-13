@@ -380,7 +380,25 @@ Lest zur folgenden Sitzung (im OLAT Materialverzeichnis zu finden):
 
 #### Beispiel 3
 
-![Undn noch ein Brief von Lotte Labowsky](img/letter_lotte.png)
+![Und noch ein Brief von Lotte Labowsky](img/letter_lotte.png)
+
+### Gemeinsam erarbeitetes Datenmodell für Briefe
+
+| Feld | Beschreibung | Datentyp / Standard |
+| --- | --- | --- |
+| **Datum** | Datum des Briefs (ohne Uhrzeit) | [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) - `YYYY-MM-DD`, z.B. 2025-05-06 |
+| **Ort(e)** | Ort des Absenders/Empfängers, ggf. weitere Orte im Text | [GeoNames](https://www.geonames.org/)-ID, z.B. [2891122](https://www.geonames.org/2891122/kiel.html) für Kiel |
+| **Brief-ID** | Interne eindeutige Identifier | Integer oder UUID |
+| **Autor/in** | Autor/in des Briefs | [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), z.B. ID [Q66462](https://www.wikidata.org/wiki/Q66462) für Gertrud Bing |
+| **Empfänger/in** | Empfänger/in des Briefs | s.o. |
+| **Enthaltene Personen** | Erwähnte Personen im Brief | s.o. |
+| **Sprache** | Sprache des Briefs | [ISO 639](https://iso639-3.sil.org/code_tables/639/data) Codes, z.B. [deu](https://iso639-3.sil.org/code/deu) für Deutsch nach 639-3 |
+| **Art des Briefs** | z. B. persönlicher Brief, diplomatisch, offizieller Brief | [CIDOC CRM](http://www.cidoc-crm.org/) oder [Getty AAT](https://www.getty.edu/research/tools/vocabularies/aat/), z.B. [300026816](https://www.getty.edu/vow/AATFullDisplay?find=letter&logic=AND&note=&subjectid=300026816) für eine Postkarte |
+| **Briefkopf / Institution**<br>(optional) | Kontext: z. B. Universitäten, Kanzleien, Organisationen | [ROR](https://ror.org/) (Research Organization Registry) |
+| **Handschriftlich**<br>(optional) | Ob der Brief handgeschrieben ist | Boolean (`true/false`) |
+| **Text** | Volltext des Briefes | Freitextfeld |
+| **Tags / Schlagwörter** | Inhaltliche Klassifikation, Themenfelder | [Getty AAT](https://www.getty.edu/research/tools/vocabularies/aat/) oder [Wikidata Topics](https://www.wikidata.org/wiki/Wikidata:Main_Page) |
+
 
 ### Zur nächsten Sitzung
 
