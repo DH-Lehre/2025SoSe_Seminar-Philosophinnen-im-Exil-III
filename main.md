@@ -155,7 +155,7 @@ Eine gute (oder bessere) Arbeit
 
 Das LiaScript-Material findet ihr in diesem GitHub-Repository: https://github.com/ggb/Seminar-Philosophinnen-im-Exil
 
-Um das Material zu erweitern, könnt ihr das Repo forken und entsprechend [dieses Workflows](https://github.com/ggb/Seminar-Philosophinnen-im-Exil) eine Pull Request stellen.
+Um das Material zu erweitern, könnt ihr das Repo forken und entsprechend [dieses Workflows](https://github.com/DH-Lehre/2025SoSe_Seminar-Philosophinnen-im-Exil-III) eine Pull Request stellen.
 
 #### Hinweise zur Peer Review (für Informatiker_innen)
 
