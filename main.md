@@ -131,7 +131,7 @@ Umfangreiche Hinweise zur Erstellung von Podcasts als Prüfungsleistung findet i
 
 **Aufgabenstellung:** Sprecht mit Gregor eine Sitzung ab, für die ihr ein "Sitzungsprotokoll" anfertigt. Das Protokoll soll die wichtigsten Ergebnisse und Erkenntnisse der Sitzung festhalten (nicht den Verlauf) und dient als Ergänzung bzw. Erweiterung des Kursmaterials, sprich: Die "Protokolle" werden direkt in das Material übernommen und dienen als gemeinsame Ressource für alle zur Nachbereitung des Seminars. Entsprechend sollte das Protokoll so aufbereitet sein, dass ein Nicht-Anwesender Studierender sich anhand der Notizen im Nachhinein ein klares Bild davon machen kann, welche Inhalte in der entsprechenden Woche besprochen wurden. 
 
-Das Protokoll muss bis **spätestens zwei Wochen** nach der Sitzung per E-Mail (ggb@informatik.uni-kiel.de) oder [pull request](https://github.com/ggb/Seminar-Philosophinnen-im-Exil) bei mir eingereicht werden.
+Das Protokoll muss bis **spätestens zwei Wochen** nach der Sitzung per E-Mail (ggb@informatik.uni-kiel.de) oder [pull request](https://github.com/DH-Lehre/2025SoSe_Seminar-Philosophinnen-im-Exil-III) bei mir eingereicht werden.
 
 Weitere Formalia:
 
@@ -153,9 +153,9 @@ Eine gute (oder bessere) Arbeit
 * Nennt und verarbeitet Quellen, die über die Seminarliteratur hinausgehen
 * Integriert sich nahtlos in das existierende LiaScript-Material für die Sitzung
 
-Das LiaScript-Material findet ihr in diesem GitHub-Repository: https://github.com/ggb/Seminar-Philosophinnen-im-Exil
+Das LiaScript-Material findet ihr in diesem GitHub-Repository: https://github.com/DH-Lehre/2025SoSe_Seminar-Philosophinnen-im-Exil-III
 
-Um das Material zu erweitern, könnt ihr das Repo forken und entsprechend [dieses Workflows](https://github.com/ggb/Seminar-Philosophinnen-im-Exil) eine Pull Request stellen.
+Um das Material zu erweitern, könnt ihr das Repo forken und entsprechend [dieses Workflows](https://github.com/DH-Lehre/2025SoSe_Seminar-Philosophinnen-im-Exil-III) eine Pull Request stellen.
 
 #### Hinweise zur Peer Review (für Informatiker_innen)
 
