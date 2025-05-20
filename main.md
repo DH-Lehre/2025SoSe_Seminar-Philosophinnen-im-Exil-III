@@ -701,3 +701,33 @@ Innerhalb der `<fileDesc>` stehen verpflichtend:
 
 Wie für die meisten Dinge zu Beginn einer Publikation, ist es ratsam, diese Informationen erst am Ende des Prozesses einzutragen und zu Beginn lediglich Platzhalter zu schreiben.
 
+
+### Paläographie Grundlagen
+
+>Paläografie oder Paläographie (von altgriechisch παλαιός palaiós, deutsch ‚alt‘, und -grafie) ist die Lehre von alten Schriften. Sie ist eine Hilfswissenschaft der Geschichte und auch Teilgebiet der Papyrologie. Handgeschriebene Schriften der Frühen Neuzeit und der neueren Zeit fallen in das Fachgebiet der Archivkunde, gedruckte Schriften in das der Paläotypie bzw. der Typografie. [Wikipedia](https://de.wikipedia.org/wiki/Paläografie)
+
+#### Digitale Schriftkunde
+
+**Der Entzifferungsmodus**
+
+Die Übertragung ist in diesem Modus strikt buchstabengetreu, um die Entzifferung Stück für Stück selbst üben und nachvollziehen zu können. Groß- und Kleinschreibung sind strikt vorlagengetreu übernommen, ebenso die Zeichensetzung. Was vom Schreiber abgekürzt wurde, ist immer durch runde Klammern gekennzeichnet. Im Entzifferungsmodus steht Ihnen zusätzlich die Funktion "Text-Bild-Verknüpfung" zur Verfügung: Wenn Sie sie zuschalten, erscheint ein Rahmen, den Sie zeilenweise über die Vorlage verschieben können. Die zugehörige Passage der Entzifferung wird entsprechend farbig hervorgehoben, so dass Sie sich leicht in der Vorlage orientieren und sie sich Stück für Stück erarbeiten können.
+
+
+**Der Transkriptionsmodus**
+
+Im Transkriptionsmodus bietet wir Ihnen einen weitgehend originalgetreuen, aber behutsam nach modernen Lesegewohnheiten normalisierten Quellentext, wie er etwa in historischen Editionen üblich ist: Für Quellentexte vor 1800 wird außer an Satzanfängen und für Orts- und Personennamen immer klein geschrieben, eindeutige Abkürzungen sind ohne Kennzeichnung aufgelöst, Satzzeichen werden sinngemäß gesetzt. In lateinischen Texten ist die Verwendung von u und v normalisiert, ebenso in deutschen Texten nach 1450: uia wird transkribiert als "via", vrbs als "urbs", aus vnd allem andern geuolgen wird "und allem andern gevolgen". Angewandt wurden hier die jeweiligen Transkriptionsregeln, die auch für den Unterricht und die Prüfungen in der Bayerischen Archivschule gültig sind.
+
+[Digitale Schriftkunde](https://www.gda.bayern.de/DigitaleSchriftkunde/about.html)
+
+[Erstes Beispiel](https://www.gda.bayern.de/DigitaleSchriftkunde/1942_BayHStA_SdA-Heimatberichte_1283.html#_a__b__c_8.9.11.12.13.14.15.16.17.18.19_d__e_)
+
+[Zweites Beispiel](https://www.gda.bayern.de/DigitaleSchriftkunde/1926_StACo_Nachlass-Krieg_15.html#_a__b__c_8.9.11.12.13.14.15.16.17.18.19_d__e_)
+
+
+Wir arbeiten also mit einem Dreischritt: Entziffern, Transkribieren, Auszeichnen
+
+
+#### Briefe aus dem Bing und Labowsky
+
+
+
