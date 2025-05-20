@@ -56,10 +56,10 @@ Das Seminar ist teil eines zweijährigen Lehrprojektes schließt an die Veransta
 | 15.04. | Begrüßung, Einführung in das Thema, Überblick über das Semester | - | 
 | 22.04. | **I. Philosophiegeschichte.** Judith N. Shklar "Exil, Loyalität, Verpflichtung" | Mika |
 | 29.04. | Universität und Philosophie in Deutschland 1920/1930 | Senanur |
-| 06.05. | (Digitales Edieren) Einführung Editionsbegriff, Einführung in XML und Annotieren mit TEI XML | Peer |
+| 06.05. | (Digitales Edieren) Daten, Datenmodelle und -typen, Autoritäten und Vokabulare  | Peer |
 | 13.05. | (REFERAT) Sozialgeschichte der Philosophie (bspw. Bourdieu)  | Ahad  |
-| 20.05. | (REFERAT) Der "Warburg-Kreis": Aby Warburg, Ernst Cassirer, Lotte Labowsky, Getrud Bing | Michel |
-| 27.05. | **II. Digitales Edieren.** Digitale Edition, Beispiele und Entwicklung von Forschungsfragen, Wdh. XML | Rimsha  |
+| 20.05. | **II. Digitales Edieren.** Einführung in XML und Annotieren mit TEI XML, Beispiele und Entwicklung von Forschungsfragen | Michel |
+| 27.05. | (REFERAT) Der "Warburg-Kreis": Aby Warburg, Ernst Cassirer, Lotte Labowsky, Getrud Bing | Rimsha  |
 | 03.06. | OCR, (semi-)automatische Transkription m. Transkribus und Tesseract | Levan  |
 | 10.06. | Auswertungs- und Visualisierungsmöglichkeiten: zeitliche Verläufe, Geo-Daten (GIS), Netzwerkanalysen | Max |
 | 17.06. | **III. Praxisteil / Projektphase.** Recherchemethoden und Quellen |   |
