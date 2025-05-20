@@ -58,9 +58,9 @@ Das Seminar ist teil eines zweijährigen Lehrprojektes schließt an die Veransta
 | 29.04. | Universität und Philosophie in Deutschland 1920/1930 | Senanur |
 | 06.05. | (Digitales Edieren) Daten, Datenmodelle und -typen, Autoritäten und Vokabulare  | Peer |
 | 13.05. | (REFERAT) Sozialgeschichte der Philosophie (bspw. Bourdieu)  | Ahad  |
-| 20.05. | **II. Digitales Edieren.** Einführung in XML und Annotieren mit TEI XML, Beispiele und Entwicklung von Forschungsfragen | Michel |
+| 20.05. | **II. Digitales Edieren.** Einführung in XML und Annotieren mit TEI XML; Transkribieren von Hand | Michel |
 | 27.05. | (REFERAT) Der "Warburg-Kreis": Aby Warburg, Ernst Cassirer, Lotte Labowsky, Getrud Bing | Rimsha  |
-| 03.06. | OCR, (semi-)automatische Transkription m. Transkribus und Tesseract | Levan  |
+| 03.06. | OCR, (semi-)automatische Transkription m. Transkribus und Tesseract; Beispiele und Entwicklung von Forschungsfragen | Levan  |
 | 10.06. | Auswertungs- und Visualisierungsmöglichkeiten: zeitliche Verläufe, Geo-Daten (GIS), Netzwerkanalysen | Max |
 | 17.06. | **III. Praxisteil / Projektphase.** Recherchemethoden und Quellen |   |
 | 24.06. | (REFERAT) FAIR-Prinzipien und Forschungsdatenmanagment |   |
