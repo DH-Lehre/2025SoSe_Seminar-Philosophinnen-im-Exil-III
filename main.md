@@ -380,7 +380,41 @@ Lest zur folgenden Sitzung (im OLAT Materialverzeichnis zu finden):
 
 #### Beispiel 3
 
-![Undn noch ein Brief von Lotte Labowsky](img/letter_lotte.png)
+![Und noch ein Brief von Lotte Labowsky](img/letter_lotte.png)
+
+### Datenmodell für Briefe
+
+| Feld | Beschreibung | Datentyp / Standard \*\*|
+| --- | --- | --- |
+| **Datum** | Datum des Briefs (ohne Uhrzeit) | [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) - `YYYY-MM-DD`, z.B. 2025-05-06 |
+| **Ort(e)** | Ort des Absenders/Empfängers, ggf. weitere Orte im Text | [GeoNames](https://www.geonames.org/)-ID, z.B. [2891122](https://www.geonames.org/2891122/kiel.html) für Kiel |
+| **Brief-ID** | Interne eindeutige Identifier | Integer oder UUID |
+| **Autor/in** | Autor/in des Briefs | - [Deutsche Nationalbibliothek (DNB)](https://portal.dnb.de/opac/showShortList), z.B. [116183853](https://d-nb.info/gnd/116183853) für `Gertrud Bing` <br> - ggf. weniger zuverlässig: [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)|
+| **Empfänger/in** | Empfänger/in des Briefs | s.o. |
+| **Enthaltene Personen** | Erwähnte Personen im Brief | s.o. |
+| **Sprache** | Sprache des Briefs | - [ISO 639](https://www.iso.org/iso-639-language-code), z.B. [deu](https://iso639-3.sil.org/code/deu) für Deutsch nach [639-3](https://iso639-3.sil.org/code_tables/639/data) <br> - [BCP 47](https://www.rfc-editor.org/info/bcp47) |
+| **Art des Briefs** | z.B. persönlicher Brief, diplomatisch, offizieller Brief | [Getty AAT](https://www.getty.edu/research/tools/vocabularies/aat/), z.B. [300026816](https://www.getty.edu/vow/AATFullDisplay?find=letter&logic=AND&note=&subjectid=300026816) für eine Postkarte |
+| **Text** | Volltext des Briefes | Freitextfeld, ggf. geeignetes Bildformat |
+| **Tags / Schlagwörter** | Inhaltliche Klassifikation, Themenfelder, bspw. verwendbar, um verschiedene Briefe zu einem Themenfeld gruppieren zu können |  - [Getty AAT](https://www.getty.edu/research/tools/vocabularies/aat/) <br> - [Deutsche Nationalbibliothek (DNB)](https://portal.dnb.de/opac/showShortList) <br> - ggf. weniger zuverlässig: [Wikidata Topics](https://www.wikidata.org/wiki/Wikidata:Main_Page) |
+| **Briefkopf / Institution**<br>(optional) | Kontext: z. B. Universitäten, Kanzleien, Organisationen | [ROR](https://ror.org/) (Research Organization Registry) **\*** |
+| **Handschriftlich**<br>(optional) | Ob der Brief handgeschrieben ist | Boolean (`true/false`) |
+
+Eines der Ziele dieses Datenmodels ist es, sowohl die eigene Arbeit, als auch die wissenschaftliche Zusammenarbeit mit anderen zu vereinfachen. Dazu ist es empfehlenswert, öffentlich zugängliche und anerkannte Standards zu verwenden (wie hier in der dritten Spalte angegeben, insoweit ein Standard vorhanden ist). Diese Standards funktionieren in der Regel so, dass ein Datensatz, bspw. die Person `Gertrud Bing`, als ID dargestellt werden kann und weitere Informationen zu diesem Datensatz von uns dann gar nicht mehr explizit gespeichert werden müssen. Anhand der ID können Informationen zu diesem Datensatz abgerufen werden.
+
+Es kann dabei vom gewünschten oder notwendigen Detail der eigenen Arbeit abhängig sein, welcher Standard sich eignet, bzw. welche Version dieses Standards verwendet werden sollte und auch, welche Felder im Datensatz tatsächlich benötigt werden.
+
+So bietet der [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)-Standard beispielsweise die Möglichkeit, die genaue Uhrzeit mit einzuschließen; bei der Betrachtung von Briefen reicht es uns in diesem Fall aber, das Datum alleine zu verwenden.
+
+Auch bei der [ISO 639]() gibt es verschiedene Versionen, von denen bspw. Version [639-3](https://iso639-3.sil.org/code_tables/639/data) eine Unterscheidung vieler verschiedener Sprachen anstrebt und ermöglicht, Version [639-1](http://www.infoterm.info/standardization/iso_639_1_2002.php) sich im Wesentlichen auf weit verbreitete Sprachen konzentriert, und Version [639-5](https://www.loc.gov/standards/iso639-5/langhome5.html) ihren Fokus auf die Darstellung von Sprachfamilien und -gruppen richtet.
+Außerdem gibt es mit [BCP 47](https://www.rfc-editor.org/info/bcp47) auch die Möglichkeit, den Ort der gesprochenen Sprache miteinzubeziehen, so steht `de_DE` zum Beispiel für das Deutsch, welches in Deutschland gesprochen wird.
+
+Für das Textfeld muss die Möglichkeit geboten werden, sowohl Freitext, als auch ein Bild einer Originalquelle als Datenformat zu akzeptieren. Auch kann es sinnvoll sein, dieses Feld in zwei Felder aufzuteilen und sowohl ein Bild der Originalquelle, als auch eine digitalisierte Version des Textes abzuspeichern, je nach Natur der eigenen Arbeit.
+
+Ähnlich der Unterteilung der personenbezogenen Daten in drei Felder wäre es auch denkbar, verschiedene Felder für Orte zu nutzen, falls differenziert zwischen Quell- und Zielort unterscheiden werden soll. 
+
+**\*** Das Datenfeld des Briefkopfes / der Institution kann nicht komplett durch die ROR abgedeckt werden, da es natürlich viele Institutionen gibt, die nicht wissenschaftlich arbeiten und entsprechend auch nicht in der ROR gespeichert sind. 
+
+**\*\*** Es gibt natürlich weitere Standards, welche hier der Übersichtlichkeit halber nicht aufgeführt sind, deren Nutzung auch sinnvoll sein kann.
 
 ### Zur nächsten Sitzung
 
