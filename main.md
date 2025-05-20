@@ -422,7 +422,11 @@ Lest zur folgenden Sitzung (im OLAT-Verzeichnis):
 
 * Bourdieu, P. (2023). Die feinen Unterschiede (B. Schwibs & A. Russer, Eds.; No. 658; 29. Auflage). Suhrkamp. S. 17 - 27 und S. 104 - 115
 
-## In irgendeiner späteren Sitzung... 
+## Sitzung am 13.05.
+
+Bourdieu-Referat und Besprechung
+
+## Sitzung am 20.05. 
 
 ### XML-Grundlagen
 
