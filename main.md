@@ -62,7 +62,7 @@ Das Seminar ist teil eines zweijährigen Lehrprojektes schließt an die Veransta
 | 27.05. | (REFERAT) Der "Warburg-Kreis": Aby Warburg, Ernst Cassirer, Lotte Labowsky, Getrud Bing | Rimsha  |
 | 03.06. | OCR, (semi-)automatische Transkription m. Transkribus und Tesseract; Beispiele und Entwicklung von Forschungsfragen | Levan  |
 | 10.06. | Auswertungs- und Visualisierungsmöglichkeiten: zeitliche Verläufe, Geo-Daten (GIS), Netzwerkanalysen | Max |
-| 17.06. | **III. Praxisteil / Projektphase.** Recherchemethoden und Quellen |   |
+| 17.06. | **III. Praxisteil / Projektphase.** Recherchemethoden und Quellen | Robert  |
 | 24.06. | (REFERAT) FAIR-Prinzipien und Forschungsdatenmanagment |   |
 | 01.07. | (REFERAT) Arbeitssitzung |   |
 | 08.07. | *Doppelsitzung:* Abschlusspräsentation | - |
@@ -730,4 +730,8 @@ Wir arbeiten also mit einem Dreischritt: Entziffern, Transkribieren, Auszeichnen
 #### Briefe aus dem Bing und Labowsky
 
 
+### Zur nächsten Sitzung
 
+Lest zur folgenden Sitzung (im OLAT-Verzeichnis): 
+
+* Cassirer, E. (1942). Der Gegenstand der Kulturwissenschaft. In: Ders. Logik der Kulturwissenschaften, S. 3 -- 36
