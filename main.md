@@ -735,3 +735,6 @@ Wir arbeiten also mit einem Dreischritt: Entziffern, Transkribieren, Auszeichnen
 Lest zur folgenden Sitzung (im OLAT-Verzeichnis): 
 
 * Cassirer, E. (1942). Der Gegenstand der Kulturwissenschaft. In: Ders. Logik der Kulturwissenschaften, S. 3 -- 36
+
+## Sitzung am 27.05.
+
