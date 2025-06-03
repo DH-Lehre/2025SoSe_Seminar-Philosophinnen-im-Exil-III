@@ -740,5 +740,113 @@ Lest zur folgenden Sitzung (im OLAT-Verzeichnis):
 
 ## Sitzung am 03.06.
 
-Test
+### Referat: Zusammenhang von Philosophie und Kulturwissenschaft
+
+**Kulturwissenschaftliche Bibliothek Warburg (KBW)**
+Wurde aufgrund NS nach London verlegt -> angliederung an Uni London
+- Bietet Inderdisziplinare Ausrichtung möglichkeiten
+- Inderdispziplinare Verbindungen herstellen (vorreiter für diese)
+
+**Warburg**
+-Gründer 
+-seine philosophie -> kulturwissenschaft
+-kritisiert deutung von Kultur
+-versucht kultur in wissenschaft einzubringen
+Beispiel Kunstanalyse:
+- kulturelle tiefe einbringen
+- wie sind bilder zu verstehen? Warum lassen bilder uns fühlen? -> Pathosformel
+- Warum? und nicht das Wie? Warum lösen Symboliken in Bildern bestimmte Emotionen aus? -> 
+- -> Mnemosyne Atlas Tafel 42 vergleicht wissenschaftlich Symboliken verschiedener Bilder
+- interessiert sich nicht für natur sondern Kultur dahinter
+
+
+**Ernst Cassirer**
+- Philiosoph mit verbindung zur KBW
+- > trägt zu inderdisziplinarer methodik der uni hamburg bei
+- Flüchtete aufgrund NS nach Amerika
+- interdisplinar zwischen philo und kulturwissenschaft
+- Wahrheitsgehalt wichtiger als Symbolik
+
+**Philosophie der Symbolischen Formen**
+- Philosophie beginnt mit dem staunen
+- "Sitten" geben struktur des weltverstehens des menschen vor -> wichtiger als wahrheit
+- verständnis des menschen ist symbolisch zB Christkreuz, Herz -> lieber Mensch
+   - bildet nicht realität ab -> mensch erschließt sich durch symbolik eine eigene welt
+   - verschiedene wissenschaftler würden kurven verschieden interpretieren
+- Symbolische formen als lösung für subjecktive wahrheiten -> sinn und zusammenhang und wahrheit möglich machen (?)
+- philosophische defintion "kosmos" -> verschiedene menschen die sich auf "gemeinsame Welt"(wie oben definiert) beziehen und dnekend an ihr teilhaben -> nicht auf Naturwissenschaften bechrönken
+- Kritik an trennung von fakten und theorie -> empirie und theorie hängen zusammen -> theorie lenkt -> teil des selben prozesses
+- es gibt keine wahrheiten in der welt, die nicht mit kultur des menschen interagiert (?) -> regeln und strukturen zum verstehen dieser wahrheiten
+- philosophie der symbolischen formen:
+   - (übersprungen)
+   - symbolischen formen der Kunst:
+      - Grafik: Nachahmung -> Manier -> Stil
+      - lässt sich auch auf wirklichkeit anwenden
+- Zusammenfassung:
+   - Waburg kreis
+      - gruppe vopn denkern die symbolische deutung von kultur versuchen
+   - NS regime missbraucht dieses theorie der symbolik (runenalphabet gehört nicht zur arischen rasse, steht nicht für Überlegenheit)
+      - Kultur führt zu machtmissbrauch
+   
+**Diskussion**
+
+- erschweren verschiedene Kulturwissenschaften nicht erlangen von wissen/wahrheit?
+   -  wenn zu viele disziplinen aufeinander treffen -> zusammenarbeit wird erschwert beispiel: was ist das Herz? -> verschieden interpretierbar 
+   - einwand -> viele verschiedene disziplinen ermöglichen tieferes wissen in subdisziplinen
+   - kulturwissenschaften verändern weg zur "wahrheit" -> laut cassierer kann diese interdisziplinärität zielführend sein
+
+### Digitale Transkription
+
+- Briefe in bearbeitbare formen bringen
+- durch digitale methoden vereinfachen von transkription
+
+**Transkribus**
+[transkribus](www.transkibus.org)
+- Online tool, welches handgeschriebene Dokument transkribiert
+- struktur bleibt erhalten
+   - versucht textblöcke zu identifizieren (überschrift, datum, absätze)
+   - strukturelle informationen bleiben erhalten
+- (hier workflow einfügen)
+- brief als bilddatei oder pdf wird eingefügt
+   - bildqualität wichtig
+   - inakkurate vorschau nicht ausschlagebend
+-(hier liascript kurs einfügen)
+- collection anlegen mit dokumenten mit welchen man arbeitet
+   -brief hochladen
+   - dokument wird mit seinen einzelnen seiten anelegt
+   - seite auswählen
+   - process with ai auswählen und transktiption starten (geht auch für ganze dokumente und ganze collections)
+      - "text" auswählen
+      - sprache (des dokumentes) und model auswählen
+         - modelle sind handschriftenmustersysteme
+         - unterscheiden zwischen handgeschrieben und computergeschrieben
+         - supermodelle sind relevant
+         - modelle kann man auch selber trainieren
+            - text von einem bestimmten autoren annotieren
+            - eigenes modell auf diesen trainieren
+      - start recognition
+      - korrekturen müssen vorgenommen werden
+- Korrektren machen:
+   - Ändern von zeilem
+   - text ist in vorschau rechts direkt bearbeitbar
+   - manchmal fehlen zeilen:
+      - zeilen hinzufügen mit tool auf bilddatei, dann im text rechts
+   - restliche bedinung intuitiv
+
+**Alternativen**
+
+**Tesseract: OCR**
+- open source tool für bilderkennung
+- texte vorher "aufräumen"
+- keine gute alternative da bilder sehr vorbereitet werden müssen
+
+**OpenAI GPT 4o**
+-  durch API lokal bilder transkribieren
+- funktioniert gut -> gpt 4o selbstsicher selbst bei fehlern
+- struktur geht verloren
+- aufrund datenschutz und fehlender publikationsrechte nicht erwünscht
+
+
+
+
 
