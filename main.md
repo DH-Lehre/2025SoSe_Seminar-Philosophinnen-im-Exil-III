@@ -743,74 +743,65 @@ Lest zur folgenden Sitzung (im OLAT-Verzeichnis):
 ### Referat: Zusammenhang von Philosophie und Kulturwissenschaft
 
 **Kulturwissenschaftliche Bibliothek Warburg (KBW)**
-Wurde aufgrund NS nach London verlegt -> angliederung an Uni London
-- Bietet Inderdisziplinare Ausrichtung möglichkeiten
-- Inderdispziplinare Verbindungen herstellen (vorreiter für diese)
 
-**Warburg**
--Gründer 
--seine philosophie -> kulturwissenschaft
--kritisiert deutung von Kultur
--versucht kultur in wissenschaft einzubringen
-Beispiel Kunstanalyse:
-- kulturelle tiefe einbringen
-- wie sind bilder zu verstehen? Warum lassen bilder uns fühlen? -> Pathosformel
-- Warum? und nicht das Wie? Warum lösen Symboliken in Bildern bestimmte Emotionen aus? -> 
-- -> Mnemosyne Atlas Tafel 42 vergleicht wissenschaftlich Symboliken verschiedener Bilder
-- interessiert sich nicht für natur sondern Kultur dahinter
+Die KBW wurde von Aby Warburg in Hamburg gegründet und in den Jahren 1925-1926 erbaut, musste allerdings aufgrund der Machtübernahme der Nazis, im Jahre 1933 nach London verlegt werden. Dort wurde es an die University of London angegliediert und war fortan als Warburg Institute bekannt.
+Ziel der KBW war es Verbindung zwischen verschiedenen wissenschaftlichen Disziplinen herzustellen und interdisziplinarische Austauschmöglichkeiten für Forschende anzubieten.
 
+**Aby Warburg**
+Aby Warburg war deutscher Kunsthistoriker und Kulturwissenschafter, welcher rein formalistische Kunstbetrachtung kritisierte. Im Rahmen dessen versuchte er Kulturwissenschaftliche Ansätze in die Kunstgeschichte einzubringen. Er fragte: Warum löst ein Bild bestimmte Gefühle aus? und nicht: Wie löst es diese aus? Als Antowort darauf prägte er den Begriff der Pathosformel. Diese besagt, dass emotionale Ausdrücke als Kulturelle Muster dargestellt werden. Als Beispiel wird das Gemälde "Die Freiheit führt das Volk" von Eugène Delacroix (1830) genannt, in welchem die abgebildete Marianne die, zu dem Zeitpunkt verbotene, Flagge Tricolore emporhebt um somit Freiheit zu symbolisieren.
+Aby Warburg äußert außerdem ein Interesse an der Wirkungsgeschichte von Bildern und Symbolen. Er verfasst den Mnemosyne-Atlas, welcher auf Tafel 42 wissenschaftliche Symboliken über verschiedene Epochen hinweg vergleicht.
 
 **Ernst Cassirer**
-- Philiosoph mit verbindung zur KBW
-- > trägt zu inderdisziplinarer methodik der uni hamburg bei
-- Flüchtete aufgrund NS nach Amerika
-- interdisplinar zwischen philo und kulturwissenschaft
-- Wahrheitsgehalt wichtiger als Symbolik
+Cassirer war ein deutscher Philosoph, welcher enge Verbindungen zur KBW pflegte.
+Er trug maßgebend zur interdisziplinären Ausrichtung der Universität Hamburg bei, bevor er Aufgrund der NS-Verfolgung in die Vereinigten Staaten flüchten musste. Sein Fokus galt hierbei der Interdisziplinaren Verbindung zwischen der Philosophie und Kulturwissenschaft.
+Er bezeichnet den Menschen als "animal symbolicum", ein Wesen welches symbolisch handelt und sich die Welt durch Symbole erschließt. Zum Beispiel steht ein Herz für Liebe und ein Kreuz für Glauben. Im Gegensatz zu Aby Warburg, ist ihm der Wahrheitsgehalt eines Bildes wichtiger, als die Wirkung.
 
 **Philosophie der Symbolischen Formen**
-- Philosophie beginnt mit dem staunen
-- "Sitten" geben struktur des weltverstehens des menschen vor -> wichtiger als wahrheit
-- verständnis des menschen ist symbolisch zB Christkreuz, Herz -> lieber Mensch
-   - bildet nicht realität ab -> mensch erschließt sich durch symbolik eine eigene welt
-   - verschiedene wissenschaftler würden kurven verschieden interpretieren
-- Symbolische formen als lösung für subjecktive wahrheiten -> sinn und zusammenhang und wahrheit möglich machen (?)
-- philosophische defintion "kosmos" -> verschiedene menschen die sich auf "gemeinsame Welt"(wie oben definiert) beziehen und dnekend an ihr teilhaben -> nicht auf Naturwissenschaften bechrönken
-- Kritik an trennung von fakten und theorie -> empirie und theorie hängen zusammen -> theorie lenkt -> teil des selben prozesses
-- es gibt keine wahrheiten in der welt, die nicht mit kultur des menschen interagiert (?) -> regeln und strukturen zum verstehen dieser wahrheiten
-- philosophie der symbolischen formen:
-   - (übersprungen)
-   - symbolischen formen der Kunst:
-      - Grafik: Nachahmung -> Manier -> Stil
-      - lässt sich auch auf wirklichkeit anwenden
-- Zusammenfassung:
-   - Waburg kreis
-      - gruppe vopn denkern die symbolische deutung von kultur versuchen
-   - NS regime missbraucht dieses theorie der symbolik (runenalphabet gehört nicht zur arischen rasse, steht nicht für Überlegenheit)
-      - Kultur führt zu machtmissbrauch
+***Grundidee***
+Die Philosophie beginnt mit dem Staunen über Geschehen auf dieser Welt. Außerdem geben Sitten und Symbolsysteme dem Menschen Struktur für das Weltverständnis. Diese sind wichtiger als objektive Wahrheiten.
+***Symbolische Formen***
+Das Symbolische erschließen der Welt durch den Menschen bildet hierbei nicht die Realität ab, der Mensch erschließt durch symbolik eine "eigene Welt". Zum Beispiel würde eine Menge von Wissenschaftlern verschiedener Disziplinen eine Kurve unterschiedlich beschreiben. Daher erfolgt keine rein objektive Interpretation.
+***Thesen***
+Es gibt laut Cassirer keine Wahrheit ohne Kultur. Reine Objektive Fakten existieren nicht, sondern alle Wahrheiten sind Kulturell vermittelt.
+Außerdem kritisiert Cassirer Versuche die Theorie und Empirie zu trennen. Die Theorie lenkt nämlich was und wie wir etwas beobachten. Sowohl Theorie und Empirie sind Teil des selben erkenntnistheorischen Prozesses.
+Desweiteren beschreibt Cassirer den "Kosmos" des Menschen. Dieser ist eine, auf die gleiche Interpretation von Symbolen basierte, gemeinsame Welt an der verschiedene Menschen denkend teilhaben und dies beschränkt sich nicht nur auf Naturwissenschaften.
+***Symbolische Formen in der Kunst***
+Grafik: Nachahmung -> Manier -> Stil (Einfügen)
+Dieser Prozess lässt sich auf kulturelle Entwicklungen anwenden (Beispiel: Sprache, Religion, Wissenschaft)
+***Zusammenhang mit dem Warburg-Kreis***
+Der Warburg Kreis war eine Gruppe von Denkern, welche sich mit der symbolischen Deutung von Kultur befassten. Sie Fokussierten sich auf die Wirkung von Bildern und Symbolen, sowohl historisch als auch emotional. Desweiteren untersuchten sie welche kulturellen Muster unser Denken prägen.
+***Missbrauch durch die Nationalsozialisten***
+Die Theorie der kulturellen Symbolik wurde durch das NS-Regime missbraucht, zum Beispiel durch das Runenalphabet und andere "arische Symbolik". Dieser Missbrauch wurde von Cassirer kritisiert (Warburg war zu der Zeit bereits verstorben); Symbolische Formen sind nämlich kulturelle Konstrukte und keine biologischen oder rassischen Wahrheiten.
+
    
 **Diskussion**
 
-- erschweren verschiedene Kulturwissenschaften nicht erlangen von wissen/wahrheit?
-   -  wenn zu viele disziplinen aufeinander treffen -> zusammenarbeit wird erschwert beispiel: was ist das Herz? -> verschieden interpretierbar 
-   - einwand -> viele verschiedene disziplinen ermöglichen tieferes wissen in subdisziplinen
-   - kulturwissenschaften verändern weg zur "wahrheit" -> laut cassierer kann diese interdisziplinärität zielführend sein
+Erschweren verschiedene Kulturwissenschaften nicht das Erlangen von Wissen bzw. Wahrheit?
+   Pro: Wenn zu viele Disziplinen aufeinander treffen, kann die            Zusammenarbeit erschwert werden.
+      - Beispiel: "Herz" kann sowohl biologisch, emotional, religiös oder künstlerisch interpretiert werden.
+   Contra: Interdisziplität ermöglicht tieferes Wissen in Subdisziplinen.
+      - Laut Cassirer verändern Kulturwissenschaften den Weg zur "Wahrheit", dies kann dennoch zielführend sein.
+
 
 ### Digitale Transkription
-
-- Briefe in bearbeitbare formen bringen
-- durch digitale methoden vereinfachen von transkription
+Ziel der Digitalen Transkription ist es, Briefe in bearbeitbare Formen zu bringen. Durch digitale Methoden soll die Transkription vereinfacht werden.
 
 **Transkribus**
 [transkribus](www.transkibus.org)
-- Online tool, welches handgeschriebene Dokument transkribiert
-- struktur bleibt erhalten
-   - versucht textblöcke zu identifizieren (überschrift, datum, absätze)
-   - strukturelle informationen bleiben erhalten
-- (hier workflow einfügen)
+Transkribus ist ein Online-Tool, welches handgeschriebene Dokumente transkribiert. Die Struktur dieser bleibt hierbei erhalten.
+Transkribus versucht Textblöcke, wie Überschrift, Datum, Adresszeilen und Absätze zu identifizieren, strukturelle informationen bleiben also erhalten.
+***Workflow***
+(hier liascript kurs einfügen)
+
+1. Brief als Bilddatei oder PDF einfügen (Bildqualität wichtig)
+2. Colleciton mit Dokumenten anlegen
+3. Brief hochladen
+4. Dokument wird mit einzelnen Seiten angelegt
+5. Seite auswählen, "Process with AI" klicken und Transkription starten (geht auch für ganze Dokumente/Collections)
+
 - brief als bilddatei oder pdf wird eingefügt
    - bildqualität wichtig
    - inakkurate vorschau nicht ausschlagebend
--(hier liascript kurs einfügen)
 - collection anlegen mit dokumenten mit welchen man arbeitet
    -brief hochladen
    - dokument wird mit seinen einzelnen seiten anelegt
@@ -832,19 +823,16 @@ Beispiel Kunstanalyse:
    - manchmal fehlen zeilen:
       - zeilen hinzufügen mit tool auf bilddatei, dann im text rechts
    - restliche bedinung intuitiv
+   - pre-processing informioeren (todo nächjste woche)
 
 **Alternativen**
 
 **Tesseract: OCR**
-- open source tool für bilderkennung
-- texte vorher "aufräumen"
-- keine gute alternative da bilder sehr vorbereitet werden müssen
+Tesseract ist ein Open-Source-Tool für Bilderkennung, allerdings ist hierfür "preprocessing" der Texte notwendig, daher für unsere Arbeit irrelevant und keine gute Alternative.
 
 **OpenAI GPT 4o**
--  durch API lokal bilder transkribieren
-- funktioniert gut -> gpt 4o selbstsicher selbst bei fehlern
-- struktur geht verloren
-- aufrund datenschutz und fehlender publikationsrechte nicht erwünscht
+Durch die OpenAI API kann man Bilder lokal durch das Model GPT4o transkribieren lassen. Dies funktioniert soweit gut, allerdings ist sich das Model selbst bei Fehlern selbstsicher und die Struktur der Dokumente geht verloren, welche für unsere Arbeit allerdings interessant sind.
+Für die Briefe haben wir auch keine Publikationsrechte, weshalb die Arbeit mit GPT4o nicht erwünscht ist.
 
 
 
