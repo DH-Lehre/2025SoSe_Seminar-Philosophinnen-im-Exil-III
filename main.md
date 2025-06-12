@@ -748,6 +748,7 @@ Die KBW wurde von Aby Warburg in Hamburg gegründet und in den Jahren 1925-1926 
 
 Ziel der KBW war es Verbindung zwischen verschiedenen wissenschaftlichen Disziplinen herzustellen und interdisziplinäre Austauschmöglichkeiten für Forschende anzubieten.
 
+
 #### Aby Warburg
 
 Aby Warburg war deutscher Kunsthistoriker und Kulturwissenschaftler, welcher rein formalistische Kunstbetrachtung kritisierte. Im Rahmen dessen versuchte er Kulturwissenschaftliche Ansätze in die Kunstgeschichte einzubringen. 
@@ -755,11 +756,17 @@ Aby Warburg war deutscher Kunsthistoriker und Kulturwissenschaftler, welcher rei
 Er fragte: Warum löst ein Bild bestimmte Gefühle aus? Und nicht: Wie löst es diese aus? Als Antwort darauf prägte er den Begriff der **Pathosformel**.
 Diese besagt, dass emotionale Ausdrücke als kulturelle Muster dargestellt werden. 
 
-Als Beispiel wird das Gemälde "Die Freiheit führt das Volk" von Eugène Delacroix (1830) genannt, in welchem die abgebildete Marianne die, zu dem Zeitpunkt verbotene, Flagge Tricolore emporhebt, um somit Freiheit zu symbolisieren.![Die Freiheit führt das Volk](img/La_Liberté_guidant_le_peuple_-_Eugène_Delacroix_-_Musée_du_Louvre_Peintures_RF_129_-_après_restauration_2024.jpg)
+Als Beispiel wird das Gemälde "Die Freiheit führt das Volk" von Eugène Delacroix (1830) genannt, in welchem die abgebildete Marianne die, zu dem Zeitpunkt verbotene, Flagge Tricolore emporhebt, um somit Freiheit zu symbolisieren.
+
+![Die Freiheit führt das Volk](img/La_Liberté_guidant_le_peuple_-_Eugène_Delacroix_-_Musée_du_Louvre_Peintures_RF_129_-_après_restauration_2024.jpg)
 *Abbildung: Eugène Delacroix, Die Freiheit führt das Volk (1830)*
 
-Aby Warburg äußert außerdem ein Interesse an der Wirkungsgeschichte von Bildern und Symbolen. Er verfasst den **Mnemosyne-Atlas** (Warburg, 1924-1929), welcher auf Tafel 42 wissenschaftliche Symboliken über verschiedene Epochen hinweg vergleicht.![Tafel 42](img/atlas_42_nera_wb.jpg)
+
+Aby Warburg äußert außerdem ein Interesse an der Wirkungsgeschichte von Bildern und Symbolen. Er verfasst den **Mnemosyne-Atlas** (Warburg, 1924-1929), welcher auf Tafel 42 wissenschaftliche Symboliken über verschiedene Epochen hinweg vergleicht.
+
+![Tafel 42](img/atlas_42_nera_wb.jpg)
 *Abbildung: Aby Warburg, Tafel 42 aus dem Bilderatlas Mnemosyne (1924-1929)*
+
 
 #### Ernst Cassirer
 
@@ -771,17 +778,20 @@ Er bezeichnet den Menschen als **"animal symbolicum"**, ein Wesen, welches symbo
 
 Im Gegensatz zu Aby Warburg, ist ihm der Wahrheitsgehalt eines Bildes wichtiger, als die Wirkung.
 
+
 #### Philosophie der symbolischen Formen (Ernst Cassirer, 1923-1929)
 
 **Grundidee**
 
 Die Philosophie beginnt mit dem Staunen über Geschehen auf dieser Welt. Zudem geben Sitten und Symbolsysteme dem Menschen Struktur für das Weltverständnis. Diese sind wichtiger als objektive Wahrheiten.
 
+
 **Symbolische Formen**
 
 Das Symbolische erschließen der Welt durch den Menschen bildet hierbei nicht die Realität ab, der Mensch erschließt durch Symbolik eine "eigene Welt". 
 
 Zum Beispiel würde eine Menge von Wissenschaftlern verschiedener Disziplinen eine Kurve unterschiedlich beschreiben. Daher erfolgt keine rein objektive Interpretation.
+
 
 **Thesen**
 
@@ -793,16 +803,19 @@ Ebenso kritisiert Cassirer Versuche die Theorie und Empirie zu trennen. Die Theo
 
 Des Weiteren beschreibt Cassirer den **"Kosmos" des Menschen**. Dieser ist eine, auf die gleiche Interpretation von Symbolen basierte, gemeinsame Welt an der verschiedene Menschen denkend teilhaben und dies beschränkt sich nicht nur auf Naturwissenschaften.
 
+
 **Symbolische Formen in der Kunst**
 
 Nachahmung → Manier → Stil;
 Dieser Prozess lässt sich auf kulturelle Entwicklungen anwenden (Beispiel: Sprache, Religion, Wissenschaft)
+
 
 **Zusammenhang mit dem Warburg-Kreis**
 
 Der **Warburg Kreis** war eine Gruppe von Denkern, welche sich mit der symbolischen Deutung von Kultur befassten. Sie fokussierten sich auf die Wirkung von Bildern und Symbolen, sowohl historisch als auch emotional. 
 
 Außerdem untersuchten sie welche kulturellen Muster unser Denken prägen.
+
 
 **Missbrauch durch die Nationalsozialisten**
 
@@ -811,7 +824,7 @@ Die Theorie der kulturellen Symbolik wurde durch das NS-Regime missbraucht, zum 
    
 #### Diskussion
 
-##### Erschweren verschiedene Kulturwissenschaften nicht das Erlangen von Wissen bzw. Wahrheit?
+##### **Erschweren verschiedene Kulturwissenschaften nicht das Erlangen von Wissen bzw. Wahrheit?**
 
 **Pro: Wenn zu viele Disziplinen aufeinander treffen, kann die Zusammenarbeit erschwert werden.**
 
@@ -850,16 +863,22 @@ Transkribus versucht Textblöcke, wie Überschrift, Datum, Adresszeilen und Abs�
       - Text von bestimmten Autoren annotieren
       - Eigenes Modell darauf trainieren
 6. **"Start Recognition"** und anschließend im Editor öffnen
-7. Korrekturen im Editor vornehmen ![TranskribusEditor](img/transkribus_lorepipsum.png)
-Der Text ist in der Vorschau direkt bearbeitbar. 
-Manchmal fehlen ganze Zeilen, dann müssen diese Manuell eingefügt werden:
+7. Korrekturen im Editor vornehmen 
+   - Der Text ist in der Vorschau direkt bearbeitbar. 
+   - Manchmal fehlen ganze Zeilen, dann müssen diese Manuell eingefügt werden:
    - Mit Tool Zeile im Bild auswählen und anschließend im Text einfügen.
+   
 Die restliche Bedienung ist intuitiv.
+
+![TranskribusEditor](img/transkribus_lorepipsum.png)
+
+
 
 #### Alternativen
 
 ##### Tesseract: OCR
 Tesseract ist ein Open-Source-Tool für Bilderkennung, allerdings ist hierfür "preprocessing" der Texte notwendig, daher für unsere Arbeit irrelevant und keine gute Alternative.
+
 
 ##### OpenAI GPT 4o
 Durch die OpenAI API kann man Bilder lokal durch das Model GPT4o transkribieren lassen. Dies funktioniert soweit gut, allerdings ist sich das Model selbst bei Fehlern selbstsicher und die Struktur der Dokumente geht verloren, welche für unsere Arbeit allerdings interessant sind.
