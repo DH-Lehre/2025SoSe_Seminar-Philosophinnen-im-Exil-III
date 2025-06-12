@@ -831,7 +831,8 @@ Ziel der digitalen Transkription ist es, Briefe in bearbeitbare Formen zu bringe
 
 #### Transkribus
 
-[transkribus](https://app.transkribus.org/)
+[Transkribus Homepage](https://app.transkribus.org/)
+
 Transkribus ist ein Online-Tool, welches handgeschriebene Dokumente transkribiert. Die Struktur dieser bleibt hierbei erhalten.
 Transkribus versucht Textblöcke, wie Überschrift, Datum, Adresszeilen und Absätze zu identifizieren, strukturelle Informationen bleiben also erhalten.
 
