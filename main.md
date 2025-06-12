@@ -759,12 +759,14 @@ Diese besagt, dass emotionale Ausdrücke als kulturelle Muster dargestellt werde
 Als Beispiel wird das Gemälde "Die Freiheit führt das Volk" von Eugène Delacroix (1830) genannt, in welchem die abgebildete Marianne die, zu dem Zeitpunkt verbotene, Flagge Tricolore emporhebt, um somit Freiheit zu symbolisieren.
 
 ![Die Freiheit führt das Volk](img/La_Liberté_guidant_le_peuple_-_Eugène_Delacroix_-_Musée_du_Louvre_Peintures_RF_129_-_après_restauration_2024.jpg)
+
 *Abbildung: Eugène Delacroix, Die Freiheit führt das Volk (1830)*
 
 
 Aby Warburg äußert außerdem ein Interesse an der Wirkungsgeschichte von Bildern und Symbolen. Er verfasst den **Mnemosyne-Atlas** (Warburg, 1924-1929), welcher auf Tafel 42 wissenschaftliche Symboliken über verschiedene Epochen hinweg vergleicht.
 
 ![Tafel 42](img/atlas_42_nera_wb.jpg)
+
 *Abbildung: Aby Warburg, Tafel 42 aus dem Bilderatlas Mnemosyne (1924-1929)*
 
 
@@ -867,7 +869,7 @@ Transkribus versucht Textblöcke, wie Überschrift, Datum, Adresszeilen und Abs�
    - Der Text ist in der Vorschau direkt bearbeitbar. 
    - Manchmal fehlen ganze Zeilen, dann müssen diese Manuell eingefügt werden:
    - Mit Tool Zeile im Bild auswählen und anschließend im Text einfügen.
-   
+
 Die restliche Bedienung ist intuitiv.
 
 ![TranskribusEditor](img/transkribus_lorepipsum.png)
