@@ -6,6 +6,7 @@ version: 0.1
 language: en
 narrator: UK English Female
 
+
 -->
 
 # Philosophinnen im Exil III 
@@ -263,7 +264,13 @@ Lest den Text aufmerksam auf folgende Fragen hin:
 
 ## Sitzung am 22.04.
 
-### Judith Nisse Shklar
+Themen der Sitzung : 
+
+1. Lebenslauf Judith Nisse Shklar
+2. Philosophisches Denken/Form des Liberalismus
+3. Verpflichtung, Loyalität und Exil Definitionen
+
+### Lebenslauf: Judith Nisse Shklar
 
 ![Judith Shklar](img/Shklar.jpeg)
 
@@ -275,6 +282,7 @@ Lest den Text aufmerksam auf folgende Fragen hin:
 
 **Beruf:** Politikwissenschaftlerin und politische Theoretikerin  
 
+Judith Nisse Shklar wurde 1928 in Riga geboren und entstammte einer wohlhabenden jüdischen Familie. Aufgrund der 1939 mit dem Hitler-Stalin-Pakt eingehenden Bedrohung floh sie über Schweden und die Sowjetunion nach Japan und schließlich in die USA. Da sie zum Zeitpunkt ihrer Flucht noch keine akademische Arbeit betrieb, gilt sie nicht als exilierte Philosophin. Nachdem sie zunächst wegen eines fehlenden Visums in Internierungshaft genommen wurde, erhielt sie 1941 zusammen mit ihrer Familie ein Aufenthaltsvisum und reiste weiter nach Montreal, Kanada. Dort begann Shklar ihre akademische Laufbahn, machte 1944 ihren Schulabschluss und studierte im Anschluss 1945 politische Theorie an der McGill University. 1955 promovierte sie an der Harvard University mit ihrer Arbeit "After Utopia" und wurde 1957 als erste Frau der politischen Theorie Assistenzprofessorin in Harvard. Sie lehrte bis zu ihrem Tod 1992 an verschiedenen internationalen Universitäten sowie dauerhaft in Harvard.
 
 Judith Shklar gilt als eine der bedeutendsten liberalen Theoretikerinnen des 20. Jahrhunderts. Ihre Arbeiten haben bis heute Einfluss auf Debatten über politische Ethik, Machtbegrenzung und die Rolle von Freiheit in einer liberalen Gesellschaft.
 
@@ -293,7 +301,11 @@ Erste Frau auf einer Festanstellung im Fachbereich Politische Wissenschaften an 
 
 (Elaine Ringeloth, Fleming Jensen, SoSe 2024)
 
-#### Philosophisches Denken
+### Philosophisches Denken
+
+Shklars 1989 veröffentlichtes Werk The Liberalism of Fear ist die Verschriftlichung ihres Grundgedankens des Liberalismus. Für sie ist Liberalismus die Idee, dass der Staat bzw. die Rechte und Gesetze in erster Linie dafür da sind, die Bürger:innen vor der Willkür und der Grausamkeit anderer zu schützen. Ihr Begriff von Freiheit knüpft an Isaiah Berlins Werk "Zwei Konzepte der Freiheit" an, in welchem er Freiheit nach positiver und negativer Freiheit unterscheidet. Während die positive Freiheit die Freiheit darstellt, etwas zu tun, zeichnet sich die negative Freiheit als die Freiheit von etwas ab, z.B. die Freiheit von Zwang oder die Freiheit von willkürlicher Gewalt. Diese negative Freiheit ist das elementare Prinzip liberaler Freiheitsrechte aus Shklars Sicht.
+
+In ihren Werken Ordinary Vices und Faces of Injustice geht sie vertiefend auf Elemente negativer Freiheit ein. Aus dem Werk Faces of Injustice geht eine für die Deklarierung negativer Freiheit wichtige Unterscheidung zwischen Ungerechtigkeit und Unglück hervor. Während Ungerechtigkeit aus Shklars Sicht ein intentionales Handeln zum Schaden anderer ist, ist Unglück eine natürlich eintretende Katastrophe. Ihre Ausarbeitung dieser beiden Begriffe zeigt, dass eine Unterscheidung häufig kompliziert sein kann, da Unglück auch zum Teil auf politischem Handeln beruht. So ist zum Beispiel ein Verunglücken an einem Erdbeben auf den ersten Blick ein klarer Fall von Unglück. Dennoch könnte man sich auch in diesem Fall bei mangelhafter Infrastruktur auf eine Ungerechtigkeit berufen.
 
 **Wichtige Werke**:
 
@@ -301,7 +313,6 @@ Erste Frau auf einer Festanstellung im Fachbereich Politische Wissenschaften an 
 - *Ordinary Vices* (*Ganz normale Laster*, 1984)  
 - *The Liberalism of Fear* (*Der Liberalismus der Furcht*, 1989)  
 - *Faces of Injustice* (*Über Ungerechtigkeit*, 1990)
-
 
 **Der Liberalismus der Furcht (1989)**
 Dieser kurze Text ist ihr bekanntester und prägendster. Es formuliert eine liberale Theorie, die darauf abzielt, Grausamkeit und Machtmissbrauch zu verhindern. Shklar argumentiert, dass der Liberalismus vor allem die Freiheit sichern sollte, ohne Furcht Entscheidungen treffen zu können. Sie befürwortet eine konstitutionelle, repräsentative und menschenrechtlich-liberale Demokratie, die Macht begrenzt und verteilt.
@@ -323,8 +334,7 @@ Dieses frühe Werk kritisiert utopisches Denken in der politischen Theorie und p
 Ihre kritischen Texte über Hannah Arendt beleuchten Unterschiede in den Denkansätzen der beiden Philosophinnen, insbesondere in Bezug auf Exil, Freiheit und politische Romantik. Diese Essays sind besonders relevant für das Verständnis von Shklars Position im Vergleich zu anderen großen politischen Theoretikern[2].
 Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und politische Ethik und machen Judith Shklar zu einer der bedeutendsten Denkerinnen des 20. Jahrhunderts.
 
-#### Verpflichtung, Loyalität, Exil
-
+### Verpflichtung, Loyalität, Exil
 
 1. Warum spricht Shklar von Exil und nicht von Flucht oder Migration?
 2. In welchem Verhältnis stehen Verpflichtung und Loyalität zueinander? Was bedeuten die Begriffe bei Shklar?
@@ -332,6 +342,42 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 4. Warum muss Loyalität gebändigt werden und was ist Shklars Lösung dafür?
 
 >**Think. Pair. Share.** Jede Person geht 5 Minuten ihre Lektürenotizen durch. Danach besprecht Ihr Euch bitte zu zweit 10 Minuten lang über Eure Erkenntnisse und die Lektürefragen. Anschließend Diskussion im Plenum.
+
+Die Auseinandersetzung mit Shklars Werk ‚Verpflichtung, Loyalität und Exil‘, kann zu Unklarheiten in der Interpretation einzelner Aussagen führen. Wenn laut Shklar der Verrat des Staates am eigenen Volk eine Konsequenz des Brechens der Gesetze ist, die seine Bürger:innen zu schützen haben, dann wäre dies im Kontext des NS-Staates unzutreffend, da der Staat im Sinne neu entworfener Gesetze handelte. Wieso also ist der Verrat an den eigenen Bürger:innen dennoch gegeben? Da das Fundament des NS-Staates als Unrechtsregime durch Machtübernahme begonnen hatte und somit illegitim war, waren auch alle Gesetze, die auf diesem Fundament aufbauten, von vornherein illegitim und somit als Vertragsbruch den Bürger:innen gegenüber zu verstehen.
+
+
+#### 3.1 Fragen zum Textgeschehen
+
+Die Auseinandersetzung mit Shklars Werk ‚Verpflichtung, Loyalität und Exil‘, kann zu Unklarheiten in der Interpretation einzelner Aussagen führen. Wenn laut Shklar der Verrat des Staates am eigenen Volk eine Konsequenz des Brechens der Gesetze ist, die seine Bürger:innen zu schützen haben, dann wäre dies im Kontext des NS-Staates unzutreffend, da der Staat im Sinne neu entworfener Gesetze handelte. Wieso also ist der Verrat an den eigenen Bürger:innen dennoch gegeben? Da das Fundament des NS-Staates als Unrechtsregime durch Machtübernahme begonnen hatte und somit illegitim war, waren auch alle Gesetze, die auf diesem Fundament aufbauten, von vornherein illegitim und somit als Vertragsbruch den Bürger:innen gegenüber zu verstehen.
+
+#### 3.2.Warum Spricht Shklar von Exil und nicht von Flucht und Migration
+
+Judith N. Shklar stellt den Begriff Exil als sehr tiefgreifend dar. Während Flucht und Migration aus ihrer Sicht eher den physischen Prozess des Fortgehens beschreiben, ist mit dem Exil eine Entfremdung gemeint, die nicht nur räumlicher, sondern auch ideeller Natur ist. Das bedeutet auch, dass es Bürger:innen gibt, die sich in einem sogenannten "inneren Exil" befinden, also einem Exil, das kein Resultat des Flüchtens ist, sondern die Folge von Ostrazismus – die Folge von politischer und gesellschaftlicher Ausschließung der betroffenen Personen. Dieses innere Exil beschreibt einen Zustand der inneren Zerrissenheit und gilt im Kontrast zu Flucht und Migration als grundlegend längerwährend. Die Flucht oder die Migration endet mit einem meist physischen Ziel, während das Exil einen Zustand des Nicht-Ankommens beschreibt, welcher meist damit verbunden ist, dass man sich nicht lösen möchte, doch gezwungen ist, der Notwendigkeit des Sich-Lösens nachzukommen.
+
+#### 3.3 In welchem Verhältnis stehen Verpflichtung und Loyalität zueinander? Was bedeuten die Begriffe bei Shklar
+
+Loyalität und Verplfichtungen sind zwei Begriffe, welche beide auf Treue fundieren. Sei es die Treue zu Freunden oder Gruppen, welche oft mit Loyalität verbunden ist oder die Treue zu Gesetzen und Regeln, die grundlegend für Verpflichtungen ist. Die Unterscheidung die Judith N. Shklar in ihrem Text zwischen den beiden Begriffen macht, geht aus dem emotionalen Charakter des jeweiligen Begriffs hervor. Während Verpflichtung einen sehr gesetzesfolgenden Charakter hat und sich auf Rationalität und regelgeleitetes Handeln beruft, ist Loyalität von emotionalerem Charakter und zutiefst affektiv statt rational. So sind zum Beispiel die Bürger:innen dem Staat gegenüber verpflichtet, sich an Regeln und Gesetze zu halten und erhalten im Gegenzug Sicherheit, was einen rationalen Austausch widerspiegelt. Bürger:innen können jedoch auch Loyalität in Form von Treue Freunden und Gruppen gegenüber zeigen, ohne dafür einen Gegenwert zu erhalten, also ein rein emotionales oder affektives Handeln.
+
+#### 3.4 Was hat es mit dem Verrat eines Staats an seinen Bürger:innen auf sich?
+
+Jeder Staat hat ebenso wie seine Bürger:innen Verpflichtungen, denen er nachzukommen hat. Zu diesen Verpflichtungen gehört immer der Schutz der eigenen Bürger:innen vor anderen Bürger:innen des eigenen Staates, aber auch vor Bürger:innen externer Staaten. Wenn ein Staat diesen Verpflichtungen jedoch nicht nachkommt oder sich gar als interner Aggressor gegen seine eigenen Bürger:innen wendet, spricht Judith N. Shklar von Verrat. Der Staat weist einem Teil seiner Bürger:innen gegenüber ein illoyales Verhalten auf und schürt unter Umständen sogar den gesellschaftlichen und politischen Ausschluss dieser. Zu einem Verrat des Staates an seinen Bürger:innen kommt es also, wenn der Staat jeglichen Verpflichtungen zum Schutz seiner eigenen Bürger:innen nicht nachkommt und diese rechtswidrig oder ungerecht behandelt.
+
+#### 3.5 Warum muss Loyalität gebändigt werden und was ist Shklars Lösung dafür?
+
+Loyalität ist aus Sicht von Judith N. Shklar, besonders in ihrer nationalistischen Form, exkludierend. Sie ist affektiv und irrational und läuft somit Gefahr, Gerechtigkeit und gesetzliche Verpflichtung zu untergraben. Ab einem gewissen Maß an Loyalität scheinen Bürger:innen schlichtweg irrationaler zu handeln und vor Ungerechtigkeiten wegzusehen. Eine andere Form der Loyalität, die es zu bändigen gilt, ist die Loyalität in Form von Verbundenheit. Bürger:innen, die von ihrem Staat verraten wurden und sich dennoch sehr mit diesem verbunden fühlen, sind häufig von emotionalem Schmerz geplagt, und um diesen Schmerz zu minimieren, gilt es, Loyalität zu bändigen.
+
+### Literaturverzeichnis
+
+Shklar, J. N. (2017). *Verpflichtung, Loyalität, Exil* (H. Bajohr, Hrsg. & Übers.). Matthes & Seitz Berlin. (Originaltitel: *Obligation, Loyalty, Exile*)
+
+Berlin, I. (1969). *Zwei Konzepte der Freiheit*. In I. Berlin, *Four Essays on Liberty* (S. 118–172). Oxford University Press.
+
+Shklar, J. N. (1989). *The Liberalism of Fear*. In N. L. Rosenblum (Hrsg.), *Liberalism and the Moral Life* (S. 21–38). Harvard University Press.
+
+Shklar, J. N. (1984). *Ordinary Vices*. Belknap Press of Harvard University Press.
+
+Shklar, J. N. (1990). *The Faces of Injustice*. Yale University Press.
+
 
 ### Zur nächsten Sitzung 
 
@@ -355,9 +401,41 @@ Ergänzt vor dem Hintergrund des Eilenberger und Grüttner-Texts und durch weite
 
 Ihr habt dafür 35 Minuten Zeit. 
 
+### Vier Phasen der Vertreibung aus den Universitäten
+
+> Der vorliegende Text (Grüttner,2021, S.515-516) behandelt die vier Phasen der gezielten Vertreibung von (jüdischen) Personen, die an Universitäten tätig waren. Dieses Vorgehen war Teil der nationalsozialistischen Strategie die Universitäten gleichzuschalten und Kontrolle über sie zu erlangen.
+
+#### 1. Verabschiedung des Gesetzes zur Wiederherstellung des Berufsbeamtentums (07. April 1933)
+
+Das Gesetz zur Wiederherstellung des Berufsbeamtentums führte zur Entlassung vieler “nichtarischer” Universitätslehrenden. Es gab Ausnahmen für ehemalige “Frontkämpfer”, Verwandte gefallener Soldaten und für Lehrende, die vor dem Ersten Weltkrieg in den Beamtenstatus aufgenommen wurden. Allerdings wurden Vorlesungen jüdischer Lehrenden von den Mitgliedern des Nationalsozialistischen Deutschen Studentenbunds gestört und boykottiert. Folglich traten viele Lehrende, die von dieser Ausnahme profitiert hätten, “freiwillig” zurück oder baten um Urlaub. Dieses Gesetz wird weiter unten im Protokoll ausführlicher behandelt.
+
+#### 2. Inkrafttreten des Reichsbürgergesetzes (September 1935)
+
+Die zweite Phase begann im September 1935 nach Inkrafttreten eines der Nürnberger Gesetze, dem Reichsbürgergesetz. Jüdische Universitätslehrende sowie Beamte, die noch im Amt waren, sollten bis Ende 1935 entlassen werden. Als jüdisch galten all diejenigen, die mindestens drei jüdische Großeltern hatten.
+
+#### 3. Regelungen gegen “Mischlinge” und “jüdisch Versippte” (1937/38)
+
+Die dritte Phase setze 1937/38 ein. Sie richtete sich gegen Personen mit einem oder zwei jüdischen Großeltern (“Mischlinge”), sowie gegen Personen nichtjüdischer Abstammung, die mit einer jüdischen Person verheiratet waren ("jüdisch Versippte”). Auch hier galten wieder Ausnahmen, etwa bei herausragender Leistung oder nachgewiesener politischer Loyalität.
+
+#### 4. Neufassung der Reichshabilitationsordnung (1939)
+
+Die letzte Phase begann ab 1939 mit der Neufassung der Reichshabilitationsordnung, welches die Lehrbefugnis an Universitäten veränderte. Während vorher fachliche und wissenschaftliche Leistungen im Mittelpunkt standen, traten nun idiologische Kriterien, bzw. die Treue zum Regime, in den Vordergrund. Viele Dozierende, vor allem die jüngeren ohne Beamtenstatus, mussten sich neu qualifizieren lassen. Den (wenigen) Betroffenen wurde aufgrund ihrer politischen oder religiösen Überzeugungen, etwa wenn sie Anhänger der Bekennenden Kirche waren, der Zugang zum Lehramt verweigert.\
+\
+Diese Regelungen und Maßnahmen verdeutlichen das systematische Vorgehen des NS-Regimes, um Kontrolle über (unteranderem) Universitäten zu erlangen und seine Ideologien nach und nach durchzusetzen.
+
 ### Das BBG 
 
 [Gesetz zur Wiederherstellung des Berufsbeamtentums](https://de.wikisource.org/wiki/Gesetz_zur_Wiederherstellung_des_Berufsbeamtentums)
+
+Das Gesetz zur Wiederherstellung des Berufsbeamtentums vom 7. April 1933 diente der gezielten Ausgrenzung jüdischer Personen und Regimekritiker:innen aus dem Staatsdienst. Ein zentraler Bestandteil war §3, der Beamt:innen „nicht arischer Abstammung“ in den Ruhestand versetzte oder entließ. Dieses Gesetz galt unter anderem auch an Universitäten, was zur Folge hatte, dass viele Professor:innen, Studierende und anderweitig an der Universität tätige Personen Deutschland geschlossen verlassen mussten. Beispiele hierfür sind der jüdische Philosoph Ernst Cassirer, der seine Stelle an der Universität Hamburg aufgab, und Hannah Arendt, die damals als Studentin die Universität sowie Deutschland verließ und ins Exil floh. Das Gesetz hatte auch Folgen für Personen, die nicht selbst jüdisch waren, aber mit jüdischen Ehepartner:innen verheiratet waren. So wurde Karl Jaspers von seiner Stelle an der Universität Heidelberg „in den unfreiwilligen Ruhestand versetzt“ (Toleranzräume, o.J.). Dabei ist zu betonen, dass die Ehe zwischen einer nichtjüdischen Frau und einem jüdischen Mann als schwerwiegender gewertet wurde als umgekehrt.
+
+### Literaturverzeichnis
+
+Gesetz zur Wiederherstellung des Berufsbeamtentums. (1933, 7. April). Wikisource. <https://de.wikisource.org/wiki/Gesetz_zur_Wiederherstellung_des_Berufsbeamtentums>\
+
+Grüttner, M. (2021). The expulsion of academic teaching staff from German universities, 1933–45. Journal of Contemporary History, 57(3), 513–533. <https://doi.org/10.1177/00220094211063074>\
+
+Toleranzräume. (o.J.). Karl Jaspers. <https://www.toleranzraeume.org/biografien/karl-jaspers/> (Abgerufen am 11. Mai 2025)
 
 ### Zur nächsten Sitzung
 
@@ -726,9 +804,103 @@ Im Transkriptionsmodus bietet wir Ihnen einen weitgehend originalgetreuen, aber 
 
 Wir arbeiten also mit einem Dreischritt: Entziffern, Transkribieren, Auszeichnen
 
+### Sitzungsprotokoll
 
-#### Briefe aus dem Bing und Labowsky
+#### XML 
 
+*Verwandschaftsbaum für Auszeichnungssprachen:*
+
+![Markup Family Tree](img/Markup-Family-Tree.png)
+
+Standard Generalized Markup Language(SGML) würde 1986 veröffentlicht und ist der Vorgänger von HTML, TEI und XML.
+TEI wurde 1987 ursprünglich als SGML-Applikation veröffentlicht und erst mit TEI-P4(Version 4) im Jahre 2002 eine Applikation von XML. 
+XHTML ist eine Überarbeitung von HTML, welche dieses ebenfalls zu einer XML-Applikation macht. Vor 2003 waren Office-Dokumente in einem proprietären Binärformat. 
+
+*XML-Beispiel:*
+
+```xml
+<person>
+   <name>Max Mustermann</name>
+   <alter>30</alter>
+      <adresse>
+      <straße>Hauptstraße 1</straße>
+      <stadt>Berlin</stadt>
+      <land>Deutschland</land>
+   </adresse>
+</person>
+```
+
+XML-Dokumente bestehen aus ineinander verschachtelten Tags. 
+Tags können eine klare Hierarchie haben(Parent/Child), oder hierarchisch nebeneinander stehen(Siblings). 
+Bei einer doppelten Verschachtelung (zwei Stufenunterschiede in der Hierarchie) spricht man von einer Ancestor/Successor-Beziehung. 
+Wenn ein XML-Dokument den Standard-XML-Syntax einhält, gilt es als **well formed**. 
+Es ist auch möglich, ein Schema mit einem XML-Dokument zu verbinden, welches zusätzliche Syntaxregeln definiert. 
+Wenn ein XML-Dokument das ihm zugehörige Schema einhält, gilt es als **valid**. 
+Semantische Fehler (wie z. B. falsche Verlagsangabe) sind für *well-formed* irrelevant. 
+Besondere Zeichen müssen mit [XML-Encodings](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#List_of_character_entity_references_in_HTML) entschärft werden. 
+
+*Beispiel für eine selbstentworfene XML-Auszeichnungshierarchie für einen Brief:*
+
+![Beispiel](img/XML-Brief.png)
+
+#### TEI 
+Die Text-Encoding-Initiative ist das Konsortium, welches den TEI-XML-Standart definiert und entwickelt. 
+Der erste TEI-Standart(TEI-P1) wurde 1987 veröffentlicht. 
+
+Das Wurzelelement eines TEI-Dokuments ist immer `<TEI>`. 
+Dieser `<TEI>`-Tag hat 2 Kinder, `<teiHeader>` und `<text>`. 
+Der TEI-Header beschreibt die Metadaten des Textes, der `<text>`-Tag beschreibt den eigentlichen Text. Wenn wir z. B. einen Brief haben, dann würden die Informationen des Briefkopfes sowohl den `<teiHeader>`, als auch in den `<text>`-Tag gehören (im Originallaut), der komplette Text aber nur in den `<text>`-Tag. 
+Das einzige verpflichtende Element des Headers ist `<fileDesc>`, eine Beschreibung der Datei.
+
+`<fileDesc>` hat wiederum 3 verpflichtende Kinder-Elemente: 
+`<titleStmt>`: Angaben zum Titel (mit z. B. `<title>`) 
+`<publicationStmt>`: Angaben zur Publikation(mit z. B. `<author>`) 
+`<sourceDesc>`: Angaben zur Quelle (mit z. B. `<bibl>`(z. B. Verlag, ISBN, ISSN, Archiv)) 
+
+
+Weitere empfohlene, nicht verpflichtende Elemente, neben `<fileDesc>` sind z. B.: 
+`<encodingDesc`: Verhältnis zwischen elektronischem Text und seiner Quelle 
+`<profileDesc>`: Beschreibung der nicht-bibliographischen Merkmale des Textes, insbes. Sprache, Entstehung(sbedingungen), Beteiligte, Aussehen des Mediums 
+`<revisionDesc>`: Veränderungen/Versionen des elektronischen Textes 
+
+Wenn z. B. der angegebene Autor vom tatsächlichen Autor abweicht, wird das ebenfalls im `<teiHeader>` notiert. 
+
+Beispiel für einen TEI-XML-Body:
+
+```xml
+<body>
+	<line>Dear<name>Raymond</name>
+	<line>how will...</line>
+</body>
+```
+
+Jeder XML-Tag hat einen öffnenden und einen schließenden Tag (Oreo-Prinzip). 
+Es ist bei XML, anders als bei HTML, aber auch möglich, auf den schließenden Tag zu verzichten, wenn der Tag am Zeilenende endet. 
+Im `<text>`-Tag sollte jede Zeile noch ihren eigenen `<line>`-Tag bekommen:
+
+
+#### Paläographie
+
+Paläographie (griechisch für "alte Schrift") ist die Lehre von alten Handschriften.
+Sie unterscheidet sich von der Paläotypie, die alte Druckschriften analysiert.
+Das Projekt [Digitale Schriftkunde](https://www.gda.bayern.de/DigitaleSchriftkunde) der staatlichen Archive Bayerns ermöglicht es seit 2013, mithilfe von Transkribus, im Browser alte Handschriften der bayrischen Archive zu analysieren.
+Wir arbeiten bei der Analyse von alten Schriften in einem Dreischritt: Entziffern, Transkribieren und Auszeichnen.
+Bei der **Entzifferung** wird Buchstabe für Buchstabe übersetzt und selbst Rechtschreibfehler beibehalten.
+Bei der **Transkribierung** wird der Text weitestgehend originalgetreu gelassen, darf aber in manchen Aspekten an moderne Lesegewohnheiten angepasst werden, so werden z. B. Zeichensetzungsfehler sinngemäß korrigiert.
+Bei der **Auszeichnung** wird der Text den Ansprüchen unserer TEI-XML-Auszeichnung analysiert und ausgezeichnet, so werden z. B. Personennamen und Orte im Text mit passenden XML-Tags hervorgehoben.
+
+Der moderne Handschriftstandard ist **vereinfachte Ausgangsschrift** (eine lateinische Schreibschrift), in der Vergangenheit wurden aber noch viele andere Schriftarten, wie karolingische Minuskelschrift oder deutsche Kurrentschrift, benutzt.
+
+Wenn innerhalb eines Textes die Schriftart gewechselt wird, bemerken wir das nur im `<teiHeader>`, nicht im `<text>`-Tag.
+
+Es wird empfohlen, beim Transkribieren von Handschriften die Wörter von hinten nach vorne zu lesen, da man sich so besser konzentriert.
+Man kann auch erst die einfachen Wörter übersetzen(Artikel, Verben) und danach die schwierigeren.
+Man kann zur Hilfe auch ein Beispiel-Alphabet aus dem verständlicheren Textteil extrahieren.
+Transkribus (automatische Handschrifterkennung) kann nicht kopfüber-stehenden/seitwärts-stehenden Text erkennen.
+Große Verwechslungsgefahr gibt es zum Beispiel bei **U**/**N**. sowie bei **R**/**H** und **E**/**I**.
+Man sollte die Texte nicht an die aktuellen Rechtschreibregeln anpassen, wenn sie in den alten richtig sind.
+Wenn Jahreszahlen in römischer Schrift angegeben werden, sollten wir das in der römischen Schrift belassen.
+Ob wir in unserer Transkription Zeichensetzung korrigieren, wollen wir in einer zukünftigen Sitzung festlegen.
 
 ### Zur nächsten Sitzung
 
@@ -737,4 +909,74 @@ Lest zur folgenden Sitzung (im OLAT-Verzeichnis):
 * Cassirer, E. (1942). Der Gegenstand der Kulturwissenschaft. In: Ders. Logik der Kulturwissenschaften, S. 3 -- 36
 
 ## Sitzung am 27.05.
+
+Für die Sitzung war ursprünglich ein Referat vorgesehen, das jedoch auf einen späteren Zeitpunkt verschoben wurde. Der Text wurde stattdessen gemeinsam erarbeitet und besprochen. Das erste Kapitel aus Cassirers Werk _Logik der Kulturwissenschaften_ (S. 3–36) diente als Grundlage, in dem die zentrale Frage behandelt wird, was „Kulturwissenschaft“ eigentlich bedeutet und wie ihr Gegenstand wissenschaftlich verstanden werden kann.
+
+#### Ziel der Sitzung
+
+Die Sitzung hatte zum Ziel, Cassirers methodischen Zugang zu den Kulturwissenschaften nachzuvollziehen. Im Zuge dessen wurden wesentliche Begriffe und Argumentationsstränge identifiziert.
+  
+### Zentrale Fragen und Diskussion
+  
+#### 1. Warum braucht es eine eigenständige Betrachtung von Kultur?
+
+In der Diskussion wurde betont, dass Cassirer Kultur nicht als logisch ableitbares oder naturwissenschaftlich erklärbares Phänomen versteht. Vielmehr entsteht Kultur durch symbolische Formen, in denen sich menschliche Freiheit, Kreativität und Sinngebung ausdrücken. Entscheidend ist dabei die Fähigkeit zur Reflexion und zur Erschließung von Bedeutungen, nicht primär die emotionale Ebene.
+
+Einige Teilnehmende wiesen jedoch darauf hin, dass kulturelle Ausdrucksformen wie Mythos oder Kunst stets auch emotionale Aspekte berühren. Cassirer selbst beschreibt sie allerdings vorrangig als geistige Leistungen, mit denen der Mensch seine Welt deutend erschließt.
+Ein zentrales Thema war, weshalb Kultur nicht wie Natur behandelt oder mit naturwissenschaftlichen Methoden untersucht werden kann. Es wurde erörtert, dass Kultur auf anderen Grundlagen beruht, wie zum Beispiel Emotionen, Bedeutungen und Symbolen, also Aspekten, die nicht ausschließlich logisch oder naturwissenschaftlich erklärbar sind.  
+Ein Teilnehmer drückte es folgendermaßen aus: Es existieren Aspekte menschlichen Lebens, die sich nicht allein durch Naturgesetze erklären lassen – wie etwa Farben, Gefühle oder kulturelle Symbole.
+
+Es lassen sich Parallelen zu Hans Blumenbergs  _Arbeit am Mythos_  erkennen, welcher ebenfalls in Kiel intensiv rezipiert wurde. Auch dort zeigt sich ein vergleichbarer Zugang zur Kultur.
+
+#### 2. Zentrale Textstellen und Diskussion
+
+Mehrere wichtige Textstellen wurden im Seminar gelesen und gemeinsam interpretiert:
+
+**Seite 17**
+
+Nach Cassirer beginnt mit dem Denken ein neuer Zugang zur Welt: Der Mensch betritt den „Geist der Sprache“. Sprache erweitert nicht nur die bloße Betrachtung der Welt, sondern verleiht ihr auch Klarheit und Struktur. Nur durch Sprache können wir das, was wir wahrnehmen, benennen, beschreiben und verstehen.
+
+Sprache dient nicht nur als Kommunikationsmittel, sondern ist auch der Raum, in dem Bedeutung entsteht. Sie gibt uns die Möglichkeit, aus ungefilterten Wahrnehmungen strukturierte Vorstellungen zu entwickeln. Jede Sprache bietet dabei einen eigenen Zugang zur Welt, mit ihren eigenen Begriffen und Bedeutungsfeldern. Auch wenn wir mittels Sprache kommunizieren, bleibt immer eine gewisse Unschärfe und Individualität in dem, was wir wahrnehmen und ausdrücken.
+
+Cassirer hebt hervor: Sprache ist ein symbolisches System, das die Welt nicht nur darstellt, sondern auch mitformt. Sie ermöglichen uns den Eintritt in einen gemeinsamen Bedeutungsraum, der jedoch nie völlig eindeutig ist, sondern stets in Bewegung und kulturell geprägt.
+   
+**Seite 27, zweiter Absatz:**
+
+Auf Seite 27 beschreibt Cassirer eine „neue Entscheidung“, die der Mensch treffen kann. Gemeint ist damit die Fähigkeit zur Selbstbindung, also die Möglichkeit, sich selbst zu reflektieren, sich sogar „selbst beneiden“ zu können und dadurch eine innere Bindung an Werte und Symbole auszubilden. Diese Form der Bindung ist kein äußerer Zwang, sondern entsteht aus dem eigenen Streben und der Freiheit des Menschen heraus.
+
+Cassirer schreibt auf  **Seite 27**:
+
+> _„Die Bindung, die sich der Mensch auferlegt, ist von anderer Art: sie ist nicht Zwang, sondern Selbstbindung. Der Mensch kann sich selbst als ein anderes Wesen entwerfen, das er zu sein strebt – und in diesem Streben liegt seine Freiheit.“_  (Cassirer, S. 27)
+  
+In der Diskussion wurde betont, dass Cassirer hier zeigt, wie der Mensch sich selbst Regeln gibt,
+nicht, weil er muss, sondern weil er ein Bild von sich hat, dem er freiwillig folgen will. Das ist laut Cassirer ein zentraler kultureller Akt: *nicht Natur, sondern bewusste Selbstgestaltung.*
+
+#### Symbolische Formen und Bewusstsein
+
+ **Seite 33–34:**  
+ In einem weiteren Abschnitt wird betont, dass Kunst eine zentrale symbolische Form ist. Cassirer schreibt:  _„Kein Künstler kann sich vor uns hinstellen…“_ , hier wird Kunst als Ausdrucksform verstanden, die sich nicht durch Erklärung, sondern durch Anschauung und Erfahrung vermittelt. Ein Blick auf ein Werk genüge oft, um in einen symbolischen Zusammenhang einzutreten.
+Cassirers zentrales Anliegen ist es, symbolische Formen wie Sprache, Kunst oder Wissenschaft als Mittel zu verstehen, durch die der Mensch sich über seine natürliche Begrenztheit erhebt. Diese Formen sind nicht nur Ausdrucksmittel, sondern Werkzeuge, mit denen wir denken, fühlen und handeln.
+
+#### Natur und Kultur als Gegensätze
+
+Die Diskussion kreiste auch um die Frage, ob Natur und Kultur wirklich gegensätzlich seien. Einige argumentierten, dass diese Trennung zu einfach sei, da der Mensch als biologisches Wesen immer auch Teil der Natur ist. Gleichzeitig macht ihn aber gerade die Fähigkeit zur symbolischen Ordnung zum kulturellen Wesen.
+
+### Fazit
+
+In der Sitzung wurden wichtige Gedanken aus Cassirers  _Logik der Kulturwissenschaften_  besprochen. Im Mittelpunkt stand die Frage, wie Menschen durch Sprache, Symbole und Selbstreflexion ihre kulturelle Welt formen. Kultur wurde dabei als ein eigener Bereich verstanden, der sich nicht mit naturwissenschaftlichen Methoden erfassen lässt.
+
+### Literaturverzeichnis
+
+Cassirer, E. (2000). *Logik der Kulturwissenschaften: Fünf Studien*. Hamburg: Meiner. (Original erschienen 1942)
+
+## Sitzung am 03.06.
+
+Referat zu Ernst Cassirer, Transkription mit Transkribus 
+
+## Sitzung am 10.06.
+
+**Ausgefallen**
+
+## Sitzung am 17.06. 
+
 
