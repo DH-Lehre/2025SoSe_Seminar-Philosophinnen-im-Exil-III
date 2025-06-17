@@ -979,4 +979,14 @@ Referat zu Ernst Cassirer, Transkription mit Transkribus
 
 ## Sitzung am 17.06. 
 
+### Bildet Kleingruppen! 
+
+> Bildet Kleingruppen. Jede Kleingruppe sollte aus 3 bis 4 Personen bestehen und jeweils min. eine:n Philosoph:in und eine:n Informatiker:in umfassen. Tragt Eure Gruppe in die folgende Tabelle ein, mit euren stu-Mails
+
+https://cloud.rz.uni-kiel.de/index.php/s/HNKnrB6NYbEaEbY
+
+### Wiederholung 
+
+https://app.conceptboard.com/board/dh43-gg4z-e724-c4ru-u177
+
 

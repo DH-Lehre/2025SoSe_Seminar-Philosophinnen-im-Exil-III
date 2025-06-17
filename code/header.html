@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>TEI-Header Generator</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    textarea {
+      font-family: monospace;
+      white-space: pre;
+    }
+  </style>
+</head>
+<body class="bg-light">
+  <div class="container-fluid p-4">
+    <div class="row">
+      <div class="col-md-6">
+        <h3>TEI-Metadaten eingeben</h3>
+        <form id="teiForm">
+          <div class="mb-3">
+            <label class="form-label">Autoren des TEI-Dokuments</label>
+            <input type="text" class="form-control" id="teiAuthor" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Datum der Bearbeitung</label>
+            <input type="date" class="form-control" id="revisionDate" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Archivsignatur</label>
+            <input type="text" class="form-control" id="archiveSignature">
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Besitzende Institution</label>
+            <input type="text" class="form-control" id="holdingInstitution" placeholder="Literaturarchiv Marbach">
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Digitalisierungsdatum</label>
+            <input type="date" class="form-control" id="digitizationDate">
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Verantwortliche für Digitalisierung</label>
+            <input type="text" class="form-control" id="digitizationResponsible" placeholder="Moritz Riemann">
+          </div>
+          <hr>
+          <h4>Brief-Metadaten</h4>
+          <div class="mb-3">
+            <label class="form-label">Titel oder Betreff (optional)</label>
+            <input type="text" class="form-control" id="title">
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Datum des Briefs</label>
+            <input type="date" class="form-control" id="letterDate" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Brief-ID</label>
+            <input type="text" class="form-control" id="letterID" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Autor/in des Briefs (<a href="https://explore.gnd.network/" target="_blank">GND-ID</a>)</label>
+            <input type="text" class="form-control" id="authorGND" placeholder="1029912939" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Empfänger/in des Briefs (<a href="https://explore.gnd.network/" target="_blank">GND-ID</a>)</label>
+            <input type="text" class="form-control" id="recipientGND" placeholder="118777378" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Sprache (<a href="https://id.loc.gov/vocabulary/iso639-1.html" target="_blank">ISO 639</a>)</label>
+            <input type="text" class="form-control" id="language" placeholder="de" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Art des Briefs (<a href="https://www.getty.edu/research/tools/vocabularies/aat/" target="_blank">Getty AAT</a>)</label>
+            <input type="text" class="form-control" id="letterType" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Schlagwörter (<a href="https://id.loc.gov/authorities/subjects.html" target="_blank">LOC Subject Headings</a>, Komma-getrennt)</label>
+            <input type="text" class="form-control" id="keywords">
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Medium des Briefs</label>
+            <select class="form-select" id="medium" required>
+              <option value="">Bitte wählen</option>
+              <option value="handschriftlich">Handschriftlich</option>
+              <option value="maschinell">Maschinell</option>
+              <option value="gemischt">Gemischt</option>
+            </select>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Ort der Abfassung</label>
+            <input type="text" class="form-control" id="placeWritten">
+          </div>
+          <button type="submit" class="btn btn-primary">TEI-Header generieren</button>
+        </form>
+      </div>
+
+      <div class="col-md-6">
+        <h3>Generierter TEI-Header</h3>
+        <textarea class="form-control" id="teiOutput" rows="30" readonly></textarea>
+        <button class="btn btn-success mt-2" onclick="downloadXML()">TEI-Header herunterladen</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("teiForm").addEventListener("submit", function(e) {
+      e.preventDefault();
+
+      const $ = id => document.getElementById(id).value.trim();
+      const escapeXml = str => str.replace(/[&<>]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;'}[c]));
+
+      const keywords = $("keywords").split(",").map(k => `<term>${escapeXml(k.trim())}</term>`).join("\n              ");
+      const titleLine = $("title") ? `<title>${escapeXml($("title"))}</title>` : "";
+
+      const tei = `<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        ${titleLine}
+        <author ref="http://d-nb.info/gnd/${$("authorGND")}" />
+      </titleStmt>
+      <publicationStmt>
+        <publisher>${escapeXml($("holdingInstitution"))}</publisher>
+        <idno>${escapeXml($("letterID"))}</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>${escapeXml($("holdingInstitution"))}</repository>
+            <idno>${escapeXml($("archiveSignature"))}</idno>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>${escapeXml($("medium"))}</support>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>${$("letterDate")}</origDate>
+              <origPlace>${escapeXml($("placeWritten"))}</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="${$("language")}" />
+      </langUsage>
+      <textClass>
+        <keywords scheme="LOC">
+              ${keywords}
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="${$("revisionDate")}">${escapeXml($("teiAuthor"))}</change>
+      <change when="${$("digitizationDate")}">Digitalisierung durch ${escapeXml($("digitizationResponsible"))}</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Platzhalter für den transkribierten Text -->
+    </body>
+  </text>
+</TEI>`;
+
+      document.getElementById("teiOutput").value = tei;
+    });
+
+    function downloadXML() {
+      const text = document.getElementById("teiOutput").value;
+      const blob = new Blob([text], { type: "application/xml" });
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = "tei-header.xml";
+      a.click();
+    }
+  </script>
+</body>
+</html>
