@@ -1004,7 +1004,7 @@ Gebt mir (ggb@informatik.uni-kiel.de) bis nächsten Montag, 18 Uhr eine Freigabe
 
 ### TEI Publisher 
 
-[TEI Publisher](projekt02.existdb.ub.uni-kiel.de/exist/apps/tei-publisher/index.html) (nur aus dem Uni-Netz oder über VPN zu erreichen!)
+[TEI Publisher](https://projekt02.existdb.ub.uni-kiel.de/exist/apps/tei-publisher/index.html) (nur aus dem Uni-Netz oder über VPN zu erreichen!)
 
 ### Aufgabe zur nächsten Sitzung
 
