@@ -990,3 +990,22 @@ https://cloud.rz.uni-kiel.de/index.php/s/HNKnrB6NYbEaEbY
 https://app.conceptboard.com/board/dh43-gg4z-e724-c4ru-u177
 
 
+### Aufgabe zur nächsten Woche 
+
+Transkribiert die Briefe, die Eurer Gruppe zugeordnet sind. 
+
+Gebt mir (ggb@informatik.uni-kiel.de) bis nächsten Montag, 18 Uhr eine Freigabe für Eure Transkribus-Kollektion.
+
+## Sitzung am 24.06.
+
+### Header erstellen 
+
+[TEI Header-Formular](https://dh-lehre.github.io/)
+
+### TEI Publisher 
+
+[TEI Publisher](projekt02.existdb.ub.uni-kiel.de/exist/apps/tei-publisher/index.html) (nur aus dem Uni-Netz oder über VPN zu erreichen!)
+
+### Aufgabe zur nächsten Sitzung
+
+Stellt die Transkription fertig (und gebt mir wegen des Exports Bescheid), annotiert die Briefe und schickt uns die exportierten, annotierten Briefe bis Montag, 18 Uhr (ggb@informatik.uni-kiel.de).
