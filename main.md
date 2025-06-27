@@ -998,13 +998,55 @@ Gebt mir (ggb@informatik.uni-kiel.de) bis nächsten Montag, 18 Uhr eine Freigabe
 
 ## Sitzung am 24.06.
 
-### Header erstellen 
+### Vom Transkribus-Export zum TEI Publisher 
+
+Um die transkribierten Dokumente für die Annotation mit dem TEI Publisher vorzubereiten, sind ein paar Schritte notwendig:
+
+1. Schreibt mir (Gregor, ggb@informatik.uni-kiel.de) eine E-Mail um einen Export von eurem Brief(en) anzufordern. Ihr erhaltet als Antwort ein Zip-Archiv mit den TEI-Dokumenten.
+2. In dem Archiv ist jeder Brief als ein TEI-Dokument enthalten. Der Header, den Transkribus automatisch erstellt ist sehr minimalistisch und muss durch die korrekten Metadaten ersetzt werden. Dafür haben wir das folgende Formular vorbereitet: [TEI Header-Formular](https://dh-lehre.github.io/) Füllt alle Daten aus, beachtet dabei die Hinweise zum ausfüllen des TEI Header-Formulars auf der nächsten Seite. Klickt TEI Header generieren.
+3. Kopiert den *teiHeader*-Teil (vom öffnenden bis zum schließenden Tag!) und ersetzt damit den *teiHeader* des Exports aus Transkribus. Falls ihr nicht wisst, wie das geht, fragt in Eurer Kleingruppe nach. Falls ihr dort keine Hilfe bekommt, meldet euch gerne bei uns. 
+4. Öffnet den [TEI Publisher](https://projekt02.existdb.ub.uni-kiel.de/exist/apps/tei-publisher/index.html) (nur aus dem Uni-Netz oder über VPN zu erreichen!). Meldet euch mit den Daten aus der Kleingruppen-Liste an (ohne Anmeldung erscheint auch das Upload-Feld nicht!). Geht auf die Unterseite *Annotation Samples* und ladet dort auf der rechten Seite durch drag+drop euren Brief hoch (s. Screenshot).
+5. Fertig: Ihr könnt Annotieren!
+
+![Upload beim TEI-Publisher](img/publisher-upload.png)
+
+### TEI Header-Formular: Hinweise 
 
 [TEI Header-Formular](https://dh-lehre.github.io/)
 
-### TEI Publisher 
+Hilfe für einzelne Felder: 
+
+* Datum der Bearbeitung: Datum, an dem die Eingaben in das Formular gemacht werden 
+* Archivsignatur: Ist unbekannt, kann frei bleiben 
+* Digitalisierungsdatum: 06. Mai 2025 
+* Titel oder Betreff: Brief von -Name des Absenders- an -Name des Empfängers- vom -Datum-, also bspw. Brief von Lotte Labowsky an Raymond Klibansky vom 12. Februar 1949
+* Brief-ID: Dateiname des TEI-Exports, also. bspw. 1949-02-12\_Labowsky\_Klibansky.xml 
+* Art des Briefs: gerne nachsehen, ob irgendetwas spezifischeres vorhanden ist, aber in den meisten Fällen vermtl. http://vocab.getty.edu/page/aat/300026879 
+* Schlagwörter: Die Schlagwörter sollten den Inhalt des Briefs ganz grob charakterisieren
+
+### TEI Publisher: Hinweise 
 
 [TEI Publisher](https://projekt02.existdb.ub.uni-kiel.de/exist/apps/tei-publisher/index.html) (nur aus dem Uni-Netz oder über VPN zu erreichen!)
+
+> Was sollte annotiert werden? 
+ 
+Entsprechend unseres Datenmodells: 
+
+* Orte 
+* Personen 
+* Institutionen  
+* Datumsangaben 
+
+> Was ist mit Personen, die über die DNB nicht gefunden werden können? Oder, die nicht gefunden werden können, weil zu wenige Informationen über die Person bekannt sind (bspw. nur ein Vorname)? 
+
+Sammelt diese Personen bitte als Kleingruppe in einer Liste und versucht gemeinsam solche Unklarheiten aufzulösen. Wenn euch das nicht gelingt, bringt die Liste mit zum nächsten Seminar.
+
+> Was kann außerdem noch annotiert werden? 
+
+Falls ihr weitere Sachen annotieren wollt, dann gibt es bspw. 
+
+* Bücher (als *reference* mit Verlinkung auf den GND-Eintrag) 
+* Begriffe 
 
 ### Aufgabe zur nächsten Sitzung
 
