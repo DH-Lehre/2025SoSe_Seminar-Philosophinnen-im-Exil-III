@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Brief von Klibansky an Bing vom 02.12.1932 </title>
+        <author ref="http://d-nb.info/gnd/118777378"/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Literaturarchiv Marbach</publisher>
+        <idno>1932-12-02_Klibansky_Bing</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>Literaturarchiv Marbach</repository>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>maschinell</support>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>1932-12-02</origDate>
+              <origPlace>Heidelberg?</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de"/>
+      </langUsage>
+      <textClass>
+        <keywords scheme="LOC">
+              <term>Publishing</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-06-27">Ahad Iqbal</change>
+      <change when="2025-05-07">Digitalisierung durch Moritz Riemann</change>
+    </revisionDesc>
+  </teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="0001_p001.jpg" width="2479px" height="3508px"/>
+			<zone points="211,221 211,3195 2433,3195 2433,221" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="1719,321 1838,282 1934,313 2015,285 2089,329 2211,310 2264,346 2358,346 2355,216 2269,213 2197,174 2020,224 1716,221" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="756,916 822,899 872,946 971,958 1054,894 1107,946 1212,919 1268,949 1378,944 1375,847 1226,800 1146,825 971,803 872,841 800,789 753,819" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="899,1030 1209,1043 1265,1088 1348,1046 1597,1090 1719,1038 2037,1085 2220,1032 2419,1071 2419,938 2081,999 1500,991 1232,927 899,944" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="205,1137 285,1173 338,1135 518,1171 656,1132 1077,1140 1135,1176 1215,1140 1483,1176 1519,1143 2172,1143 2272,1193 2430,1165 2430,1071 2391,1063 2045,1068 1934,1110 1724,1063 1276,1096 1154,1046 814,1057 742,1096 205,1065" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="205,1243 504,1287 708,1243 2402,1262 2402,1162 2170,1193 2026,1143 1392,1215 1173,1168 772,1198 587,1143 387,1196 205,1179" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="199,1345 446,1345 531,1389 736,1342 827,1378 1229,1339 2300,1373 2278,1290 1937,1295 1824,1248 1696,1298 1085,1251 891,1303 642,1254 551,1292 199,1284" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="357,1464 1065,1483 1193,1447 1351,1494 1492,1450 1660,1494 1868,1445 2015,1489 2015,1375 1403,1406 1204,1362 844,1409 764,1370 357,1375" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="202,1594 999,1550 2413,1572 2413,1464 2336,1453 2101,1511 1932,1472 1234,1508 1079,1472 916,1514 202,1442" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="208,1683 700,1655 1176,1708 1273,1655 1519,1708 1708,1655 1901,1702 2026,1658 2391,1666 2391,1591 2303,1583 2042,1625 1611,1611 1525,1561 1348,1622 1005,1577 966,1611 808,1555 423,1619 208,1580" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="208,1785 509,1760 587,1804 780,1768 1766,1818 2120,1763 2327,1832 2410,1780 2391,1658 1771,1710 1392,1680 714,1713 559,1666 421,1719 302,1666 208,1683" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="199,1860 609,1854 767,1907 1173,1849 1268,1912 1414,1854 1752,1849 2300,1901 2300,1810 2170,1788 916,1810 711,1777 576,1818 448,1780 199,1815" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="205,1954 631,1995 988,1962 1129,2001 1375,1957 1710,1954 1934,2009 2065,1951 2391,1976 2391,1874 2048,1918 1926,1871 1824,1912 866,1918 675,1879 559,1910 462,1854 205,1893" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="205,2045 706,2067 919,2120 1054,2062 1256,2053 1414,2098 1923,2053 2269,2089 2247,1970 1719,2020 1616,1973 1511,2026 1104,1984 999,2031 421,1976 205,2004" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="202,2161 927,2161 1049,2200 1162,2159 1821,2159 2087,2203 2161,2159 2325,2211 2325,2106 1943,2070 1699,2106 1619,2065 1489,2117 1268,2073 924,2120 803,2084 675,2120 202,2092" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="199,2294 2413,2269 2413,2192 199,2200" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="208,2375 902,2369 994,2413 2120,2363 2336,2399 2336,2308 2225,2280 2175,2325 1912,2286 789,2286 559,2325 208,2297" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+				<zone points="202,2510 357,2460 523,2513 667,2466 911,2510 1215,2463 1547,2505 1547,2402 1511,2394 202,2410" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+				<zone points="349,2563 504,2604 717,2568 985,2604 1198,2560 1470,2596 2366,2574 2366,2507 2098,2524 1879,2446 1564,2524 1245,2482 349,2494" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+				<zone points="202,2673 1641,2676 1641,2579 1481,2621 958,2585 612,2626 202,2607" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+				<zone points="351,2787 551,2770 617,2817 673,2773 880,2806 1140,2768 1251,2812 1544,2765 2410,2781 2410,2707 2184,2684 1511,2723 661,2684 506,2726 351,2690" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+				<zone points="205,2895 1752,2862 2352,2895 2352,2839 2101,2784 1666,2823 1054,2790 969,2826 205,2817" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+				<zone points="196,3025 288,2970 1447,2972 1536,3014 1649,2981 1649,2895 963,2931 866,2887 642,2936 196,2898" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+				<zone points="354,3080 407,3077 470,3100 501,3077 551,3108 642,3075 736,3077 767,3100 786,3094 783,3033 689,3008 645,3028 592,3008 573,3019 534,2989 490,3025 393,3011 351,3028" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+				<zone points="819,3196 899,3213 919,3213 938,3196 958,3213 1027,3191 1079,3202 1079,3080 949,3077 880,3108 858,3094 819,3105" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lg>
+						<l facs="#facs_1_tr_1_tl_1">den <date when="1932-12-02">2. Dezember 1932</date>.</l>
+						<l facs="#facs_1_tr_1_tl_2">Liebe <persName ref="gnd-116183853">Gertrud Bing</persName>.</l>
+						<l facs="#facs_1_tr_1_tl_3">Von <persName ref="gnd-118509039">Walter</persName> höre ich, dass die Ausgabe der "Klei-</l>
+						<l facs="#facs_1_tr_1_tl_4">nen Schriften“ erfreuliche Fortschritte macht und sogar die Vorrede dem</l>
+						<l facs="#facs_1_tr_1_tl_5">Ende entgegengeht. Jetzt arbeiten Sie gewiss an den Indices. Ich freue</l>
+						<l facs="#facs_1_tr_1_tl_6">mich sehr, dass Sie nunmehr alle Schwierigkeiten hinter sich haben.</l>
+						<l facs="#facs_1_tr_1_tl_7">Heute habe ich zwei kleine Bitten geschäftlicher Art:</l>
+						<l facs="#facs_1_tr_1_tl_8">1.) Eben erhalte ich von <persName ref="gnd-118804898">Herrn Prof. Saxl</persName> eine Bestätigung des Empfangs</l>
+						<l facs="#facs_1_tr_1_tl_9">meiner Karte vom <date from="1932-11-28">28. XI</date>. Nachts. Das Argumentum e silentio scheint da-</l>
+						<l facs="#facs_1_tr_1_tl_10">für zu sprechen, dass er meinen am selben Tag (zwischen 18 und 19 Uhr.)</l>
+						<l facs="#facs_1_tr_1_tl_11">abgesandten Brief, in dem noch einige Ergänzungen zur Bibliographie</l>
+						<l facs="#facs_1_tr_1_tl_12">enthalten waren, nicht empfangen hat. Könnten Sie nachsehen lassen, ob</l>
+						<l facs="#facs_1_tr_1_tl_13">der Brief angekomnen ist, und den Auftrag geben, ihn nachzusenden?</l>
+						<l facs="#facs_1_tr_1_tl_14">2.) In der vergangenen Nacht adressierte ich <persName ref="gnd-118804898">Herrn Saxl</persName> einen Brief,</l>
+						<l facs="#facs_1_tr_1_tl_15">in gelblichem Umschlag nach <placeName ref="geo-2911297">Hamburg</placeName>. Es wäre mir lieb, wenn auch dieser</l>
+						<l facs="#facs_1_tr_1_tl_16">Brief, der gleichfalls mit der Bibliographie zusammenhängt, ihm bald</l>
+						<l facs="#facs_1_tr_1_tl_17">nach <placeName ref="geo-2918632">Göttingen</placeName> nachgeschickt werden könnte.</l>
+						<l facs="#facs_1_tr_1_tl_18">Mit gleicher Post schreibe ich <persName ref="gnd-118804898">Herrn Saxl</persName> nach<placeName ref="geo-2918632"> Göttingen</placeName>, an die</l>
+						<l facs="#facs_1_tr_1_tl_19">mir angegebene Adresse (Hotel Stadt <placeName ref="geo-2910831">Hannover</placeName>).</l>
+						<l facs="#facs_1_tr_1_tl_20">Es besteht begründete Hoffnung, dass der Plan der grossen Eckhart-</l>
+						<l facs="#facs_1_tr_1_tl_21">Ausgabe gelingt. Gestern habe ich mit <persName ref="gnd-118671448">Prof. Dempf</persName> (<placeName ref="geo-2946447">Bonn</placeName>) verhandelt.</l>
+						<l facs="#facs_1_tr_1_tl_22">Morgen findet die entscheidende Sitzung statt.</l>
+						<l facs="#facs_1_tr_1_tl_23">In aller Eile</l>
+						<l facs="#facs_1_tr_1_tl_24">bin ich</l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

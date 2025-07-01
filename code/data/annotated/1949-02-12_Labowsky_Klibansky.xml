@@ -195,10 +195,11 @@
 						<l facs="#facs_1_tr_1_tl_13">glad that you get some pleasure out of your</l>
 						<l facs="#facs_1_tr_1_tl_14">lectures and that they are a great success,</l>
 						<l facs="#facs_1_tr_1_tl_15">though that does not surprise me in the least.</l>
-						<l facs="#facs_1_tr_1_tl_16">I sent you the Hobbes letter and the Lieftinck</l>
+						<l facs="#facs_1_tr_1_tl_16">I sent you the Hobbes letter and the <persName ref="gnd-126628432">Lieftinck</persName>
+                        </l>
 						<l facs="#facs_1_tr_1_tl_17">photostats on Friday. Yesterday I received</l>
 						<l facs="#facs_1_tr_1_tl_18">from <persName ref="gnd-116183853">Miss Bing</persName> photostats of the relevant</l>
-						<l facs="#facs_1_tr_1_tl_19">passages in the Galen De Consuetudinibus.</l>
+						<l facs="#facs_1_tr_1_tl_19">passages in the Galen <ref target="https://explore.gnd.network/gnd/948252715">De Consuetudinibus</ref>.</l>
 						<l facs="#facs_1_tr_1_tl_20">At my request she has photostated (a)</l>
 						<l facs="#facs_1_tr_1_tl_21">the whole fascicule to keep it in the Library</l>
 						<l facs="#facs_1_tr_1_tl_22">at our disposal (b) the important pages,</l>
@@ -207,7 +208,7 @@
 						<l facs="#facs_1_tr_1_tl_25">translation of the Arabic text. A part from</l>
 						<l facs="#facs_1_tr_1_tl_26">the Proclus text which exists only in</l>
 						<l facs="#facs_1_tr_1_tl_27">Arabic, there are the two small fragments</l>
-						<l facs="#facs_1_tr_1_tl_28">from the Timaeus itself which are from a</l>
+						<l facs="#facs_1_tr_1_tl_28">from the <ref target="https://explore.gnd.network/gnd/4126337-6">Timaeus</ref> itself which are from a</l>
 					</lg>
 				</p>
 				<pb facs="#facs_2" n="2"/>
@@ -215,27 +216,33 @@
 					<lg>
 						<l facs="#facs_2_tr_1_tl_1">(to the end of the dialogue)</l>
 						<l facs="#facs_2_tr_1_tl_2">[gestrichen] context than the one translated by</l>
-						<l facs="#facs_2_tr_1_tl_3">Chalcidius and have been preserved in the</l>
+						<l facs="#facs_2_tr_1_tl_3">
+                            <persName ref="gnd-118669036">Chalcidius</persName> and have been preserved in the</l>
 						<l facs="#facs_2_tr_1_tl_4">Latin translation of the Galen. I wonder</l>
 						<l facs="#facs_2_tr_1_tl_5">whether they should be printed as an</l>
-						<l facs="#facs_2_tr_1_tl_6">appendix to the Chalcidius. Or with the</l>
-						<l facs="#facs_2_tr_1_tl_7">Cicero? - As to the Berlin Ms., Mrs Bing</l>
+						<l facs="#facs_2_tr_1_tl_6">appendix to the <persName ref="gnd-118669036">Chalcidius</persName>. Or with the</l>
+						<l facs="#facs_2_tr_1_tl_7">
+                            <persName ref="gnd-102384894">Cicero</persName>? - As to the <placeName ref="geo-2950159">Berlin</placeName> Ms., <persName ref="gnd-116183853">Mrs Bing</persName>
+                        </l>
 						<l facs="#facs_2_tr_1_tl_8">has just had the visit from a woman (Frl. Chr.</l>
 						<l facs="#facs_2_tr_1_tl_9">v. Kühn?) who seems an old friend and</l>
-						<l facs="#facs_2_tr_1_tl_10">who is in charge of Monuments in Berlin</l>
+						<l facs="#facs_2_tr_1_tl_10">who is in charge of Monuments in <placeName ref="geo-2950159">Berlin</placeName>
+                        </l>
 						<l facs="#facs_2_tr_1_tl_11">("Schlösser und Gärten"). She strickes me as</l>
 						<l facs="#facs_2_tr_1_tl_12">a better person to write to than Frau Kirchner.</l>
-						<l facs="#facs_2_tr_1_tl_13">I shall arrange that with Bing when I see</l>
-						<l facs="#facs_2_tr_1_tl_14">her this week. - Walzer has written to me that</l>
-						<l facs="#facs_2_tr_1_tl_16">he has been informed that the MS of the Theologia</l>
-						<l facs="#facs_2_tr_1_tl_18">Aristoteles, [the one] used by Dieterici, formerly in Berlin</l>
-						<l facs="#facs_2_tr_1_tl_19">is in Tübingin now. It would cost ca. 53 DM</l>
+						<l facs="#facs_2_tr_1_tl_13">I shall arrange that with <persName ref="gnd-116183853">Bing</persName> when I see</l>
+						<l facs="#facs_2_tr_1_tl_14">her this week. - <persName ref="gnd-123279933">Walzer</persName> has written to me that</l>
+						<l facs="#facs_2_tr_1_tl_16">he has been informed that the MS of the <ref target="https://explore.gnd.network/gnd/7790436-9">Theologia</ref>
+                        </l>
+						<l facs="#facs_2_tr_1_tl_18">Aristoteles, [the one] used by <persName ref="gnd-116112093">Dieterici</persName>, formerly in <placeName ref="geo-2950159">Berlin</placeName>
+                        </l>
+						<l facs="#facs_2_tr_1_tl_19">is in <placeName ref="geo-2820860">Tübingin</placeName> now. It would cost ca. 53 DM</l>
 						<l facs="#facs_2_tr_1_tl_20">to have it photostated and he could arrange</l>
-						<l facs="#facs_2_tr_1_tl_21">payment through Snell (whose daughter is with</l>
+						<l facs="#facs_2_tr_1_tl_21">payment through <persName ref="gnd-118797786">Snell</persName> (whose daughter is with</l>
 						<l facs="#facs_2_tr_1_tl_22">the Walzers more or less permanently) unless</l>
-						<l facs="#facs_2_tr_1_tl_23">the W. I. had German funds for these</l>
-						<l facs="#facs_2_tr_1_tl_24">purposes. I had written to Bing inquiring</l>
-						<l facs="#facs_2_tr_1_tl_25">about this and to Walzer, asking him</l>
+						<l facs="#facs_2_tr_1_tl_23">the <orgName ref="gnd-37543-3">W. I.</orgName> had German funds for these</l>
+						<l facs="#facs_2_tr_1_tl_24">purposes. I had written to <persName ref="gnd-116183853">Bing</persName> inquiring</l>
+						<l facs="#facs_2_tr_1_tl_25">about this and to <persName ref="gnd-123279933">Walzer</persName>, asking him</l>
 						<l facs="#facs_2_tr_1_tl_26">provisionally whether it would not be possible</l>
 						<l facs="#facs_2_tr_1_tl_27">to have microfilms made instead of</l>
 						<l facs="#facs_2_tr_1_tl_28">photostats. I hope this was all right.</l>
@@ -244,12 +251,13 @@
 				<pb facs="#facs_3" n="3"/>
 				<p facs="#facs_3_tr_2">
 					<lg>
-						<l facs="#facs_3_tr_2_tl_1">The [Minias?] have a little daughter Margarita</l>
+						<l facs="#facs_3_tr_2_tl_1">The [<persName ref="gnd-122779983">Minias?</persName>] have a little daughter Margarita</l>
 						<l facs="#facs_3_tr_2_tl_2">Juan, everything went well, Mother and child</l>
 						<l facs="#facs_3_tr_2_tl_3">are well and as the child is now a week</l>
 						<l facs="#facs_3_tr_2_tl_4">old the critical time seems to have passed.</l>
 						<l facs="#facs_3_l">They are very happy.</l>
-						<l facs="#facs_3_tr_2_tl_7">He received the first proofes of the Phaedo</l>
+						<l facs="#facs_3_tr_2_tl_7">He received the first proofes of the <ref target="https://explore.gnd.network/gnd/4006824-9">Phaedo</ref>
+                        </l>
 						<l facs="#facs_3_tr_2_tl_8">a few days after the baby arrived and</l>
 						<l facs="#facs_3_tr_2_tl_9">was very pleased with them. There is</l>
 						<l facs="#facs_3_tr_2_tl_10">not a single printing mistake in them he</l>
@@ -261,10 +269,10 @@
 						<l facs="#facs_3_tr_2_tl_19">with him. Please let us know if there</l>
 						<l facs="#facs_3_tr_2_tl_20">is anything which you don't like.</l>
 						<l facs="#facs_3_tr_2_tl_21">I have written to Sonja about</l>
-						<l facs="#facs_3_l_56">the Taylor MS. If it is still in my</l>
-						<l facs="#facs_3_l_28">drawer when I come to London, I shall</l>
-						<l facs="#facs_3_l_35">send it. I shall be in London on</l>
-						<l facs="#facs_3_l_42">Tuesday. The Walzer proofs were sent to</l>
+						<l facs="#facs_3_l_56">the <orgName ref="gnd-1004483-8">Taylor </orgName>MS. If it is still in my</l>
+						<l facs="#facs_3_l_28">drawer when I come to <placeName ref="geo-2643743">London</placeName>, I shall</l>
+						<l facs="#facs_3_l_35">send it. I shall be in <placeName ref="geo-2643743">London</placeName> on</l>
+						<l facs="#facs_3_l_42">Tuesday. The <persName ref="gnd-123279933">Walzer</persName> proofs were sent to</l>
 						<l facs="#facs_3_l_49">me here. I shall take Mom to the </l>
 						<l facs="#facs_3_tr_2_tl_33">institute.</l>
 					</lg>
@@ -272,15 +280,17 @@
 				<pb facs="#facs_4" n="4"/>
 				<p facs="#facs_4_tr_1">
 					<lg>
-						<l facs="#facs_4_tr_1_tl_1">Minio is going to Italy during the Easter holidayes</l>
+						<l facs="#facs_4_tr_1_tl_1">
+                            <persName ref="gnd-122779983">Minio</persName> is going to <placeName ref="geo-3175395">Italy </placeName>during the Easter holidayes</l>
 						<l facs="#facs_4_tr_1_tl_2">You write about my coming (or not</l>
-						<l facs="#facs_4_tr_1_tl_3">coming) to Montreal always in expressions like</l>
+						<l facs="#facs_4_tr_1_tl_3">coming) to <placeName ref="geo-6077243">Montreal</placeName> always in expressions like</l>
 						<l facs="#facs_4_l">"if you really decided..." or "do not want"</l>
 						<l facs="#facs_4_tr_1_tl_6">etc., as if I were a free agent. Believe</l>
 						<l facs="#facs_4_tr_1_tl_7">me the temptation to get out of this place,</l>
 						<l facs="#facs_4_tr_1_tl_8">especially with the prospect of - for my</l>
 						<l facs="#facs_4_tr_1_tl_9">standards - many tutorials, and to go to</l>
-						<l facs="#facs_4_tr_1_tl_10">Montreal, (not to speak of the temptation to</l>
+						<l facs="#facs_4_tr_1_tl_10">
+                            <placeName ref="geo-6077243">Montreal</placeName>, (not to speak of the temptation to</l>
 						<l facs="#facs_4_tr_1_tl_11">exchange the rissoles and whale steaks against</l>
 						<l facs="#facs_4_tr_1_tl_12">barbecue chicken and steaks!) is overwhelming.</l>
 						<l facs="#facs_4_tr_1_tl_13">But I really do not see how I can having</l>
@@ -289,13 +299,15 @@
 						<l facs="#facs_4_tr_1_tl_16">what they give me - (even if it is only whale</l>
 						<l facs="#facs_4_l_13">steak). It is a question of 'Either - Or'.</l>
 						<l facs="#facs_4_tr_1_tl_19">As I said, I might be able to take leave</l>
-						<l facs="#facs_4_tr_1_tl_20">of absence for the Michaelmas Term. -</l>
+						<l facs="#facs_4_tr_1_tl_20">of absence for the <date when="1949-09-29">Michaelmas</date> Term. -</l>
 						<l facs="#facs_4_tr_1_tl_21">I shall have the apparatus fontium in print</l>
 						<l facs="#facs_4_tr_1_tl_22">before I leave.</l>
 						<l facs="#facs_4_tr_1_tl_23">All the best,</l>
 						<l facs="#facs_4_tr_1_tl_24">Love,</l>
 						<l facs="#facs_4_tr_1_tl_26">Yours</l>
-						<l facs="#facs_4_tr_1_tl_27">Lotte</l>
+						<l facs="#facs_4_tr_1_tl_27">
+                            <persName ref="gnd-1029912939">Lotte</persName>
+                        </l>
 					</lg>
 				</p>
 			</div>

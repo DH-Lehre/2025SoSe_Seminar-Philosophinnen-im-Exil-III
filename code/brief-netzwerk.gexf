@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-07-01">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="title" type="string" />
+      <attribute id="1" title="count" type="long" />
+      <attribute id="2" title="size" type="long" />
+      <attribute id="3" title="color" type="string" />
+    </attributes>
+    <nodes>
+      <node id="gnd-116183853" label="Bing, Gertrud Bing, Getrud Bing, Miss Bing, Mrs Bing">
+        <attvalues>
+          <attvalue for="0" value="Bing, Gertrud Bing, Getrud Bing, Miss Bing, Mrs Bing" />
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="44" />
+          <attvalue for="3" value="#FF0000" />
+        </attvalues>
+      </node>
+      <node id="gnd-118509039" label="Walter">
+        <attvalues>
+          <attvalue for="0" value="Walter" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118804898" label="Herrn Prof. Saxl, Herrn Saxl, Saxl">
+        <attvalues>
+          <attvalue for="0" value="Herrn Prof. Saxl, Herrn Saxl, Saxl" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="24" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118671448" label="Prof. Dempf">
+        <attvalues>
+          <attvalue for="0" value="Prof. Dempf" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118777378" label="Raymond">
+        <attvalues>
+          <attvalue for="0" value="Raymond" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="18" />
+          <attvalue for="3" value="#FF0000" />
+        </attvalues>
+      </node>
+      <node id="gnd-118512110" label="Blunt">
+        <attvalues>
+          <attvalue for="0" value="Blunt" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-119325586" label="Ashmole">
+        <attvalues>
+          <attvalue for="0" value="Ashmole" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-12034517X" label="Gibb, Gibbs, Gibbt">
+        <attvalues>
+          <attvalue for="0" value="Gibb, Gibbs, Gibbt" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="40" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-123279933" label="W., Walzer">
+        <attvalues>
+          <attvalue for="0" value="W., Walzer" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="30" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-1029912939" label="Dr. L. Labowsky, Lotte, Lotti, Miss Labowsky">
+        <attvalues>
+          <attvalue for="0" value="Dr. L. Labowsky, Lotte, Lotti, Miss Labowsky" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="28" />
+          <attvalue for="3" value="#FF0000" />
+        </attvalues>
+      </node>
+      <node id="gnd-118801775" label="Theiler">
+        <attvalues>
+          <attvalue for="0" value="Theiler" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-120712016" label="Anscombe, Miss Anscombe">
+        <attvalues>
+          <attvalue for="0" value="Anscombe, Miss Anscombe" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118650130" label="Aristotle">
+        <attvalues>
+          <attvalue for="0" value="Aristotle" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-117206407" label="Stallbaum">
+        <attvalues>
+          <attvalue for="0" value="Stallbaum" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118522477" label="Cousin">
+        <attvalues>
+          <attvalue for="0" value="Cousin" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-119000954" label="Mr. Geach">
+        <attvalues>
+          <attvalue for="0" value="Mr. Geach" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-122779983" label="Mimio, Minias?, Minio, Mr. Minio">
+        <attvalues>
+          <attvalue for="0" value="Mimio, Minias?, Minio, Mr. Minio" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="22" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-11863562X" label="Wundt">
+        <attvalues>
+          <attvalue for="0" value="Wundt" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-126628432" label="Lieftinck">
+        <attvalues>
+          <attvalue for="0" value="Lieftinck" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118669036" label="Chalcidius">
+        <attvalues>
+          <attvalue for="0" value="Chalcidius" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-102384894" label="Cicero">
+        <attvalues>
+          <attvalue for="0" value="Cicero" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-116112093" label="Dieterici">
+        <attvalues>
+          <attvalue for="0" value="Dieterici" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118797786" label="Snell">
+        <attvalues>
+          <attvalue for="0" value="Snell" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118641778" label="Proclus">
+        <attvalues>
+          <attvalue for="0" value="Proclus" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="18" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118594893" label="Plato">
+        <attvalues>
+          <attvalue for="0" value="Plato" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-129070807" label="Cusanus">
+        <attvalues>
+          <attvalue for="0" value="Cusanus" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118640763" label="Macrobius">
+        <attvalues>
+          <attvalue for="0" value="Macrobius" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118541137" label="Grabmann">
+        <attvalues>
+          <attvalue for="0" value="Grabmann" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-102421382" label="Hugo, Magister Hugo">
+        <attvalues>
+          <attvalue for="0" value="Hugo, Magister Hugo" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-11871936X" label="W. v. Conches, Wilhelm v. C.">
+        <attvalues>
+          <attvalue for="0" value="W. v. Conches, Wilhelm v. C." />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-116326239" label="Eyssenh, Eyssenhardt">
+        <attvalues>
+          <attvalue for="0" value="Eyssenh, Eyssenhardt" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118708899" label="Hasenclever">
+        <attvalues>
+          <attvalue for="0" value="Hasenclever" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118519522" label="ERNST CASSIRER, Ernst Cassirer">
+        <attvalues>
+          <attvalue for="0" value="ERNST CASSIRER, Ernst Cassirer" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-1157950825" label="Mr. F. David Hoeniger">
+        <attvalues>
+          <attvalue for="0" value="Mr. F. David Hoeniger" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-171253949" label="Professor Koelln">
+        <attvalues>
+          <attvalue for="0" value="Professor Koelln" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118667386" label="Mrs. Toni Cassirer">
+        <attvalues>
+          <attvalue for="0" value="Mrs. Toni Cassirer" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118591568" label="Panofsky">
+        <attvalues>
+          <attvalue for="0" value="Panofsky" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-116719583" label="Father Henry">
+        <attvalues>
+          <attvalue for="0" value="Father Henry" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-119144719" label="Einaudi">
+        <attvalues>
+          <attvalue for="0" value="Einaudi" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118686097" label="Alfarabi">
+        <attvalues>
+          <attvalue for="0" value="Alfarabi" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-174122004" label="Professor E.C. Mossner">
+        <attvalues>
+          <attvalue for="0" value="Professor E.C. Mossner" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-127962247" label="Mrs. W. Scheidt">
+        <attvalues>
+          <attvalue for="0" value="Mrs. W. Scheidt" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="gnd-116183853" target="gnd-118509039" id="0" />
+      <edge source="gnd-116183853" target="gnd-118777378" id="1" />
+      <edge source="gnd-116183853" target="gnd-118804898" id="2" />
+      <edge source="gnd-116183853" target="gnd-118512110" id="3" />
+      <edge source="gnd-116183853" target="gnd-119325586" id="4" />
+      <edge source="gnd-116183853" target="gnd-12034517X" id="5" />
+      <edge source="gnd-116183853" target="gnd-118801775" id="6" />
+      <edge source="gnd-116183853" target="gnd-123279933" id="7" />
+      <edge source="gnd-116183853" target="gnd-120712016" id="8" />
+      <edge source="gnd-116183853" target="gnd-126628432" id="9" />
+      <edge source="gnd-116183853" target="gnd-118669036" id="10" />
+      <edge source="gnd-116183853" target="gnd-102384894" id="11" />
+      <edge source="gnd-116183853" target="gnd-118797786" id="12" />
+      <edge source="gnd-116183853" target="gnd-118641778" id="13" />
+      <edge source="gnd-116183853" target="gnd-122779983" id="14" />
+      <edge source="gnd-116183853" target="gnd-118519522" id="15" />
+      <edge source="gnd-116183853" target="gnd-1029912939" id="16" />
+      <edge source="gnd-116183853" target="gnd-119144719" id="17" />
+      <edge source="gnd-118509039" target="gnd-118804898" id="18" />
+      <edge source="gnd-118804898" target="gnd-118671448" id="19" />
+      <edge source="gnd-118804898" target="gnd-123279933" id="20" />
+      <edge source="gnd-118804898" target="gnd-12034517X" id="21" />
+      <edge source="gnd-118804898" target="gnd-116719583" id="22" />
+      <edge source="gnd-118804898" target="gnd-1029912939" id="23" />
+      <edge source="gnd-118777378" target="gnd-118801775" id="24" />
+      <edge source="gnd-118777378" target="gnd-126628432" id="25" />
+      <edge source="gnd-118512110" target="gnd-119325586" id="26" />
+      <edge source="gnd-12034517X" target="gnd-123279933" id="27" />
+      <edge source="gnd-12034517X" target="gnd-1029912939" id="28" />
+      <edge source="gnd-123279933" target="gnd-116112093" id="29" />
+      <edge source="gnd-123279933" target="gnd-122779983" id="30" />
+      <edge source="gnd-1029912939" target="gnd-117206407" id="31" />
+      <edge source="gnd-1029912939" target="gnd-122779983" id="32" />
+      <edge source="gnd-1029912939" target="gnd-129070807" id="33" />
+      <edge source="gnd-1029912939" target="gnd-118640763" id="34" />
+      <edge source="gnd-1029912939" target="gnd-118591568" id="35" />
+      <edge source="gnd-1029912939" target="gnd-116719583" id="36" />
+      <edge source="gnd-1029912939" target="gnd-118519522" id="37" />
+      <edge source="gnd-1029912939" target="gnd-118686097" id="38" />
+      <edge source="gnd-1029912939" target="gnd-174122004" id="39" />
+      <edge source="gnd-120712016" target="gnd-118650130" id="40" />
+      <edge source="gnd-120712016" target="gnd-118522477" id="41" />
+      <edge source="gnd-120712016" target="gnd-119000954" id="42" />
+      <edge source="gnd-117206407" target="gnd-118522477" id="43" />
+      <edge source="gnd-119000954" target="gnd-122779983" id="44" />
+      <edge source="gnd-122779983" target="gnd-11863562X" id="45" />
+      <edge source="gnd-122779983" target="gnd-118594893" id="46" />
+      <edge source="gnd-118669036" target="gnd-102384894" id="47" />
+      <edge source="gnd-116112093" target="gnd-118797786" id="48" />
+      <edge source="gnd-118641778" target="gnd-118594893" id="49" />
+      <edge source="gnd-118641778" target="gnd-129070807" id="50" />
+      <edge source="gnd-118640763" target="gnd-118541137" id="51" />
+      <edge source="gnd-118541137" target="gnd-102421382" id="52" />
+      <edge source="gnd-102421382" target="gnd-11871936X" id="53" />
+      <edge source="gnd-11871936X" target="gnd-116326239" id="54" />
+      <edge source="gnd-116326239" target="gnd-118708899" id="55" />
+      <edge source="gnd-118519522" target="gnd-1157950825" id="56" />
+      <edge source="gnd-1157950825" target="gnd-171253949" id="57" />
+      <edge source="gnd-171253949" target="gnd-118667386" id="58" />
+      <edge source="gnd-118667386" target="gnd-118591568" id="59" />
+      <edge source="gnd-119144719" target="gnd-118686097" id="60" />
+      <edge source="gnd-174122004" target="gnd-127962247" id="61" />
+    </edges>
+  </graph>
+</gexf>

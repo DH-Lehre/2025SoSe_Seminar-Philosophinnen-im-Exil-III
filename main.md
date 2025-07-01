@@ -1051,3 +1051,26 @@ Falls ihr weitere Sachen annotieren wollt, dann gibt es bspw.
 ### Aufgabe zur nächsten Sitzung
 
 Stellt die Transkription fertig (und gebt mir wegen des Exports Bescheid), annotiert die Briefe und schickt uns die exportierten, annotierten Briefe bis Montag, 18 Uhr (ggb@informatik.uni-kiel.de).
+
+## Sitzung am 01.07.
+
+### Voyant Tools für die Analyse von Texten 
+
+![Voyant Tools](img/voyant_tools.png)
+
+### Aufgabe zur nächsten Sitzung 
+
+Bereitet als Kleingruppe eine Präsentation von max. 10 Minuten Länge vor, in der ihr euch mit den Briefen beschäftigt. 
+
+Ihr solltet:
+
+* Sucht euch eine interessante Fragestellung, die ihr innerhalb der Zeit beantworten könnt!
+* Berücksichtigt informatisch-digitale und fachlich-philosophische Aspekte. 
+* Reflektiert euer Vorgehen.
+* Sprecht mit uns, wenn ihr unsicher seid oder keine Ideen habt. 
+
+Ihr könnt: 
+
+* Einen einzelnen Brief, eine Gruppe von oder alle Briefe für die Beantwortung der Fragestellung verwenden. 
+* Nutzt gerne die Notebooks aus dem Seminar und verfeinert/vertieft die dort begonnenen Analysen. 
+* Euch eine interessante Präsentationsform überlegen, bspw. mit Präsentationsfolien (bevorzugt in Markdown), einem Jupyter-Notebook etc. 

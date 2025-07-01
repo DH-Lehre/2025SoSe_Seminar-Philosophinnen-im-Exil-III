@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Raymond Klibansky an Getrud Bing 23.05.1948</title>
+        <author ref="http://d-nb.info/gnd/118777378"/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Literaturarchich Marbach</publisher>
+        <idno>1948-03-23_Klibansky_Bing</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>Literaturarchich Marbach</repository>
+            <idno>damn</idno>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>gemischt</support>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>1948-05-23</origDate>
+              <origPlace>Warbug Institute, London</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+      <textClass>
+        <keywords scheme="LOC">
+              <term>sh99002028</term>
+              <term>sh85145238</term>
+              <term>sh97004654</term>
+              <term/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-05-24">Maximilian Verwiebe</change>
+      <change when="2025-05-07">Digitalisierung durch Moritz Riemann</change>
+    </revisionDesc>
+  </teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="0001_p001.jpg" width="2479px" height="3508px"/>
+			<zone points="352,291 352,3331 2385,3331 2385,291" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="539,348 1144,323 1575,373 1598,265 859,277 781,232 645,267 537,219" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="927,403 1056,436 1149,408 1189,423 1232,408 1260,431 1293,406 1328,436 1373,408 1434,446 1482,433 1482,355 1452,343 1200,333 1159,358 1066,333 927,343" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="1013,512 1061,517 1104,484 1129,496 1378,486 1378,413 1331,433 1300,421 1275,433 1237,426 1212,411 1179,426 1126,413 1058,438 1013,428" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="1399,617 1489,638 1580,617 1608,645 1673,620 1756,648 1822,620 1910,655 2061,658 2059,529 1867,559 1794,519 1721,570 1663,539 1552,522 1532,544 1396,504" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="418,852 524,806 718,864 983,824 1071,877 1179,867 1459,829 1459,726 1318,728 1273,685 1227,721 882,688 746,748 673,698 416,728" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="746,970 990,1018 1217,968 2197,1008 2197,887 2119,925 1950,890 1399,922 1328,879 1063,920 877,864 746,910" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="363,1071 1021,1041 1111,1079 1268,1046 1814,1094 1920,1046 2132,1101 2114,983 1814,983 1739,1021 1618,975 1220,970 995,1018 902,978 554,1003 363,960" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="363,1162 600,1114 1583,1154 1583,1091 1426,1056 363,1071" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="746,1255 1656,1245 2286,1293 2286,1139 1893,1207 1494,1147 1373,1194 1089,1194 1005,1152 746,1187" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="355,1336 2157,1343 2157,1293 2089,1257 1870,1303 1610,1303 1389,1247 355,1265" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="365,1401 1396,1444 1562,1399 2197,1421 2182,1331 2006,1366 365,1336" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="353,1464 829,1515 885,1479 1698,1512 1898,1474 2006,1512 2109,1492 2109,1429 350,1394" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="358,1560 2172,1578 2195,1507 885,1479 796,1515 355,1472" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="368,1615 2129,1646 2281,1628 2281,1575 365,1555" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="360,1683 2273,1709 2273,1630 360,1625" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="360,1777 2323,1777 2323,1691 1724,1729 360,1693" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+				<zone points="363,1822 2359,1855 2344,1764 1406,1807 1358,1772 1265,1804 592,1754 363,1779" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+				<zone points="355,1900 2381,1933 2381,1862 2339,1850 1200,1867 355,1824" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+				<zone points="363,1978 844,1983 983,2024 1744,1991 1845,2029 2061,1991 2273,2036 2354,2026 2351,1930 360,1913" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+				<zone points="355,2046 428,2041 474,2064 542,2051 650,2089 726,2049 885,2066 885,1993 867,1988 811,2001 612,1976 552,2003 464,1981 418,1996 391,1976 355,1991" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+				<zone points="741,2127 2331,2137 2291,2059 2044,2074 1895,2031 1653,2084 741,2069" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+				<zone points="365,2200 2230,2210 2230,2145 2177,2129 365,2142" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+				<zone points="360,2273 2286,2293 2271,2180 2129,2228 360,2202" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+				<zone points="355,2361 680,2381 844,2331 2298,2371 2283,2278 1729,2313 1532,2273 355,2283" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+				<zone points="738,2422 2339,2437 2339,2356 2208,2346 738,2346" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+				<zone points="353,2480 2318,2510 2291,2424 2069,2460 2011,2422 1724,2454 648,2409 512,2452 353,2419" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
+				<zone points="350,2548 1051,2553 1207,2591 2281,2570 2281,2495 350,2495" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
+				<zone points="348,2628 2134,2664 2215,2654 2215,2573 1257,2565 1174,2598 895,2558 444,2588 345,2548" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
+				<zone points="350,2706 2301,2724 2301,2671 2129,2636 1290,2671 1101,2631 348,2628" rendition="Line" xml:id="facs_1_tr_1_tl_29"/>
+				<zone points="353,2772 2172,2772 2303,2805 2303,2717 2268,2709 353,2706" rendition="Line" xml:id="facs_1_tr_1_tl_30"/>
+				<zone points="353,2850 930,2832 1263,2873 1441,2835 1749,2878 1920,2843 1998,2888 2114,2840 2228,2870 2228,2787 1227,2797 1149,2764 912,2807 350,2769" rendition="Line" xml:id="facs_1_tr_1_tl_31"/>
+				<zone points="353,2908 1963,2933 1963,2860 1918,2845 1242,2880 1109,2843 353,2850" rendition="Line" xml:id="facs_1_tr_1_tl_32"/>
+				<zone points="733,2986 854,3019 1459,2979 1620,3024 1691,2984 2344,3011 2344,2928 2265,2916 1452,2948 1315,2911 1084,2956 1003,2913 733,2916" rendition="Line" xml:id="facs_1_tr_1_tl_33"/>
+				<zone points="360,3052 733,3052 829,3090 879,3052 2268,3072 2268,3016 2190,2994 1620,3024 1492,2984 940,2986 854,3021 612,2933 504,2969 360,2928" rendition="Line" xml:id="facs_1_tr_1_tl_34"/>
+				<zone points="353,3120 1235,3155 1472,3117 2049,3163 2167,3147 2165,3067 827,3090 350,3049" rendition="Line" xml:id="facs_1_tr_1_tl_35"/>
+				<zone points="355,3195 1411,3198 1724,3238 2132,3203 2129,3142 1633,3175 1404,3127 1200,3170 353,3115" rendition="Line" xml:id="facs_1_tr_1_tl_36"/>
+				<zone points="353,3251 1726,3289 1724,3231 1570,3203 353,3195" rendition="Line" xml:id="facs_1_tr_1_tl_37"/>
+				<zone points="338,3352 907,3329 1046,3374 1351,3329 1469,3379 1615,3329 1711,3367 1832,3324 1976,3359 2099,3329 2074,3251 1988,3296 1767,3258 1716,3296 1144,3258 1084,3299 872,3256 338,3263" rendition="Line" xml:id="facs_1_tr_1_tl_40"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="0002_p002.jpg" width="2479px" height="3508px"/>
+			<zone points="337,313 337,3472 2400,3472 2400,313" rendition="TextRegion" xml:id="facs_2_tr_2">
+				<zone points="345,345 2360,378 2332,296 2000,314 1908,255 1714,314 1218,294 1149,255 945,304 766,263 605,309 472,268 345,294" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
+				<zone points="337,429 876,462 2140,434 2140,368 337,358" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
+				<zone points="345,503 2303,518 2286,411 1844,460 345,437" rendition="Line" xml:id="facs_2_tr_2_tl_3"/>
+				<zone points="350,587 1078,564 1256,610 1749,569 2046,613 2275,587 2273,513 1724,541 1553,503 889,534 347,501" rendition="Line" xml:id="facs_2_tr_2_tl_4"/>
+				<zone points="345,661 460,674 613,638 679,667 970,633 1085,672 1121,656 1121,585 1078,564 881,592 552,564 345,587" rendition="Line" xml:id="facs_2_tr_2_tl_5"/>
+				<zone points="475,787 1484,812 1578,781 1931,820 2010,784 2324,827 2321,723 2063,690 1966,741 1724,738 1514,684 1351,733 1103,661 945,720 472,687" rendition="Line" xml:id="facs_2_tr_2_tl_6"/>
+				<zone points="345,863 2311,889 2309,817 2250,797 345,789" rendition="Line" xml:id="facs_2_tr_2_tl_7"/>
+				<zone points="360,919 2235,940 2235,886 2109,858 2043,896 1596,853 1236,884 917,843 848,878 360,856" rendition="Line" xml:id="facs_2_tr_2_tl_8"/>
+				<zone points="347,996 2383,1009 2383,955 2309,914 2107,958 347,912" rendition="Line" xml:id="facs_2_tr_2_tl_9"/>
+				<zone points="350,1057 2326,1085 2326,1014 2278,1006 350,996" rendition="Line" xml:id="facs_2_tr_2_tl_10"/>
+				<zone points="345,1139 1050,1139 1106,1172 1182,1131 2235,1144 2232,1096 2137,1075 1292,1070 1172,1111 1004,1070 345,1067" rendition="Line" xml:id="facs_2_tr_2_tl_11"/>
+				<zone points="347,1210 2303,1231 2303,1162 2163,1149 347,1142" rendition="Line" xml:id="facs_2_tr_2_tl_12"/>
+				<zone points="352,1274 848,1302 1262,1269 1341,1325 1399,1272 1719,1308 1844,1277 2071,1318 2349,1292 2347,1223 350,1210" rendition="Line" xml:id="facs_2_tr_2_tl_13"/>
+				<zone points="337,1346 2316,1371 2314,1297 2245,1290 2069,1315 1839,1274 1673,1310 1397,1272 1343,1325 1259,1269 1119,1300 335,1272" rendition="Line" xml:id="facs_2_tr_2_tl_14"/>
+				<zone points="345,1430 1800,1417 2301,1458 2301,1371 2265,1364 2066,1397 1721,1348 1642,1382 1514,1348 1479,1379 345,1351" rendition="Line" xml:id="facs_2_tr_2_tl_15"/>
+				<zone points="342,1484 2145,1519 2145,1443 2053,1430 342,1433" rendition="Line" xml:id="facs_2_tr_2_tl_16"/>
+				<zone points="347,1581 2378,1586 2378,1517 2186,1491 1915,1527 347,1484" rendition="Line" xml:id="facs_2_tr_2_tl_17"/>
+				<zone points="347,1657 1348,1637 1657,1703 1926,1650 2148,1665 2171,1594 825,1550 345,1578" rendition="Line" xml:id="facs_2_tr_2_tl_18"/>
+				<zone points="457,1775 2232,1793 2229,1680 1550,1703 1305,1662 1085,1703 730,1665 457,1706" rendition="Line" xml:id="facs_2_tr_2_tl_19"/>
+				<zone points="352,1841 1818,1872 1969,1841 2352,1880 2349,1795 2301,1780 2115,1777 2069,1818 1890,1772 352,1765" rendition="Line" xml:id="facs_2_tr_2_tl_20"/>
+				<zone points="345,1900 416,1933 712,1903 1269,1938 1397,1903 1591,1959 2000,1908 2273,1926 2273,1849 1486,1844 1405,1885 1241,1834 345,1849" rendition="Line" xml:id="facs_2_tr_2_tl_21"/>
+				<zone points="347,1992 2183,1997 2183,1923 2020,1915 1606,1959 1397,1903 1282,1936 347,1923" rendition="Line" xml:id="facs_2_tr_2_tl_22"/>
+				<zone points="345,2063 2316,2063 2316,1982 1808,2015 1601,1974 1461,2012 345,1989" rendition="Line" xml:id="facs_2_tr_2_tl_23"/>
+				<zone points="352,2135 2273,2148 2273,2069 2212,2061 352,2051" rendition="Line" xml:id="facs_2_tr_2_tl_24"/>
+				<zone points="337,2214 2344,2206 2342,2137 335,2130" rendition="Line" xml:id="facs_2_tr_2_tl_25"/>
+				<zone points="347,2252 444,2286 1177,2258 1226,2296 1451,2258 2388,2293 2388,2219 2214,2196 1933,2227 1514,2196 1420,2232 1302,2189 347,2206" rendition="Line" xml:id="facs_2_tr_2_tl_26"/>
+				<zone points="342,2344 2360,2362 2360,2283 2311,2273 2117,2301 1696,2260 1609,2298 1279,2263 1221,2296 1159,2260 342,2260" rendition="Line" xml:id="facs_2_tr_2_tl_27"/>
+				<zone points="347,2408 1422,2393 1673,2454 1734,2403 2280,2413 2280,2360 2199,2342 347,2347" rendition="Line" xml:id="facs_2_tr_2_tl_28"/>
+				<zone points="345,2467 2375,2503 2349,2408 345,2406" rendition="Line" xml:id="facs_2_tr_2_tl_29"/>
+				<zone points="345,2536 2393,2574 2393,2505 2217,2475 1622,2518 1287,2467 345,2477" rendition="Line" xml:id="facs_2_tr_2_tl_30"/>
+				<zone points="345,2630 2265,2628 2265,2567 2212,2549 1384,2546 1254,2584 1080,2541 345,2536" rendition="Line" xml:id="facs_2_tr_2_tl_31"/>
+				<zone points="345,2702 2217,2707 2270,2697 2268,2625 342,2630" rendition="Line" xml:id="facs_2_tr_2_tl_32"/>
+				<zone points="332,2766 2309,2771 2309,2694 2081,2681 873,2681 735,2722 562,2679 332,2692" rendition="Line" xml:id="facs_2_tr_2_tl_33"/>
+				<zone points="335,2824 1535,2858 1535,2771 1481,2761 1042,2799 976,2758 335,2766" rendition="Line" xml:id="facs_2_tr_2_tl_34"/>
+				<zone points="342,2893 493,2929 2337,2927 2306,2837 342,2840" rendition="Line" xml:id="facs_2_tr_2_tl_36"/>
+				<zone points="322,2980 2344,3006 2344,2927 2171,2911 1527,2909 1399,2950 1239,2899 1162,2939 322,2904" rendition="Line" xml:id="facs_2_tr_2_tl_37"/>
+				<zone points="337,3049 2012,3077 2199,3044 2380,3082 2378,2980 337,2993" rendition="Line" xml:id="facs_2_tr_2_tl_38"/>
+				<zone points="337,3105 2344,3146 2344,3072 2199,3047 337,3047" rendition="Line" xml:id="facs_2_tr_2_tl_39"/>
+				<zone points="342,3192 2214,3187 2326,3223 2344,3126 1831,3116 1742,3154 340,3113" rendition="Line" xml:id="facs_2_tr_2_tl_40"/>
+				<zone points="337,3248 1828,3292 2252,3264 2252,3228 2112,3192 1777,3223 337,3190" rendition="Line" xml:id="facs_2_tr_2_tl_41"/>
+				<zone points="329,3335 2168,3328 2344,3361 2324,3253 1691,3264 1627,3302 1555,3266 447,3282 329,3246" rendition="Line" xml:id="facs_2_tr_2_tl_42"/>
+				<zone points="337,3391 2217,3422 2217,3348 2171,3330 337,3335" rendition="Line" xml:id="facs_2_tr_2_tl_43"/>
+				<zone points="335,3501 2479,3507 378,3506 2479,3507 411,3506 495,3476 2479,3507 569,3506 2479,3507 590,3506 2479,3507 605,3506 940,3453 1259,3506 2479,3507 1267,3506 1468,3460 1859,3494 1880,3404 878,3430 812,3394 335,3394" rendition="Line" xml:id="facs_2_tr_2_tl_44"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lg>
+						<l facs="#facs_1_tr_1_tl_1"><orgName ref="gnd-1044992484">Department of Philosophy</orgName></l>
+						<l facs="#facs_1_tr_1_tl_2"><placeName ref="geo-12750417">MCGILL UNIVERSITY</placeName></l>
+						<l facs="#facs_1_tr_1_tl_3"><placeName ref="geo-6077243">MONTREAL</placeName> 2</l>
+						<l facs="#facs_1_tr_1_tl_4"><date to="1948-05-23" from="1948-05-23" when="1948-05-23">May 23rd, 1948</date>.</l>
+						<l facs="#facs_1_tr_1_tl_5">My dear <persName ref="gnd-116183853">Getrud Bing</persName>,</l>
+						<l facs="#facs_1_tr_1_tl_6">I hope you have had a few restful</l>
+						<l facs="#facs_1_tr_1_tl_7">days. At last, the examinations are over,</l>
+						<l facs="#facs_1_tr_1_tl_8">and I can write a few lines.</l>
+						<l facs="#facs_1_tr_1_tl_9">TRANSLATION OF <persName ref="gnd-118519522">ERNST CASSIRER</persName>: I in</l>
+						<l facs="#facs_1_tr_1_tl_10">formed <persName ref="gnd-1157950825">Mr. F. David Hoeniger</persName> - the man in</l>
+						<l facs="#facs_1_tr_1_tl_11"><placeName ref="geo-6167865">Toronto</placeName> who is "planning to translate 'Die</l>
+						<l facs="#facs_1_tr_1_tl_12">Platonische Renaissance in England' into</l>
+						<l facs="#facs_1_tr_1_tl_13">English" - that the translation rights are</l>
+						<l facs="#facs_1_tr_1_tl_14">vested in the <orgName ref="gnd-37543-3">Warburg Institute</orgName>. I asked him</l>
+						<l facs="#facs_1_tr_1_tl_15">if he had found a publisher; if so, the pub-</l>
+						<l facs="#facs_1_tr_1_tl_16">lisher should get in touch with the Institute</l>
+						<l facs="#facs_1_tr_1_tl_17">to discuss the terms. I also told him that X</l>
+						<l facs="#facs_1_tr_1_tl_18">I had heard that the book was already translate</l>
+						<l facs="#facs_1_tr_1_tl_19">ted and that I was trying to obtain confirmat-</l>
+						<l facs="#facs_1_tr_1_tl_20">ion of this.</l>
+						<l facs="#facs_1_tr_1_tl_21">I have the impression that Mr. Hoeni-</l>
+						<l facs="#facs_1_tr_1_tl_22">ger's project is fairly vague. Should he be</l>
+						<l facs="#facs_1_tr_1_tl_23">serious and have found a publisher, it can't</l>
+						<l facs="#facs_1_tr_1_tl_24">do harm if that publisher makes you an offer.</l>
+						<l facs="#facs_1_tr_1_tl_25">I have also written to <placeName ref="geo-4959019"><orgName ref="gnd-1094478-3">Bowdoin</orgName></placeName> Colle-</l>
+						<l facs="#facs_1_tr_1_tl_26">ge, asking <persName ref="gnd-171253949">Professor Koelln</persName> for details about</l>
+						<l facs="#facs_1_tr_1_tl_27">Mr. Pettibridge's translation. It seems that</l>
+						<l facs="#facs_1_tr_1_tl_28">P. has been unable, during all these years,</l>
+						<l facs="#facs_1_tr_1_tl_29">to find a translator.  - Now that some of Cas-</l>
+						<l facs="#facs_1_tr_1_tl_30">sirer's works have appeared in U.S.A., it may</l>
+						<l facs="#facs_1_tr_1_tl_31">well be that a publisger could be found. He</l>
+						<l facs="#facs_1_tr_1_tl_32">would naturally have to apply to you.</l>
+						<l facs="#facs_1_tr_1_tl_33">I shall see <persName ref="gnd-118667386">Mrs. Toni Cassirer</persName> in the</l>
+						<l facs="#facs_1_tr_1_tl_34">near future. If you could let me know (quite</l>
+						<l facs="#facs_1_tr_1_tl_35">informally and subject to later precision)</l>
+						<l facs="#facs_1_tr_1_tl_36">what your views are about the granting of</l>
+						<l facs="#facs_1_tr_1_tl_37">translation rights in this case, it would give</l>
+						<l facs="#facs_1_tr_1_tl_40">me some guidance. I imagine you would like</l>
+					</lg>
+				</p>
+				<pb facs="#facs_2" n="2"/>
+				<p facs="#facs_2_tr_2">
+					<lg>
+						<l facs="#facs_2_tr_2_tl_1">to have some royalty (or outright purchase sum?)</l>
+						<l facs="#facs_2_tr_2_tl_2">for the Institute, though not a high one?</l>
+						<l facs="#facs_2_tr_2_tl_3">I could bring up the matter when I am in<placeName ref="geo-4846179"> <placeName ref="geo-5015627">Yale</placeName>.</placeName></l>
+						<l facs="#facs_2_tr_2_tl_4">(The <orgName ref="gnd-5262965-X">Yale</orgName> or the <orgName ref="gnd-5096712-5">Princeton Press</orgName> would be the</l>
+						<l facs="#facs_2_tr_2_tl_5">most likely ones).</l>
+						<l facs="#facs_2_tr_2_tl_6"><choice><orig>MELENCOLIA</orig><reg>dd</reg></choice>. When I am in <placeName ref="geo-5128581">New York</placeName>, I would</l>
+						<l facs="#facs_2_tr_2_tl_7">willingly go to <placeName ref="geo-5102922">Princeton</placeName>, to discuss the mat-</l>
+						<l facs="#facs_2_tr_2_tl_8">ter with <persName ref="gnd-118591568">Panofsky</persName>. I don't like the man much</l>
+						<l facs="#facs_2_tr_2_tl_9">and don't foresce that I shall revise my opinion</l>
+						<l facs="#facs_2_tr_2_tl_10">to any appreciable extent. But I think I shall</l>
+						<l facs="#facs_2_tr_2_tl_11">get along with him, and it is worth a little</l>
+						<l facs="#facs_2_tr_2_tl_12">effort on my part if it helps the publication.</l>
+						<l facs="#facs_2_tr_2_tl_13">Could you perhaps let me know some time how far</l>
+						<l facs="#facs_2_tr_2_tl_14">the matter has progressed, and what remains to be</l>
+						<l facs="#facs_2_tr_2_tl_15">done ? - I will try to get him to do his part;</l>
+						<l facs="#facs_2_tr_2_tl_16">if I fail, no harm will have been done. It</l>
+						<l facs="#facs_2_tr_2_tl_17">would mean carte blanche for us; and, I believe,</l>
+						<l facs="#facs_2_tr_2_tl_18">all could be done in a fairly friendly way.</l>
+						<l facs="#facs_2_tr_2_tl_19"><choice><orig>PLATO ARABUS</orig><reg>Überlieferung von Platons Werken im arabischen Raum </reg></choice>. No time yet to write you at</l>
+						<l facs="#facs_2_tr_2_tl_20">length. I received a telegram from <persName ref="gnd-1029912939">Lotte</persName> saying</l>
+						<l facs="#facs_2_tr_2_tl_21">that in the Plato Arabus report <choice><orig>W.</orig><reg>Unbekannte Person, vmtl Betreuer von Mr. Lewis, Islamforscher?</reg></choice> put in the</l>
+						<l facs="#facs_2_tr_2_tl_22">announcement that Mr. Lewis - a student who</l>
+						<l facs="#facs_2_tr_2_tl_23">works under W's supervision - is going to edit</l>
+						<l facs="#facs_2_tr_2_tl_24">the <choice><orig>Theologia Aristotelis</orig><reg>Arabische Übersetzung und Bearbeitung von Teilen der Enneaden des Neuplatonikers Plotin</reg></choice>. Here again, I had</l>
+						<l facs="#facs_2_tr_2_tl_25">not been informed, and the whole matter was un-</l>
+						<l facs="#facs_2_tr_2_tl_26">der discussion last year, when <persName ref="gnd-116719583">Father Henry</persName> (the</l>
+						<l facs="#facs_2_tr_2_tl_27">Jesuit, Professor at the Inst. Catholique in Pa-</l>
+						<l facs="#facs_2_tr_2_tl_28">ris) vame to see <persName ref="gnd-118804898">Saxl</persName> and me, to ascertain in</l>
+						<l facs="#facs_2_tr_2_tl_29">which form he could co-operate?  It would obvious</l>
+						<l facs="#facs_2_tr_2_tl_30">ly be an insult to Henry and, as we promised him</l>
+						<l facs="#facs_2_tr_2_tl_31">to pursue the matter, a breach of faith if he</l>
+						<l facs="#facs_2_tr_2_tl_32">were left out altogether. I cabled <persName ref="gnd-1029912939">Lotte</persName> last</l>
+						<l facs="#facs_2_tr_2_tl_33">night to add: "Negotiations are in progress</l>
+						<l facs="#facs_2_tr_2_tl_34">Professor Henry, of <placeName ref="geo-2792482">Louvain</placeName>,</l>
+						<choice><orig><l facs="#facs_2_tr_2_tl_36">who is preparing the critical edition of Ploti-</l>
+						<l facs="#facs_2_tr_2_tl_37">nus, concerning the mode of his co-operation in</l></orig><reg>Projekt von Henry, Grundlage für Theologie Aristotelis-Vergleich</reg></choice>
+						<l facs="#facs_2_tr_2_tl_38">establishing the relation between the Greek Plo-</l>
+						<l facs="#facs_2_tr_2_tl_39">tinus text and the Theologia Aristotelis." From</l>
+						<l facs="#facs_2_tr_2_tl_40">the point of view of scholarship - both for the</l>
+						<l facs="#facs_2_tr_2_tl_41">Greek Plotinus and for our Arabic Theologia -</l>
+						<l facs="#facs_2_tr_2_tl_42">his co-operation is essential. The announcement</l>
+						<l facs="#facs_2_tr_2_tl_43">in this form will not prejudice anything; to</l>
+						<l facs="#facs_2_tr_2_tl_44">leave it out, would be indefensible.,</l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

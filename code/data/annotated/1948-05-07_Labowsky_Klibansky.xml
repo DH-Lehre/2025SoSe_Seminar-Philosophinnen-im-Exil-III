@@ -1,0 +1,433 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+		<titleStmt>
+			<title>Brief von Lotte Labowsky an Raymond Klibansky vom 07. Mai 1948</title>
+			<author ref="http://d-nb.info/gnd/1029912939"/>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>Literaturarchiv Marbach</publisher>
+			<idno>1948-05-07_Labowsky_Klibansky.xml</idno>
+		</publicationStmt>
+		<sourceDesc>
+			<msDesc>
+			<msIdentifier>
+				<repository>Literaturarchiv Marbach</repository>
+				<idno/>
+			</msIdentifier>
+			<physDesc>
+				<objectDesc>
+				<supportDesc>
+					<support>handschriftlich</support>
+				</supportDesc>
+				</objectDesc>
+			</physDesc>
+			<history>
+				<origin>
+				<origDate>1948-05-07</origDate>
+				<origPlace>London</origPlace>
+				</origin>
+			</history>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+		<langUsage>
+			<language ident="en"/>
+		</langUsage>
+		<textClass>
+			<keywords scheme="LOC">
+				<term/>
+			</keywords>
+		</textClass>
+		</profileDesc>
+		<revisionDesc>
+		<change when="2025-06-20">Gregor Große-Bölting</change>
+		<change when="2025-05-07">Digitalisierung durch Moritz Riemann</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="0001_p001.jpg" width="2479px" height="3508px"/>
+			<zone points="83,424 83,3216 2400,3216 2400,424" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="809,499 948,533 1110,508 1194,558 1294,496 1400,502 1498,572 1581,516 1804,502 1802,390 1659,413 1564,482 1096,365 873,438 806,413" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="351,937 482,937 533,968 680,901 781,943 834,915 943,968 1116,917 1116,837 1029,862 845,775 728,759 474,837 349,820" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="1085,1113 1551,1129 1684,1182 1751,1149 2161,1155 2153,1021 1617,1096 1498,1046 1082,1051" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="142,1244 374,1258 446,1325 747,1255 848,1305 1885,1297 2089,1375 2284,1314 2281,1208 2002,1280 1252,1177 795,1205 694,1143 139,1174" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="131,1378 1584,1478 1813,1439 1972,1500 2117,1453 2214,1514 2225,1369 1927,1414 1559,1327 1283,1392 926,1283 535,1286 354,1355 128,1314" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="120,1525 976,1553 1249,1640 1495,1587 1877,1651 2186,1604 2181,1500 1132,1475 993,1528 457,1406 117,1478" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="167,1721 446,1751 658,1670 996,1754 1852,1735 1952,1804 2089,1785 2080,1620 1796,1668 1283,1615 1171,1676 162,1584" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="128,1815 533,1818 661,1863 725,1832 784,1874 898,1841 945,1885 1261,1868 1255,1762 1166,1751 873,1740 742,1785 485,1776 332,1712 125,1735" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="996,2025 1116,2066 1194,2033 1364,2058 1498,2114 1718,2058 2393,2092 2368,1986 1949,1966 1857,2011 1467,2013 1102,1916 996,1977" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="123,2167 2276,2251 2267,2092 1436,2145 1213,2075 321,2089 114,2019" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="106,2312 457,2331 516,2278 845,2365 1107,2315 1311,2393 1520,2331 1735,2407 1908,2340 2131,2398 2125,2253 1651,2301 1509,2231 1210,2281 1049,2214 262,2178 103,2239" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="125,2443 647,2429 1143,2527 1436,2474 2203,2496 2080,2412 1623,2432 1459,2370 1269,2437 926,2348 120,2329" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="84,2607 304,2574 711,2649 990,2594 2136,2705 2133,2585 1947,2529 1712,2591 1556,2515 1224,2496 1035,2546 714,2476 81,2504" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="67,2747 410,2736 577,2817 1400,2769 2309,2875 2278,2688 1963,2747 1818,2680 1210,2722 429,2607 287,2677 64,2658" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="84,2909 273,2861 485,2934 820,2881 2304,2942 2278,2867 1913,2817 1698,2875 1428,2792 845,2850 78,2766" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="86,3015 2198,3093 2195,2959 2092,2945 1868,3012 1266,2898 1132,2964 895,2903 636,2984 84,2917" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+				<zone points="84,3154 466,3160 761,3260 1088,3162 1300,3229 2231,3196 2228,3096 2103,3059 1740,3146 1564,3082 1026,3137 831,3059 485,3056 332,3137 84,3082" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="0002_p002.jpg" width="2479px" height="3508px"/>
+			<zone points="74,309 74,3302 2448,3302 2448,309" rendition="TextRegion" xml:id="facs_2_tr_1">
+				<zone points="125,372 445,436 806,378 940,451 1161,375 1498,448 1652,367 1777,419 2435,378 2435,303 1818,340 1408,250 1120,332 125,294" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+				<zone points="119,489 820,564 1038,489 1152,544 1853,486 2388,544 2356,387 1565,454 1158,390 852,462 119,378" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+				<zone points="96,582 1117,608 1225,666 1620,608 2391,640 2388,529 1929,506 1242,593 992,515 838,576 614,497 512,558 93,518" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+				<zone points="116,750 407,692 916,710 1053,782 2330,727 2327,631 2208,617 1600,678 1158,628 995,686 113,617" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+				<zone points="119,829 1536,884 2336,826 2333,736 2196,727 2027,806 1513,745 1254,806 745,785 329,716 116,765" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+				<zone points="99,942 1216,934 1402,1001 2408,937 2408,864 2263,844 631,896 99,826" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+				<zone points="87,1038 2240,1091 2216,989 1513,1018 1274,954 87,934" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+				<zone points="84,1164 614,1213 893,1152 1355,1207 1620,1143 1742,1201 2371,1158 2330,1068 1009,1053 692,1123 84,1059" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+				<zone points="105,1291 451,1254 771,1323 1108,1251 1620,1329 1870,1239 2443,1245 2423,1143 1350,1219 105,1175" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+				<zone points="90,1373 1687,1376 1847,1443 2161,1364 2318,1422 2263,1286 969,1350 625,1335 506,1259 90,1280" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+				<zone points="105,1481 2278,1545 2278,1422 1169,1402 969,1460 660,1390 105,1402" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+				<zone points="90,1614 1312,1606 1504,1661 1643,1606 2275,1614 2240,1539 1754,1565 1652,1515 1510,1577 1382,1518 666,1489 90,1547" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+				<zone points="90,1751 980,1795 1195,1737 1754,1786 2342,1737 2339,1626 2179,1614 1742,1696 1626,1632 1306,1684 849,1614 398,1681 87,1611" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+				<zone points="81,1844 1684,1894 2394,1844 2394,1737 1978,1798 1483,1751 1323,1812 1158,1754 972,1818 81,1757" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+				<zone points="76,1972 189,1946 291,2007 439,1952 707,2004 777,1958 1117,1960 1289,2010 1373,1972 1370,1897 1230,1865 1088,1859 960,1923 867,1867 73,1850" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+				<zone points="422,2056 791,2115 1245,2068 1379,2129 1550,2065 2347,2071 2347,1969 1414,2042 1155,1966 1091,2013 878,1960 422,1987" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+				<zone points="117,2169 2292,2198 2293,2168 117,2139" rendition="Line" xml:id="facs_2_l_24"/>
+				<zone points="114,2261 2075,2295 2075,2265 114,2231" rendition="Line" xml:id="facs_2_l_31"/>
+				<zone points="167,2368 2365,2402 2365,2372 168,2338" rendition="Line" xml:id="facs_2_l_38"/>
+				<zone points="117,2472 2314,2519 2315,2489 117,2442" rendition="Line" xml:id="facs_2_l_45"/>
+				<zone points="110,2551 2239,2639 2240,2609 112,2521" rendition="Line" xml:id="facs_2_l_52"/>
+				<zone points="129,2648 445,2677 447,2647 132,2619" rendition="Line" xml:id="facs_2_l_59"/>
+				<zone points="108,2784 1649,2781 1812,2836 2074,2775 2304,2839 2301,2688 1289,2664 1111,2731 832,2653 509,2728 105,2647" rendition="Line" xml:id="facs_2_tr_1_tl_27"/>
+				<zone points="102,2859 692,2926 925,2883 986,2941 1158,2880 2304,2903 2304,2839 2100,2787 1617,2842 1059,2772 937,2836 99,2801" rendition="Line" xml:id="facs_2_tr_1_tl_28"/>
+				<zone points="99,2964 1038,2990 1126,3048 1766,3008 1937,3063 2120,2999 2120,2912 2065,2903 1990,2964 1847,2897 1696,2949 1201,2900 1024,2967 852,2909 99,2897" rendition="Line" xml:id="facs_2_tr_1_tl_29"/>
+				<zone points="111,3092 1277,3086 1547,3159 1713,3095 2100,3092 2097,3037 1766,3008 1460,3054 1321,3002 1146,3060 922,3008 814,3060 663,2979 582,3025 108,2979" rendition="Line" xml:id="facs_2_tr_1_tl_30"/>
+				<zone points="113,3185 2289,3235 2254,3101 2161,3162 1745,3104 1361,3165 858,3086 733,3159 489,3083 113,3141" rendition="Line" xml:id="facs_2_tr_1_tl_31"/>
+				<zone points="1748,3308 2307,3308 2307,3278 1748,3278" rendition="Line" xml:id="facs_2_l"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="0003_p003.jpg" width="2479px" height="3508px"/>
+			<zone points="20,385 20,3208 2471,3208 2471,385" rendition="TextRegion" xml:id="facs_3_tr_1">
+				<zone points="114,449 2321,462 2321,432 114,419" rendition="Line" xml:id="facs_3_l"/>
+				<zone points="387,484 596,481 641,526 735,478 1210,511 1286,475 1634,529 1652,442 384,420" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+				<zone points="97,554 2399,572 2399,451 2121,523 2009,472 644,514 97,442" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+				<zone points="76,687 2272,696 2269,602 1437,548 874,617 741,560 73,578" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+				<zone points="64,796 808,874 974,799 2154,802 2308,865 2305,711 2142,687 1506,777 920,656 64,741" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+				<zone points="64,935 2302,989 2299,856 2145,914 1537,811 965,808 790,886 64,796" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+				<zone points="70,1065 2384,1107 2381,959 1688,1041 1113,935 811,1004 70,938" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+				<zone points="76,1192 980,1198 1376,1298 1519,1228 2438,1249 2435,1146 2214,1189 2027,1098 1712,1186 73,1068" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+				<zone points="80,1367 2300,1375 2300,1345 81,1337" rendition="Line" xml:id="facs_3_l_13"/>
+				<zone points="100,1497 602,1464 699,1522 805,1455 1156,1561 1361,1464 2396,1497 2396,1413 2290,1370 1736,1431 100,1385" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+				<zone points="64,1621 641,1597 932,1694 1050,1612 1358,1688 1597,1600 2366,1612 2338,1500 2078,1564 1549,1519 1422,1588 1295,1512 874,1588 64,1497" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+				<zone points="39,1785 293,1736 529,1836 1325,1794 1322,1673 1252,1661 1113,1664 1038,1727 895,1682 814,1730 659,1673 535,1697 402,1649 290,1712 36,1655" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+				<zone points="16,1934 2401,1950 2401,1920 16,1904" rendition="Line" xml:id="facs_3_l_20"/>
+				<zone points="60,2027 941,2108 1231,2051 2235,2072 2193,1933 1987,1993 1776,1933 1494,1993 1337,1927 826,2015 354,1939 60,1975" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+				<zone points="94,2208 2293,2202 2293,2102 2136,2063 1522,2163 1337,2093 1234,2145 1019,2087 832,2139 94,2096" rendition="Line" xml:id="facs_3_tr_1_tl_18"/>
+				<zone points="109,2349 2405,2353 2405,2323 109,2319" rendition="Line" xml:id="facs_3_l_27"/>
+				<zone points="76,2474 2350,2480 2372,2323 2217,2384 1945,2326 1712,2399 1437,2350 1083,2411 73,2329" rendition="Line" xml:id="facs_3_tr_1_tl_23"/>
+				<zone points="103,2580 2433,2620 2434,2590 104,2550" rendition="Line" xml:id="facs_3_l_34"/>
+				<zone points="60,2729 281,2677 2432,2710 2432,2586 1736,2671 1304,2650 1153,2565 992,2653 60,2605" rendition="Line" xml:id="facs_3_tr_1_tl_26"/>
+				<zone points="78,2814 1037,2831 1038,2801 78,2784" rendition="Line" xml:id="facs_3_l_41"/>
+				<zone points="1111,2770 2425,2779 2425,2749 1111,2740" rendition="Line" xml:id="facs_3_l_51"/>
+				<zone points="1128,2831 2446,2853 2447,2823 1129,2801" rendition="Line" xml:id="facs_3_l_58"/>
+				<zone points="1154,2874 1305,2874 1305,2844 1154,2844" rendition="Line" xml:id="facs_3_l_65"/>
+				<zone points="6,2928 1791,2937 1912,2998 2438,2940 2417,2847 1280,2907 6,2819" rendition="Line" xml:id="facs_3_tr_1_tl_30"/>
+				<zone points="39,3107 1189,3049 1367,3128 1573,3067 1809,3131 2263,3067 2226,2958 1618,2955 1482,3016 1065,2952 820,3025 708,2943 560,3001 39,2961" rendition="Line" xml:id="facs_3_tr_1_tl_31"/>
+				<zone points="54,3170 1640,3197 1764,3252 1942,3170 2205,3185 2205,3076 1606,3140 511,3064 54,3101" rendition="Line" xml:id="facs_3_tr_1_tl_32"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="0004_p004.jpg" width="2479px" height="3508px"/>
+			<zone points="32,331 32,3223 2468,3223 2468,331" rendition="TextRegion" xml:id="facs_4_tr_1">
+				<zone points="64,388 1995,379 2401,467 2401,330 2082,294 1767,349 1664,291 64,330" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+				<zone points="67,497 618,479 958,543 1491,488 1625,549 1810,485 1934,546 2286,497 2286,430 2195,403 1967,452 1543,379 943,449 67,388" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+				<zone points="55,615 606,612 691,676 1140,606 1310,670 1625,591 2280,615 2280,509 1055,515 928,579 55,540" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+				<zone points="52,724 503,791 2389,737 2389,640 1491,691 1164,624 931,700 52,612" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+				<zone points="64,879 627,955 834,882 1928,925 2258,882 2258,749 1519,837 915,831 721,752 252,812 64,770" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+				<zone points="64,1043 509,994 1194,1070 1258,1015 2322,991 2322,858 1885,928 1646,882 1497,961 876,885 634,955 64,958" rendition="Line" xml:id="facs_4_tr_1_tl_7"/>
+				<zone points="45,1128 2104,1122 2370,1188 2346,1037 1961,1097 1276,1015 1043,1097 652,1025 297,1094 45,1052" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+				<zone points="45,1273 1849,1240 2189,1310 2146,1134 1370,1209 912,1128 658,1206 540,1131 309,1188 45,1128" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+				<zone points="52,1397 2422,1410 2422,1276 2304,1261 2076,1322 1831,1252 1388,1322 1085,1249 785,1325 52,1285" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+				<zone points="64,1531 1670,1504 2134,1594 2440,1500 2440,1406 2276,1385 1613,1461 1470,1394 818,1391 585,1461 64,1400" rendition="Line" xml:id="facs_4_tr_1_tl_11"/>
+				<zone points="42,1664 2298,1694 2298,1594 2022,1543 1764,1613 912,1528 634,1600 42,1552" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+				<zone points="39,1804 1655,1801 1882,1861 2273,1804 2273,1688 2122,1649 1625,1728 39,1664" rendition="Line" xml:id="facs_4_tr_1_tl_13"/>
+				<zone points="18,1913 2295,1967 2295,1852 2064,1810 382,1882 18,1810" rendition="Line" xml:id="facs_4_tr_1_tl_14"/>
+				<zone points="15,2064 567,2052 697,2110 1579,2046 1810,2110 2319,2058 2319,1961 2089,2025 1831,1961 1631,2016 15,1979" rendition="Line" xml:id="facs_4_tr_1_tl_16"/>
+				<zone points="27,2198 1985,2219 2140,2192 2140,2082 491,2149 358,2076 27,2128" rendition="Line" xml:id="facs_4_tr_1_tl_17"/>
+				<zone points="27,2328 1858,2346 2458,2310 2461,2192 2113,2267 1788,2170 1379,2270 1285,2210 1179,2270 1046,2213 885,2276 458,2201 30,2240" rendition="Line" xml:id="facs_4_tr_1_tl_18"/>
+				<zone points="55,2446 630,2510 721,2452 1888,2434 2340,2504 2298,2319 1931,2404 1146,2313 864,2416 255,2325 55,2367" rendition="Line" xml:id="facs_4_tr_1_tl_19"/>
+				<zone points="48,2613 691,2580 1149,2652 1288,2580 1834,2634 2155,2577 2155,2513 2040,2528 1870,2434 1579,2540 761,2452 537,2513 48,2489" rendition="Line" xml:id="facs_4_tr_1_tl_20"/>
+				<zone points="58,2719 2286,2752 2286,2625 1998,2577 1704,2652 1622,2598 1255,2661 576,2577 58,2619" rendition="Line" xml:id="facs_4_tr_1_tl_21"/>
+				<zone points="52,2834 1206,2834 1434,2907 2401,2822 2358,2740 1825,2792 776,2728 518,2795 52,2719" rendition="Line" xml:id="facs_4_tr_1_tl_22"/>
+				<zone points="52,2983 2322,2971 2322,2874 1922,2868 1822,2928 1688,2855 1216,2931 994,2840 812,2904 376,2843 52,2898" rendition="Line" xml:id="facs_4_tr_1_tl_23"/>
+				<zone points="42,3098 2101,3122 2389,3083 2389,2949 1731,3037 1634,2977 1291,3043 1094,2962 42,2986" rendition="Line" xml:id="facs_4_tr_1_tl_24"/>
+				<zone points="86,3236 2269,3214 2268,3184 85,3206" rendition="Line" xml:id="facs_4_l"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_5">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="0005_p005.jpg" width="2479px" height="3508px"/>
+			<zone points="14,355 14,3252 2468,3252 2468,355" rendition="TextRegion" xml:id="facs_5_tr_1">
+				<zone points="30,428 2232,455 2211,337 30,337" rendition="Line" xml:id="facs_5_tr_1_tl_1"/>
+				<zone points="30,524 2277,536 2232,437 1223,479 961,416 581,482 467,422 217,473 30,428" rendition="Line" xml:id="facs_5_tr_1_tl_2"/>
+				<zone points="33,621 2428,657 2425,572 2283,545 33,521" rendition="Line" xml:id="facs_5_tr_1_tl_3"/>
+				<zone points="39,714 768,774 1368,720 1594,786 1729,729 2353,753 2377,648 1645,711 1482,615 539,678 36,627" rendition="Line" xml:id="facs_5_tr_1_tl_4"/>
+				<zone points="45,831 1660,834 1895,904 2021,837 2347,853 2196,738 1756,807 1163,720 871,786 440,705 45,738" rendition="Line" xml:id="facs_5_tr_1_tl_5"/>
+				<zone points="80,939 2316,978 2316,948 80,909" rendition="Line" xml:id="facs_5_l"/>
+				<zone points="6,1051 2033,1048 2187,1106 2371,1078 2371,1006 1823,1012 1693,940 1467,1012 3,982" rendition="Line" xml:id="facs_5_tr_1_tl_10"/>
+				<zone points="27,1184 476,1127 1015,1211 1226,1163 2226,1211 2223,1124 2115,1088 1841,1136 24,1042" rendition="Line" xml:id="facs_5_tr_1_tl_11"/>
+				<zone points="27,1229 1217,1319 2217,1295 2217,1217 1503,1247 1232,1163 1060,1226 916,1157 539,1196 292,1127 24,1181" rendition="Line" xml:id="facs_5_tr_1_tl_12"/>
+				<zone points="30,1365 2262,1407 2259,1298 1889,1344 1808,1292 1627,1359 1524,1292 1054,1344 889,1280 27,1271" rendition="Line" xml:id="facs_5_tr_1_tl_13"/>
+				<zone points="27,1446 259,1515 575,1464 693,1527 850,1467 1088,1527 2271,1509 2271,1446 2021,1401 1621,1458 27,1362" rendition="Line" xml:id="facs_5_tr_1_tl_14"/>
+				<zone points="36,1554 1648,1648 2235,1618 2232,1542 1880,1503 1729,1560 33,1467" rendition="Line" xml:id="facs_5_tr_1_tl_15"/>
+				<zone points="36,1684 889,1696 991,1771 1244,1705 1374,1792 2244,1762 2241,1660 1982,1627 1838,1678 1696,1618 1253,1672 946,1585 696,1651 482,1588 36,1636" rendition="Line" xml:id="facs_5_tr_1_tl_16"/>
+				<zone points="42,1786 1530,1895 2461,1850 2458,1741 1491,1804 1091,1723 916,1771 747,1693 42,1723" rendition="Line" xml:id="facs_5_tr_1_tl_17"/>
+				<zone points="30,1919 696,1925 880,2015 1018,1928 1708,1952 1850,2027 2229,1973 2226,1913 2042,1883 1500,1901 949,1814 524,1883 27,1786" rendition="Line" xml:id="facs_5_tr_1_tl_18"/>
+				<zone points="57,2039 2386,2136 2383,2015 2048,2052 1624,1955 1356,2030 1042,1958 744,2015 458,1922 247,1994 54,1952" rendition="Line" xml:id="facs_5_tr_1_tl_19"/>
+				<zone points="60,2172 1115,2178 1630,2262 2247,2229 2241,2115 1645,2172 1455,2112 1154,2145 705,2067 581,2136 319,2052 57,2070" rendition="Line" xml:id="facs_5_tr_1_tl_20"/>
+				<zone points="48,2286 578,2290 666,2353 1901,2329 2079,2395 2374,2341 2374,2244 2211,2229 1913,2305 1536,2214 840,2268 337,2163 45,2190" rendition="Line" xml:id="facs_5_tr_1_tl_21"/>
+				<zone points="48,2419 2317,2497 2293,2341 2003,2416 1708,2335 1560,2392 1344,2326 1127,2389 48,2332" rendition="Line" xml:id="facs_5_tr_1_tl_22"/>
+				<zone points="42,2509 199,2576 554,2512 660,2564 837,2515 1431,2530 1566,2588 1648,2537 1952,2543 1952,2443 1196,2488 967,2431 720,2485 437,2407 42,2437" rendition="Line" xml:id="facs_5_tr_1_tl_23"/>
+				<zone points="51,2615 2317,2705 2314,2591 880,2527 193,2579 51,2509" rendition="Line" xml:id="facs_5_tr_1_tl_24"/>
+				<zone points="60,2759 2392,2811 2392,2723 1798,2648 1500,2735 946,2639 57,2663" rendition="Line" xml:id="facs_5_tr_1_tl_25"/>
+				<zone points="63,2838 2341,2919 2359,2799 1106,2826 440,2729 211,2805 60,2759" rendition="Line" xml:id="facs_5_tr_1_tl_26"/>
+				<zone points="54,2991 2419,3037 2437,2919 1753,2958 756,2862 609,2925 51,2916" rendition="Line" xml:id="facs_5_tr_1_tl_27"/>
+				<zone points="60,3109 2226,3154 2226,3034 1925,3076 1413,3016 1115,3073 967,3003 883,3070 675,2988 349,3070 57,2994" rendition="Line" xml:id="facs_5_tr_1_tl_28"/>
+				<zone points="90,3226 2437,3250 2437,3148 2187,3130 1437,3196 1307,3139 90,3142" rendition="Line" xml:id="facs_5_tr_1_tl_29"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_6">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="0006_p006.jpg" width="2479px" height="3508px"/>
+			<zone points="59,382 59,3324 2471,3324 2471,382" rendition="TextRegion" xml:id="facs_6_tr_1">
+				<zone points="349,466 1014,442 1444,522 1617,445 2332,448 2365,390 1828,308 1699,398 1181,422 1084,369 709,396 352,296" rendition="Line" xml:id="facs_6_tr_1_tl_1"/>
+				<zone points="50,571 1644,627 1799,568 2262,592 2353,571 2356,481 507,527 53,451" rendition="Line" xml:id="facs_6_tr_1_tl_2"/>
+				<zone points="44,694 2227,694 2227,580 1444,645 917,580 732,636 659,574 527,650 44,627" rendition="Line" xml:id="facs_6_tr_1_tl_3"/>
+				<zone points="56,794 1855,826 2318,788 2318,709 56,724" rendition="Line" xml:id="facs_6_tr_1_tl_5"/>
+				<zone points="44,902 2326,905 2326,815 44,835" rendition="Line" xml:id="facs_6_tr_1_tl_6"/>
+				<zone points="59,1055 378,979 416,1017 580,984 706,1052 844,1005 961,1075 1043,1037 1225,1078 1406,1034 1403,920 1134,917 1046,958 732,908 662,952 460,894 56,894" rendition="Line" xml:id="facs_6_tr_1_tl_7"/>
+				<zone points="454,1166 1348,1119 1887,1184 2420,1128 2420,1023 2227,1084 2083,999 1688,1087 856,1034 618,1087 454,1034" rendition="Line" xml:id="facs_6_tr_1_tl_8"/>
+				<zone points="91,1266 193,1313 334,1245 483,1298 2309,1254 2280,1119 829,1204 94,1140" rendition="Line" xml:id="facs_6_tr_1_tl_9"/>
+				<zone points="85,1409 352,1354 897,1415 1483,1342 2376,1357 2376,1236 2016,1307 1538,1254 311,1330 88,1269" rendition="Line" xml:id="facs_6_tr_1_tl_10"/>
+				<zone points="94,1521 2069,1453 2189,1506 2362,1468 2365,1392 2156,1339 331,1450 97,1395" rendition="Line" xml:id="facs_6_tr_1_tl_11"/>
+				<zone points="88,1638 2124,1591 2107,1477 1884,1550 1412,1486 1213,1550 1014,1494 908,1556 636,1486 483,1556 91,1524" rendition="Line" xml:id="facs_6_tr_1_tl_12"/>
+				<zone points="88,1735 697,1737 835,1799 970,1729 1275,1790 1565,1740 1998,1808 2244,1764 2244,1632 1614,1691 1477,1635 1406,1688 1005,1606 551,1661 445,1603 88,1694" rendition="Line" xml:id="facs_6_tr_1_tl_13"/>
+				<zone points="79,1907 331,1855 2259,1852 2253,1761 1998,1811 1591,1743 1480,1808 958,1737 648,1834 522,1767 79,1764" rendition="Line" xml:id="facs_6_tr_1_tl_14"/>
+				<zone points="79,2007 2171,1981 2151,1890 1761,1943 1157,1934 911,1858 79,1907" rendition="Line" xml:id="facs_6_tr_1_tl_15"/>
+				<zone points="79,2130 1403,2145 1603,2092 1937,2151 2306,2107 2306,1987 1966,2054 718,1989 440,2066 79,2004" rendition="Line" xml:id="facs_6_tr_1_tl_16"/>
+				<zone points="190,2233 1617,2280 2110,2215 2373,2315 2426,2306 2429,2115 1995,2198 1635,2139 1456,2206 943,2209 190,2124" rendition="Line" xml:id="facs_6_tr_1_tl_17"/>
+				<zone points="88,2379 2306,2394 2306,2297 2145,2250 1418,2338 1175,2274 88,2256" rendition="Line" xml:id="facs_6_tr_1_tl_18"/>
+				<zone points="463,2523 677,2511 850,2575 1143,2508 1529,2564 1626,2514 1799,2543 1858,2493 2104,2534 2104,2441 1899,2461 1682,2391 1421,2444 1380,2411 1304,2476 1134,2400 1023,2470 463,2449" rendition="Line" xml:id="facs_6_tr_1_tl_19"/>
+				<zone points="114,2668 2293,2664 2293,2634 114,2638" rendition="Line" xml:id="facs_6_l"/>
+				<zone points="135,2766 2338,2770 2338,2740 135,2736" rendition="Line" xml:id="facs_6_l_13"/>
+				<zone points="143,2868 2448,2872 2448,2842 143,2838" rendition="Line" xml:id="facs_6_l_20"/>
+				<zone points="151,2978 2362,2978 2362,2948 151,2948" rendition="Line" xml:id="facs_6_l_27"/>
+				<zone points="155,3076 2285,3080 2285,3050 155,3046" rendition="Line" xml:id="facs_6_l_34"/>
+				<zone points="159,3166 2215,3182 2216,3152 159,3136" rendition="Line" xml:id="facs_6_l_41"/>
+				<zone points="171,3272 392,3276 392,3246 172,3242" rendition="Line" xml:id="facs_6_l_48"/>
+				<zone points="893,3301 1640,3305 1640,3275 894,3271" rendition="Line" xml:id="facs_6_l_55"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lg>
+						<l facs="#facs_1_tr_1_tl_1">
+                            <placeName ref="geo-2643743">London</placeName> <date when="1948-05-07">7. May 1948</date>.</l>
+						<l facs="#facs_1_tr_1_tl_2">My dear <persName ref="gnd-118777378">Raymond</persName>,</l>
+						<l facs="#facs_1_tr_1_tl_3">here I am again sitting.</l>
+						<l facs="#facs_1_tr_1_tl_4">in my flat and the buses are roaring past</l>
+						<l facs="#facs_1_tr_1_tl_5">and the taxibell rings merrily. The journey</l>
+						<l facs="#facs_1_tr_1_tl_6">was smooth and uneventful, if a little</l>
+						<l facs="#facs_1_tr_1_tl_7">prolonged because of difficult landing</l>
+						<l facs="#facs_1_tr_1_tl_8">weather over <placeName ref="geo-6269131">England</placeName>.</l>
+						<l facs="#facs_1_tr_1_tl_9">On Thursday and Wednesday</l>
+						<l facs="#facs_1_tr_1_tl_10">I made several unavailing attempts to get</l>
+						<l facs="#facs_1_tr_1_tl_11">in touch will your family, but yesterday</l>
+						<l facs="#facs_1_tr_1_tl_12">you mother and Sonja came to see me</l>
+						<l facs="#facs_1_tr_1_tl_13">and to fetch Madeleines Rings. They</l>
+						<l facs="#facs_1_tr_1_tl_14">ars both very well and cheerful. Sonja</l>
+						<l facs="#facs_1_tr_1_tl_15">is very furious about [Dengs?] who has com-</l>
+						<l facs="#facs_1_tr_1_tl_16">mitted some sort of misdemeanour ("the</l>
+						<l facs="#facs_1_tr_1_tl_17">same cort of thing as he did in <placeName ref="geo-2640729">Oxford</placeName>".</l>
+					</lg>
+				</p>
+				<pb facs="#facs_2" n="2"/>
+				<p facs="#facs_2_tr_1">
+					<lg>
+						<l facs="#facs_2_tr_1_tl_1">which has been reported to Sonja. I do not think</l>
+						<l facs="#facs_2_tr_1_tl_2">it is very serious and I suppose it with only end</l>
+						<l facs="#facs_2_tr_1_tl_3">in another diamond ring, and I would not bother</l>
+						<l facs="#facs_2_tr_1_tl_4">you with it at all if I did not think that a</l>
+						<l facs="#facs_2_tr_1_tl_5">soothing and grown-up word from you might</l>
+						<l facs="#facs_2_tr_1_tl_6">do her good and prevent her from making any rash</l>
+						<l facs="#facs_2_tr_1_tl_7">decisions. She talks about these things in a very</l>
+						<l facs="#facs_2_tr_1_tl_8">childish way and is entirely possessed by injured</l>
+						<l facs="#facs_2_tr_1_tl_9">pride and your mother takes her past so unconditionally</l>
+						<l facs="#facs_2_tr_1_tl_10">that it will become more and more difficult for</l>
+						<l facs="#facs_2_tr_1_tl_11">Sonja to see things a little charitably. As it is</l>
+						<l facs="#facs_2_tr_1_tl_12">much more the look of the thing to other people</l>
+						<l facs="#facs_2_tr_1_tl_13">than the thing itself which vexes her, the opinion</l>
+						<l facs="#facs_2_tr_1_tl_14">of someone like you would probably make quite</l>
+						<l facs="#facs_2_tr_1_tl_15">a difference to her feelings.</l>
+						<l facs="#facs_2_tr_1_tl_16">To-day I had a long conversation with</l>
+						<l facs="#facs_2_l_24">
+                            <persName ref="gnd-116183853">Bing</persName>. She seems quite well, but definitely</l>
+						<l facs="#facs_2_l_31">older, and she was very nice indeed.</l>
+						<l facs="#facs_2_l_38">(1) There will be no difficulty in having you</l>
+						<l facs="#facs_2_l_45">on the Editorial Board of the Corpus instead of</l>
+						<l facs="#facs_2_l_52">
+                            <persName ref="gnd-118804898">Saxl</persName>. <persName ref="gnd-116183853">Bing</persName> will arrange that at the next</l>
+						<l facs="#facs_2_l_59">meeting.</l>
+						<l facs="#facs_2_tr_1_tl_27">(2) She does not anticipate any difficulty</l>
+						<l facs="#facs_2_tr_1_tl_28">either with regard to the suggestion that you</l>
+						<l facs="#facs_2_tr_1_tl_29">should have some official standing in</l>
+						<l facs="#facs_2_tr_1_tl_30">relation to the <orgName ref="gnd-37543-3">W. I.</orgName> Only she cannot</l>
+						<l facs="#facs_2_tr_1_tl_31">make any financial arrangements at</l>
+						<l facs="#facs_2_l">the moment.</l>
+					</lg>
+				</p>
+				<pb facs="#facs_3" n="3"/>
+				<p facs="#facs_3_tr_1">
+					<lg>
+						<l facs="#facs_3_l">about that. She will discuss the matter</l>
+						<l facs="#facs_3_tr_1_tl_3">of the form of such a connection</l>
+						<l facs="#facs_3_tr_1_tl_4">with Miss Puschy who is one of a Committee</l>
+						<l facs="#facs_3_tr_1_tl_5">of 4 (the other 3 being <persName ref="gnd-118512110">Blunt</persName>, <persName ref="gnd-119325586">Ashmole</persName>
+                        </l>
+						<l facs="#facs_3_tr_1_tl_6">and Ballot (?)) which has been temporarily</l>
+						<l facs="#facs_3_tr_1_tl_7">set up by the <orgName ref="gnd-35654-2">university</orgName> to look after the</l>
+						<l facs="#facs_3_tr_1_tl_8">institute "in consultation with womever they</l>
+						<l facs="#facs_3_tr_1_tl_9">think should be consulted", i.e. in practice</l>
+						<l facs="#facs_3_l_13">with <persName ref="gnd-116183853">Bing</persName>. The question of remunerating</l>
+						<l facs="#facs_3_tr_1_tl_12">you for any time you would devote to the</l>
+						<l facs="#facs_3_tr_1_tl_13">Institute during your stay in Europe would</l>
+						<l facs="#facs_3_tr_1_tl_14">have to come up later.</l>
+						<l facs="#facs_3_l_20">(3) The question of Directorship. <persName ref="gnd-116183853">Bing</persName> says</l>
+						<l facs="#facs_3_tr_1_tl_17">she is backing you with all her might</l>
+						<l facs="#facs_3_tr_1_tl_18">(she knowes that you have accepted at</l>
+						<l facs="#facs_3_l_27">
+                            <orgName ref="gnd-2187-8">McGill</orgName> for the next year) and there are others</l>
+						<l facs="#facs_3_tr_1_tl_23">wo want you as well [e.g. Miss Puschy], but there is also</l>
+						<l facs="#facs_3_l_34">a counterparty. She does not know how</l>
+						<l facs="#facs_3_tr_1_tl_26">big the chances are that they would in the</l>
+						<l facs="#facs_3_l_41">end offer it to you.</l>
+						<l facs="#facs_3_l_51">She did not ask whether you would</l>
+						<l facs="#facs_3_l_58">like to come and nothing was said about</l>
+						<l facs="#facs_3_l_65">that.</l>
+						<l facs="#facs_3_tr_1_tl_30">4) <persName ref="gnd-12034517X">Gibb</persName>. I showed her the correspondence (i.e.</l>
+						<l facs="#facs_3_tr_1_tl_31">you first letter, <persName ref="gnd-12034517X">Gibbs</persName> reply, your proposed</l>
+						<l facs="#facs_3_tr_1_tl_32">second letter). She agrees that your first letter</l>
+					</lg>
+				</p>
+				<pb facs="#facs_4" n="4"/>
+				<p facs="#facs_4_tr_1">
+					<lg>
+						<l facs="#facs_4_tr_1_tl_1">was absolutely correct and amiable and that</l>
+						<l facs="#facs_4_tr_1_tl_2">his letter is disagreeable. Also that <persName ref="gnd-12034517X">Gibb</persName>
+                        </l>
+						<l facs="#facs_4_tr_1_tl_3">made a complete volte-face in his attitude</l>
+						<l facs="#facs_4_tr_1_tl_5">to <persName ref="gnd-123279933">Walzer</persName> [after] his conversation with <persName ref="gnd-118804898">Saxl</persName>.</l>
+						<l facs="#facs_4_tr_1_tl_6">She proposes that she will go to <orgName ref="gnd-36214-1">Oxford</orgName>
+                        </l>
+						<l facs="#facs_4_tr_1_tl_7">after witsun and talk to <persName ref="gnd-12034517X">Gibb</persName>. But in</l>
+						<l facs="#facs_4_tr_1_tl_8">order not to make the situation more acute in</l>
+						<l facs="#facs_4_tr_1_tl_9">the meantime, she askes us not to send your</l>
+						<l facs="#facs_4_tr_1_tl_10">letter, before she has spoken to <persName ref="gnd-12034517X">Gibb</persName>. She thinks</l>
+						<l facs="#facs_4_tr_1_tl_11">(and I agree) that the letter would only provoke</l>
+						<l facs="#facs_4_tr_1_tl_12">another sharper letter and can eventually only</l>
+						<l facs="#facs_4_tr_1_tl_13">lead to a "Krach". She does not want that</l>
+						<l facs="#facs_4_tr_1_tl_14">because you have anyhow the reputation of being</l>
+						<l facs="#facs_4_tr_1_tl_16">difficult [which has penetrated to <placeName ref="geo-2643743">London</placeName>], everybody would believe that you and</l>
+						<l facs="#facs_4_tr_1_tl_17">not <persName ref="gnd-12034517X">Gibb</persName> is guilty, and it might</l>
+						<l facs="#facs_4_tr_1_tl_18">make her standing in the matter of the director-</l>
+						<l facs="#facs_4_tr_1_tl_19">ship even more difficult than it is anyhow.</l>
+						<l facs="#facs_4_tr_1_tl_20">She is preparid (a) to testify before <persName ref="gnd-12034517X">Gibbt</persName> that</l>
+						<l facs="#facs_4_tr_1_tl_21">
+                            <persName ref="gnd-118804898">Saxl</persName> came back from his conversation with <persName ref="gnd-12034517X">Gibb</persName>
+                        </l>
+						<l facs="#facs_4_tr_1_tl_22">under the impression that they saw eye to eye with</l>
+						<l facs="#facs_4_tr_1_tl_23">regard to <persName ref="gnd-123279933">Walzer</persName> needing supervision and <persName ref="gnd-12034517X">Gibb</persName>
+                        </l>
+						<l facs="#facs_4_tr_1_tl_24">agreeing to provide it (b) to amphasice your authority</l>
+						<l facs="#facs_4_l">as General Editor of the Corpus. She wants</l>
+					</lg>
+				</p>
+				<pb facs="#facs_5" n="5"/>
+				<p facs="#facs_5_tr_1">
+					<lg>
+						<l facs="#facs_5_tr_1_tl_1">to find out whether there is any chance of real</l>
+						<l facs="#facs_5_tr_1_tl_2">collaboration between <persName ref="gnd-12034517X">Gibb</persName> and you, and if she</l>
+						<l facs="#facs_5_tr_1_tl_3">comes to the conclusion that there is not, she wants</l>
+						<l facs="#facs_5_tr_1_tl_4">to find a way for a "gütliche" divorce. But</l>
+						<l facs="#facs_5_tr_1_tl_5">she says she has neither the authority nor the</l>
+						<l facs="#facs_5_l">knowledge simply to [declare that the Institute would not tolerate] <persName ref="gnd-123279933">Walzer</persName> as</l>
+						<l facs="#facs_5_tr_1_tl_10">[editore because of his] incompetence. She maintains that even her going</l>
+						<l facs="#facs_5_tr_1_tl_11">to see <persName ref="gnd-12034517X">Gibb</persName> is really an overstepping of her</l>
+						<l facs="#facs_5_tr_1_tl_12">constitutional powers at present, but she is</l>
+						<l facs="#facs_5_tr_1_tl_13">prepared to do that, although there is a risk</l>
+						<l facs="#facs_5_tr_1_tl_14">that <persName ref="gnd-12034517X">Gibb</persName> may simply be rude. On the other</l>
+						<l facs="#facs_5_tr_1_tl_15">hand she says that there is really not much</l>
+						<l facs="#facs_5_tr_1_tl_16">chance of continuing the collaboration if you</l>
+						<l facs="#facs_5_tr_1_tl_17">absolutily refuse to have any direct communication</l>
+						<l facs="#facs_5_tr_1_tl_18">even of the most formal kind with <persName ref="gnd-123279933">Walzer</persName>.</l>
+						<l facs="#facs_5_tr_1_tl_19">She thinks that this attitude would (a) confirm</l>
+						<l facs="#facs_5_tr_1_tl_20">
+                            <persName ref="gnd-12034517X">Gibb</persName> in the belief that everything <persName ref="gnd-123279933">Walzer</persName> had</l>
+						<l facs="#facs_5_tr_1_tl_21">said about you was true (b) would bring <persName ref="gnd-12034517X">Gibb</persName>
+                        </l>
+						<l facs="#facs_5_tr_1_tl_22">into such a difficult position that one could</l>
+						<l facs="#facs_5_tr_1_tl_23">only expect him to become disagreeable.</l>
+						<l facs="#facs_5_tr_1_tl_24">She thinkes it would be the best not to stand</l>
+						<l facs="#facs_5_tr_1_tl_25">on your dignity in the matter of the report, and</l>
+						<l facs="#facs_5_tr_1_tl_26">to ask <persName ref="gnd-123279933">W.</persName> to do it, so that she can in her</l>
+						<l facs="#facs_5_tr_1_tl_27">conversation with <persName ref="gnd-12034517X">Gibb</persName> concentrate on the essential</l>
+						<l facs="#facs_5_tr_1_tl_28">question of his standing within the organization of</l>
+						<l facs="#facs_5_tr_1_tl_29">the Corpus, without squabiling over formalistic details.</l>
+					</lg>
+				</p>
+				<pb facs="#facs_6" n="6"/>
+				<p facs="#facs_6_tr_1">
+					<lg>
+						<l facs="#facs_6_tr_1_tl_1">I think that she is right. All depends</l>
+						<l facs="#facs_6_tr_1_tl_2">of course on the way the conversation would be</l>
+						<l facs="#facs_6_tr_1_tl_3">conducted. But it seems to me that she is</l>
+						<l facs="#facs_6_tr_1_tl_5">very clear and decisive and [realistic] with the issue. It</l>
+						<l facs="#facs_6_tr_1_tl_6">seems to me the best way. – I am not sending</l>
+						<l facs="#facs_6_tr_1_tl_7">off the letter for the present.</l>
+						<l facs="#facs_6_tr_1_tl_8">My coat is admired everywhere and</l>
+						<l facs="#facs_6_tr_1_tl_9">by everybody. - Konrad and Elisabeth</l>
+						<l facs="#facs_6_tr_1_tl_10">have been in <placeName ref="geo-2643743">London</placeName> for some days, as K.</l>
+						<l facs="#facs_6_tr_1_tl_11">was sent as representative of the firm</l>
+						<l facs="#facs_6_tr_1_tl_12">to the British Industries Fair. He</l>
+						<l facs="#facs_6_tr_1_tl_13">entertained the three Labowsky sister's</l>
+						<l facs="#facs_6_tr_1_tl_14">for lunch at the <orgName ref="gnd-4286031-3">Waldorf Hotel</orgName> and</l>
+						<l facs="#facs_6_tr_1_tl_15">listened in silent amusement to our</l>
+						<l facs="#facs_6_tr_1_tl_16">continuous stream of Labowsky talk.</l>
+						<l facs="#facs_6_tr_1_tl_17">I had of course more to tell than anybody</l>
+						<l facs="#facs_6_tr_1_tl_18">else - it was a good rehearsal for College.</l>
+						<l facs="#facs_6_tr_1_tl_19">I am going to <placeName ref="geo-11524648">Oxford</placeName> - very</l>
+						<l facs="#facs_6_l">reluctantly - tomorrow. If you can</l>
+						<l facs="#facs_6_l_13">find those essay subjects, please send</l>
+						<l facs="#facs_6_l_20">them! I wonder how your trips to <orgName ref="gnd-1094544-1">Brunswick</orgName>
+                        </l>
+						<l facs="#facs_6_l_27">went off and how you managed to deal </l>
+						<l facs="#facs_6_l_34">with the 3 thesis. Give me love to</l>
+						<l facs="#facs_6_l_41">the [Wongs?], to Therise, Luby and the</l>
+						<l facs="#facs_6_l_48">hund.</l>
+						<l facs="#facs_6_l_55">Yours <persName ref="gnd-1029912939">Lotte</persName>
+                        </l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

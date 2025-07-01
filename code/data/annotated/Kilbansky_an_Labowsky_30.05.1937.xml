@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kilbansky an Labowsky - 30.05.1937</title>
+        <author ref="http://d-nb.info/gnd/118777378"/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Literaturarchiv Marbach</publisher>
+        <idno>1937-05-30_Klibansky_Labowsky</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>Literaturarchiv Marbach</repository>
+            <idno/>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>maschinell</support>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>1937-05-30</origDate>
+              <origPlace>2640729[?]</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de"/>
+      </langUsage>
+      <textClass>
+        <keywords scheme="LOC">
+              <term/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-06-24">Mika, Senanur, Levan, Raymond</change>
+      <change when="2025-05-07">Digitalisierung durch Moritz Riemann</change>
+    </revisionDesc>
+  </teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="0001_p001.jpg" width="2479px" height="3508px"/>
+			<zone points="325,806 325,3006 2468,3006 2468,806" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="1520,848 1600,886 1651,848 1991,854 1988,760 1879,747 1839,781 1764,795 1697,752 1667,776 1571,755 1517,787" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="340,1151 383,1170 426,1153 503,1183 562,1175 608,1199 637,1178 707,1191 749,1161 781,1164 779,1111 674,1097 626,1057 498,1113 434,1084 340,1097" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="490,1309 2336,1335 2336,1250 2296,1242 1814,1244 1766,1279 490,1255" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="321,1467 559,1418 998,1469 1357,1424 2401,1453 2401,1338 2366,1327 2248,1378 2042,1333 1983,1376 1748,1394 1657,1354 530,1381 321,1338" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="316,1555 404,1523 557,1555 1360,1536 1360,1485 1244,1453 1194,1483 586,1440 316,1461" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="508,1633 2419,1641 2419,1558 2379,1542 2125,1592 508,1563" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="316,1670 2393,1697 2350,1633 316,1633" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="321,1732 899,1774 971,1734 2366,1769 2366,1705 2235,1686 321,1675" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="321,1785 415,1814 565,1796 674,1817 752,1796 752,1742 720,1737 621,1734 594,1748 525,1732 321,1732" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="511,1889 2427,1895 2427,1825 2320,1860 1964,1817 1844,1849 1667,1798 1397,1844 511,1804" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="316,1943 2462,1959 2462,1887 316,1887" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="321,2005 2358,2005 2334,1948 321,1943" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="318,2042 2390,2063 2390,1996 318,1999" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="329,2106 1504,2120 1504,2058 1448,2050 329,2045" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="468,2205 2395,2237 2395,2160 1999,2165 1876,2117 1705,2162 1603,2117 1402,2154 1314,2120 1143,2160 468,2144" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="318,2253 2406,2277 2358,2216 2181,2208 318,2216" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+				<zone points="327,2312 2358,2328 2358,2269 2168,2256 327,2256" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+				<zone points="329,2352 632,2393 2334,2374 2307,2315 329,2310" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+				<zone points="327,2422 2441,2430 2441,2385 2371,2366 327,2371" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+				<zone points="321,2430 1319,2419 2331,2427 2331,2486 321,2473" rendition="Line" xml:id="facs_1_l"/>
+				<zone points="327,2569 517,2524 2385,2534 2382,2468 2176,2500 324,2476" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+				<zone points="353,2580 1954,2588 2034,2620 2109,2580 2264,2617 2264,2542 2112,2529 353,2556" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+				<zone points="321,2658 1630,2649 1598,2583 321,2567" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+				<zone points="442,2738 2366,2746 2366,2663 442,2671" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+				<zone points="318,2799 2363,2794 2363,2743 2248,2732 1641,2762 318,2714" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
+				<zone points="313,2856 2465,2845 2465,2773 2414,2762 2355,2794 313,2797" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
+				<zone points="321,2890 2451,2904 2451,2842 321,2848" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
+				<zone points="310,2936 2267,2984 2342,2949 2304,2893 310,2882" rendition="Line" xml:id="facs_1_tr_1_tl_29"/>
+				<zone points="321,3032 431,2997 594,3027 624,3003 677,3021 934,3011 934,2957 816,2941 562,2944 541,2963 468,2939 321,2947" rendition="Line" xml:id="facs_1_tr_1_tl_30"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="3508" lry="2479">
+			<graphic url="0002_p002.jpg" width="3508px" height="2479px"/>
+			<zone points="689,362 689,2083 3139,2083 3139,362" rendition="TextRegion" xml:id="facs_2_tr_1">
+				<zone points="752,420 3109,414 3109,308 3054,304 2823,350 2564,298 2314,356 2119,320 1248,341 1054,301 847,359 752,326" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+				<zone points="673,487 703,493 749,475 770,487 850,466 1084,472 1084,414 1066,411 932,417 892,399 819,417 719,399 673,411" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+				<zone points="819,533 2966,527 2929,460 2698,463 2616,423 2454,463 2122,420 1976,472 819,469" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+				<zone points="676,585 2948,588 3118,621 3118,509 2573,551 1991,512 1650,551 1614,518 676,539" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+				<zone points="688,655 2984,652 2951,588 688,594" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+				<zone points="755,706 3121,716 3121,633 3021,618 2814,664 755,649" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+				<zone points="691,764 3078,786 3078,703 691,709" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+				<zone points="688,847 2278,828 2244,758 688,770" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+				<zone points="801,874 3097,892 3097,804 2972,792 2811,831 2649,789 1900,847 801,822" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+				<zone points="685,950 691,874 749,871 795,871 3106,874 3130,947 725,956 688,953" rendition="Line" xml:id="facs_2_l"/>
+				<zone points="688,999 3106,1017 3106,953 2948,932 2241,971 1870,932 688,950" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+				<zone points="688,1060 1285,1054 1370,1096 2862,1075 2862,1014 2768,990 688,999" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+				<zone points="691,1130 1815,1145 1815,1081 1772,1075 691,1060" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+				<zone points="865,1236 3030,1245 3030,1145 2957,1139 2646,1178 2582,1142 2512,1178 2098,1139 1979,1178 1818,1139 1431,1185 1322,1142 865,1166" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+				<zone points="688,1303 2948,1300 2948,1239 2908,1230 688,1233" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+				<zone points="685,1361 3027,1352 3027,1294 2969,1285 2689,1318 685,1303" rendition="Line" xml:id="facs_2_tr_1_tl_17"/>
+				<zone points="691,1431 1769,1407 2354,1459 3130,1422 3094,1337 2914,1373 691,1361" rendition="Line" xml:id="facs_2_tr_1_tl_18"/>
+				<zone points="685,1513 770,1480 1142,1516 1233,1480 1337,1504 1379,1477 1434,1513 1498,1477 1708,1495 1708,1434 1635,1413 685,1431" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+				<zone points="865,1593 1745,1632 1864,1593 2168,1629 2500,1596 2649,1635 2744,1593 3069,1632 3036,1516 2521,1519 2482,1553 2238,1504 1510,1535 1340,1501 1258,1541 865,1507" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
+				<zone points="682,1693 941,1693 999,1653 1057,1693 1227,1660 1264,1684 1501,1663 1498,1617 1452,1599 1264,1586 929,1605 752,1577 679,1608" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+				<zone points="2296,1720 2360,1714 2375,1727 2393,1711 2518,1705 2707,1727 2750,1714 2753,1656 2698,1635 2637,1656 2576,1632 2476,1660 2424,1632 2299,1620" rendition="Line" xml:id="facs_2_tr_1_tl_22"/>
+				<zone points="871,1778 2969,1775 2969,1687 2908,1672 2701,1727 2363,1736 2016,1684 1952,1723 1867,1693 1608,1727 1535,1675 1480,1708 1413,1672 1264,1720 871,1708" rendition="Line" xml:id="facs_2_tr_1_tl_23"/>
+				<zone points="716,1842 2996,1845 2978,1757 2466,1794 716,1784" rendition="Line" xml:id="facs_2_tr_1_tl_24"/>
+				<zone points="685,1900 1821,1937 2524,1903 2707,1937 2823,1891 3109,1894 3109,1830 3063,1827 2171,1864 685,1824" rendition="Line" xml:id="facs_2_tr_1_tl_25"/>
+				<zone points="688,1955 798,1988 932,1964 1060,1994 1185,1994 1279,1955 1349,1967 1349,1921 1303,1897 1108,1894 1023,1918 977,1894 688,1900" rendition="Line" xml:id="facs_2_tr_1_tl_26"/>
+				<zone points="968,2083 1154,2107 1519,2071 1693,2113 2022,2080 2022,1985 968,1991" rendition="Line" xml:id="facs_2_tr_1_tl_27"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lg>
+						<l facs="#facs_1_tr_1_tl_1">den <date when="1937-05-30">30. V. 37.</date></l>
+						<l facs="#facs_1_tr_1_tl_2">Liebe <persName ref="gnd-1029912939">Lotte</persName>,</l>
+						<l facs="#facs_1_tr_1_tl_3">Einliegend sende ich die Anfänge des <persName ref="gnd-118640763">Macrobius</persName>-Kommentare</l>
+						<l facs="#facs_1_tr_1_tl_4">(1) aus dem <term ref="gnd-7505404-8">Bernensis</term>, <term ref="gnd-7505404-8">Vat. Palatinus</term>, und - vermutlich - <term ref="gnd-7505404-8">Bamberg</term></l>
+						<l facs="#facs_1_tr_1_tl_5">gensis; (2) aus dem <term ref="gnd-7505404-8">Monacensis</term>.</l>
+						<l facs="#facs_1_tr_1_tl_6"><persName ref="gnd-118541137">Grabmann </persName>behauptet : a) Der <term ref="gnd-7505404-8">Monacensis</term> ist mit dem <term ref="gnd-7505404-8">Bernensis</term></l>
+						<l facs="#facs_1_tr_1_tl_7">und dem Vat. Palat. identisch. (Den <term ref="gnd-7505404-8">Bambergensis</term> kennt er nicht).</l>
+						<l facs="#facs_1_tr_1_tl_8">b) Der Verfasser ist ein '<persName ref="gnd-102421382">Magister Hugo</persName>', der sich im Cod. Mona-</l>
+						<l facs="#facs_1_tr_1_tl_9">censis nennt.</l>
+						<l facs="#facs_1_tr_1_tl_10">Nach dem im <term ref="gnd-4006439-6">Münchener Katalog</term> gegehenen Incipit (das ich auf</l>
+						<l facs="#facs_1_tr_1_tl_11">beiliegendem Blatt kopiert habe) habe ich die Ueberzeugung, dass 66</l>
+						<l facs="#facs_1_tr_1_tl_12">der <term ref="gnd-7505404-8">Monacensis</term> einen anderen Kommentar enthält als <term ref="gnd-7505404-8">Ba</term>, <term ref="gnd-7505404-8">Be</term> und <term ref="gnd-7505404-8">V</term>;</l>
+						<l facs="#facs_1_tr_1_tl_13">sollte darum <persName ref="gnd-102421382">Hugo</persName> Verfasser des <term ref="gnd-7505404-8">Münchener Kommentars</term> sein, könnte</l>
+						<l facs="#facs_1_tr_1_tl_14"><persName ref="gnd-11871936X">Wilhelm v. C.</persName> Autor des anderen sein.</l>
+						<l facs="#facs_1_tr_1_tl_15">Es ist also zunächst zu prüfen, ob der Anfang des <term ref="gnd-7505404-8">Monacensis</term></l>
+						<l facs="#facs_1_tr_1_tl_16">von dem anderen nur im Einzelnen oder im Ganzen avweicht. Ferner :</l>
+						<l facs="#facs_1_tr_1_tl_17">Welches ist der Schluss des <term ref="gnd-7505404-8">Monacensis</term> ? Der Schluss von <term ref="gnd-7505404-8">V</term> ist :</l>
+						<l facs="#facs_1_tr_1_tl_18">'vere igitur pronuntiandum' qundoquidem Tullius nullam illarum</l>
+						<l facs="#facs_1_tr_1_tl_19">specierum pretermisit, ergo dicendum est in hoc opere contineri in-</l>
+						<l facs="#facs_1_l">tegritatem omnis philosophie. Finis.  - Der Schluss von <term ref="gnd-7505404-8">Ba</term> ist</l>
+						<l facs="#facs_1_tr_1_tl_22">(laut Katalog), von geringen Abweichungen abgesehen, der gleiche:</l>
+						<l facs="#facs_1_tr_1_tl_23">'.... contineri integritatem philosophie. Expliciunt glosule.</l>
+						<l facs="#facs_1_tr_1_tl_24">(Der <term ref="gnd-7505404-8">Bernensis</term> ist leider unvollständig).</l>
+						<l facs="#facs_1_tr_1_tl_25">Eine weitere Frage betrifft den <term ref="gnd-7505404-8">Bambergensis</term> : <term ref="gnd-7505404-8">Bernensis</term> und</l>
+						<l facs="#facs_1_tr_1_tl_26"><term ref="gnd-7505404-8">V</term> stimmen am Anfang noch leidlich überein, von der zweiten Seite</l>
+						<l facs="#facs_1_tr_1_tl_27">an gehen sie stark auseinander; es handelt sich</l>
+						<l facs="#facs_1_tr_1_tl_28">vermutlich um zwei verschiedene Redaktionen. Zu welcher gehört <term ref="gnd-7505404-8">Ba</term> ?</l>
+						<l facs="#facs_1_tr_1_tl_29">Dies lässt sich vielleicht durch Vergleich mit der beiliegenden</l>
+						<l facs="#facs_1_tr_1_tl_30">ersten Seite sehen.</l>
+					</lg>
+				</p>
+				<pb facs="#facs_2" n="2"/>
+				<p facs="#facs_2_tr_1">
+					<lg>
+						<l facs="#facs_2_tr_1_tl_1">Die Abweichungen zwischen <term ref="gnd-7505404-8">Be</term> und <term ref="gnd-7505404-8">V</term> sind sachlich von einiger</l>
+						<l facs="#facs_2_tr_1_tl_2">Bedeutung :</l>
+						<l facs="#facs_2_tr_1_tl_3"><term ref="gnd-7505404-8">Be</term> hat auf fol. 3 va, zum Lemma 'cum autem ima de  vel de</l>
+						<l facs="#facs_2_tr_1_tl_4">aeris etherisve potestate' (zu Macrobius I 2, 13; p. 482,8 <persName ref="gnd-116326239">Eyssenh</persName>."</l>
+						<l facs="#facs_2_tr_1_tl_5">ut de demonibus, de quibus latius in Thimeo Platonis disseremus.</l>
+						<l facs="#facs_2_tr_1_tl_6">Dies deutet darauf, dass der Verfasser dieses Kommentars auch ei-</l>
+						<l facs="#facs_2_tr_1_tl_7">nen <term ref="gnd-7505404-8">Timaeus</term>-Kommentar beabsichtigte, würde also ein gutes Argument</l>
+						<l facs="#facs_2_tr_1_tl_8">für <persName ref="gnd-11871936X">W. v. Conches</persName> sein. Der Satz fehlt in <term ref="gnd-7505404-8">V</term>.</l>
+						<l facs="#facs_2_tr_1_tl_9"><term ref="gnd-7505404-8">V</term> hat zum Lemma 'sed siquid de his assignare conantur' ( I 2, 14;</l>
+						<l facs="#facs_2_l">p. 482,17 <persName ref="gnd-116326239">Eyssenhardt</persName> )“... quia ut Augustinus ait, de Deo nosse</l>
+						<l facs="#facs_2_tr_1_tl_12">quid non sit antequam cognoscamus quid sit, non est parva cognitio.</l>
+						<l facs="#facs_2_tr_1_tl_13">Unde dictum est: Docta ignorantia est nescire quid sit Deus."</l>
+						<l facs="#facs_2_tr_1_tl_14">Dieser letzte Satz fehlt in <term ref="gnd-7505404-8">Be</term>.</l>
+						<l facs="#facs_2_tr_1_tl_15"><persName ref="gnd-118708899">Hasenclever</persName> hat noch immer nicht geantwortet und auch nichts</l>
+						<l facs="#facs_2_tr_1_tl_16">geschickt.-Wenn es Dir Mühe spart (Du musst die Augen schonen),</l>
+						<l facs="#facs_2_tr_1_tl_17">lass Dir ruhig die ersten vier Blatt der beiden Codices photogra-</l>
+						<l facs="#facs_2_tr_1_tl_18">phieren; Du kannst die Photos dann zu Hause in besserem Licht durch-</l>
+						<l facs="#facs_2_tr_1_tl_19">gehen als in der <term ref="gnd-4043774-7">Bibliothek</term>.</l>
+						<l facs="#facs_2_tr_1_tl_20">Die Cueser Photos werde ich heute Abend oder morgen heraussu-</l>
+						<l facs="#facs_2_tr_1_tl_21">chen und Dir schicken.</l>
+						<l facs="#facs_2_tr_1_tl_22">ganze Corpus</l>
+						<l facs="#facs_2_tr_1_tl_23">Die <term ref="gnd-4043774-7">italienische Staatsdruckerei</term> will das Platon kostenlos</l>
+						<l facs="#facs_2_tr_1_tl_24">drucken. Es ist erfreulich, dass solches Interesse besteht.</l>
+						<l facs="#facs_2_tr_1_tl_25">Die <term ref="gnd-4043774-7">Druckerei</term> arbeitet aber sehr langsem, - zum Unterschied von dem</l>
+						<l facs="#facs_2_tr_1_tl_26">wackeren Augustin.</l>
+						<l facs="#facs_2_tr_1_tl_27">Dies für heute in aller Eile.</l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>
