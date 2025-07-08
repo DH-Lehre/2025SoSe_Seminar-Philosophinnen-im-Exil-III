@@ -1023,7 +1023,152 @@ Cassirer, E. (2000). *Logik der Kulturwissenschaften: Fünf Studien*. Hamburg: M
 
 ## Sitzung am 03.06.
 
-Referat zu Ernst Cassirer, Transkription mit Transkribus 
+### Referat: Zusammenhang von Philosophie und Kulturwissenschaft
+
+#### Kulturwissenschaftliche Bibliothek Warburg (KBW)
+
+Die KBW wurde von Aby Warburg in Hamburg gegründet und in den Jahren 1925-1926 erbaut, musste allerdings aufgrund der Machtübernahme der Nazis, im Jahre 1933 nach London verlegt werden. Dort wurde es an die University of London angegliedert und war fortan als Warburg Institute bekannt.
+
+Ziel der KBW war es Verbindung zwischen verschiedenen wissenschaftlichen Disziplinen herzustellen und interdisziplinäre Austauschmöglichkeiten für Forschende anzubieten.
+
+
+#### Aby Warburg
+
+Aby Warburg war deutscher Kunsthistoriker und Kulturwissenschaftler, welcher rein formalistische Kunstbetrachtung kritisierte. Im Rahmen dessen versuchte er Kulturwissenschaftliche Ansätze in die Kunstgeschichte einzubringen. 
+
+Er fragte: Warum löst ein Bild bestimmte Gefühle aus? Und nicht: Wie löst es diese aus? Als Antwort darauf prägte er den Begriff der **Pathosformel**.
+Diese besagt, dass emotionale Ausdrücke als kulturelle Muster dargestellt werden. 
+
+Als Beispiel wird das Gemälde "Die Freiheit führt das Volk" von Eugène Delacroix (1830) genannt, in welchem die abgebildete Marianne die, zu dem Zeitpunkt verbotene, Flagge Tricolore emporhebt, um somit Freiheit zu symbolisieren.
+
+![Die Freiheit führt das Volk](img/La_Liberté_guidant_le_peuple_-_Eugène_Delacroix_-_Musée_du_Louvre_Peintures_RF_129_-_après_restauration_2024.jpg)
+
+*Abbildung: Eugène Delacroix, Die Freiheit führt das Volk (1830)*
+
+
+Aby Warburg äußert außerdem ein Interesse an der Wirkungsgeschichte von Bildern und Symbolen. Er verfasst den **Mnemosyne-Atlas** (Warburg, 1924-1929), welcher auf Tafel 42 wissenschaftliche Symboliken über verschiedene Epochen hinweg vergleicht.
+
+![Tafel 42](img/atlas_42_nera_wb.jpg)
+
+*Abbildung: Aby Warburg, Tafel 42 aus dem Bilderatlas Mnemosyne (1924-1929)*
+
+
+#### Ernst Cassirer
+
+Cassirer war ein deutscher Philosoph, welcher enge Verbindungen zur KBW pflegte.
+
+Er trug maßgebend zur interdisziplinären Ausrichtung der Universität Hamburg bei, bevor er aufgrund der NS-Verfolgung in die Vereinigten Staaten flüchten musste. Sein Fokus galt hierbei der interdisziplinären Verbindung zwischen der Philosophie und Kulturwissenschaft.
+
+Er bezeichnet den Menschen als **"animal symbolicum"**, ein Wesen, welches symbolisch handelt und sich die Welt durch Symbole erschließt. Zum Beispiel steht ein Herz für Liebe und ein Kreuz für Glauben. 
+
+Im Gegensatz zu Aby Warburg, ist ihm der Wahrheitsgehalt eines Bildes wichtiger, als die Wirkung.
+
+
+#### Philosophie der symbolischen Formen (Ernst Cassirer, 1923-1929)
+
+**Grundidee**
+
+Die Philosophie beginnt mit dem Staunen über Geschehen auf dieser Welt. Zudem geben Sitten und Symbolsysteme dem Menschen Struktur für das Weltverständnis. Diese sind wichtiger als objektive Wahrheiten.
+
+
+**Symbolische Formen**
+
+Das Symbolische erschließen der Welt durch den Menschen bildet hierbei nicht die Realität ab, der Mensch erschließt durch Symbolik eine "eigene Welt". 
+
+Zum Beispiel würde eine Menge von Wissenschaftlern verschiedener Disziplinen eine Kurve unterschiedlich beschreiben. Daher erfolgt keine rein objektive Interpretation.
+
+
+**Thesen**
+
+Es gibt laut Cassirer keine Wahrheit ohne Kultur. Reine Objektive Fakten existieren nicht, sondern alle Wahrheiten sind Kulturell vermittelt.
+
+
+Ebenso kritisiert Cassirer Versuche die Theorie und Empirie zu trennen. Die Theorie lenkt nämlich was und wie wir etwas beobachten. Sowohl Theorie und Empirie sind Teil desselben erkenntnistheoretischen Prozesses.
+
+
+Des Weiteren beschreibt Cassirer den **"Kosmos" des Menschen**. Dieser ist eine, auf die gleiche Interpretation von Symbolen basierte, gemeinsame Welt an der verschiedene Menschen denkend teilhaben und dies beschränkt sich nicht nur auf Naturwissenschaften.
+
+
+**Symbolische Formen in der Kunst**
+
+Nachahmung → Manier → Stil;
+Dieser Prozess lässt sich auf kulturelle Entwicklungen anwenden (Beispiel: Sprache, Religion, Wissenschaft)
+
+
+**Zusammenhang mit dem Warburg-Kreis**
+
+Der **Warburg Kreis** war eine Gruppe von Denkern, welche sich mit der symbolischen Deutung von Kultur befassten. Sie fokussierten sich auf die Wirkung von Bildern und Symbolen, sowohl historisch als auch emotional. 
+
+Außerdem untersuchten sie welche kulturellen Muster unser Denken prägen.
+
+
+**Missbrauch durch die Nationalsozialisten**
+
+Die Theorie der kulturellen Symbolik wurde durch das NS-Regime missbraucht, zum Beispiel durch das Runenalphabet und andere "arische Symbolik". Dieser Missbrauch wurde von Cassirer kritisiert (Warburg war zu der Zeit bereits verstorben); symbolische Formen sind nämlich kulturelle Konstrukte und keine biologischen oder rassischen Wahrheiten.
+
+   
+#### Diskussion
+
+##### **Erschweren verschiedene Kulturwissenschaften nicht das Erlangen von Wissen bzw. Wahrheit?**
+
+**Pro: Wenn zu viele Disziplinen aufeinander treffen, kann die Zusammenarbeit erschwert werden.**
+
+- Beispiel: "Herz" kann sowohl biologisch, emotional, religiös oder künstlerisch interpretiert werden.
+   - biologisch: Organ
+   - emotional: Symbol für Liebe
+   - religiös: Sitz des Bösen und Guten
+   - künstlerisch: 
+
+**Contra: Interdisziplintät ermöglicht tieferes Wissen in Subdisziplinen.**
+
+- Laut Cassirer verändern Kulturwissenschaften den Weg zur "Wahrheit", dies kann dennoch zielführend sein.
+
+### Digitale Transkription
+
+Ziel der digitalen Transkription ist es, Briefe in bearbeitbare Formen zu bringen. Durch digitale Methoden soll die Transkription vereinfacht werden.
+
+#### Transkribus
+
+[Transkribus Homepage](https://app.transkribus.org/)
+
+Transkribus ist ein Online-Tool, welches handgeschriebene Dokumente transkribiert. Die Struktur dieser bleibt hierbei erhalten.
+Transkribus versucht Textblöcke, wie Überschrift, Datum, Adresszeilen und Absätze zu identifizieren, strukturelle Informationen bleiben also erhalten.
+
+**Workflow**
+
+1. Auf Transkribus Homepage **"All Collections"** anklicken
+2. Neue Collection anlegen und Namen vergeben
+3. Brief hochladen und anschließend **"Create Document"**, woraufhin Dokument mit einzelnen Seiten angelegt wird
+4. Seite auswählen und **"Process with AI"** anklicken (auch für ganze Dokumente/Collections möglich)
+5. Model auswählen:
+   - Modelle sind Handschriftmustersysteme
+      - Unterscheiden zwischen handgeschrieben und computergeschrieben
+   - **Supermodelle** für uns relevant (German Giant, The Text Titan)
+   - Modell könnte auch selbst trainiert werden:
+      - Text von bestimmten Autoren annotieren
+      - Eigenes Modell darauf trainieren
+6. **"Start Recognition"** und anschließend im Editor öffnen
+7. Korrekturen im Editor vornehmen 
+   - Der Text ist in der Vorschau direkt bearbeitbar. 
+   - Manchmal fehlen ganze Zeilen, dann müssen diese Manuell eingefügt werden:
+   - Mit Tool Zeile im Bild auswählen und anschließend im Text einfügen.
+
+Die restliche Bedienung ist intuitiv.
+
+![TranskribusEditor](img/transkribus_lorepipsum.png)
+
+
+
+#### Alternativen
+
+##### Tesseract: OCR
+Tesseract ist ein Open-Source-Tool für Bilderkennung, allerdings ist hierfür "preprocessing" der Texte notwendig, daher für unsere Arbeit irrelevant und keine gute Alternative.
+
+
+##### OpenAI GPT 4o
+Durch die OpenAI API kann man Bilder lokal durch das Model GPT4o transkribieren lassen. Dies funktioniert soweit gut, allerdings ist sich das Model selbst bei Fehlern selbstsicher und die Struktur der Dokumente geht verloren, welche für unsere Arbeit allerdings interessant sind.
+
+Für die Briefe haben wir auch keine Publikationsrechte, weshalb die Arbeit mit GPT4o nicht erwünscht ist.
 
 ## Sitzung am 10.06.
 
