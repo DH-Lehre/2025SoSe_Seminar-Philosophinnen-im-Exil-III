@@ -1186,6 +1186,23 @@ https://cloud.rz.uni-kiel.de/index.php/s/HNKnrB6NYbEaEbY
 
 https://app.conceptboard.com/board/dh43-gg4z-e724-c4ru-u177
 
+### Sitzungsprotokoll
+
+In der Sitzung wurden Kleingruppen für die Transkription und Annotation der Briefe gebildet.
+Inhaltlich wurden mittels eines [Conceptboards](https://app.conceptboard.com/board/dh43-gg4z-e724-c4ru-u177) die wesentlichen Ergebnisse der vorangegangenen Sitzungen erarbeitet:
+
+| Thema | Ergebnisse |
+| --- | --- |
+| [Philosophie und Universität in den 20er/30er Jahren](#sitzung-am-2904) | Als zentrale philosophische Debatte der Zeit wurde die Auseinandersetzung zwischen dem [logischen Positivismus](https://de.wikipedia.org/wiki/Logischer_Empirismus) auf der einen und dem Rückbezug auf die Antike auf der anderen Seite benannt. Darüber hinaus wurde die Verstreuung der philosophischen Schulen als Auswirkung von Vertreibung und (un-)freiwilliger Exiliierung infolge der Repressionen in den 1920er/30er Jahren herausgestellt. Dabei wurde auch auf die [vier Phasen der Vertreibung nach Grüttner](#vier-phasen-der-vertreibung-aus-den-universitäten) Bezug genommen. Es wurde außerdem betont, dass die Möglichkeiten von Frauen, akademische Laufbahnen einzuschlagen, nachhaltig durch den Nationalsozialismus zurückgeworfen wurden.|
+|[Aby Warburg, Ernst Cassirer und der Warburg-Cassirer-Kreis](#sitzung-am-0306)| Es wurden das symbolische Kulturverständnis einschließlich der Gefahr des Missbrauchs von Symbolen nach Cassirer sowie die [Pathosformel](https://de.wikipedia.org/wiki/Pathosformel) nach Aby Warburg als zentrale Konzepte angeführt. Als besonders eindrücklich wurde die Verlegung der Bibliothek des Frankfurter Instituts für Sozialforschung in das Exil in London wahrgenommen. Als zentrale Erkenntnisse wurden der interdisziplinäre Gedanke sowie die Betonung einer eigenen Logik der Kulturwissenschaft gegenüber der Naturwissenschaft festgehalten. Dies verweist auf die Herausforderungen von Digital Humanities heute, wo ebenfalls Vermittlung bei der Zusammenarbeit notwendig ist; vergleiche hierzu auch die Diskussion von Klaus-Georg Deck, der die Problemstellung v. a. aus der Warte der Informatik betrachtet (Deck, 2018).|
+| [Daten und Datenmodelle](#sitzung-am-0605) | Es wurde auf das erarbeitete [Datenmodell für Briefe](#datenmodell-für-briefe) verwiesen, das bei der weiteren Arbeit als Referenz dienen soll. Darüber hinaus wurde die Wichtigkeit der Nachnutzbarkeit der eigenen Arbeit als Ziel betont. Dies wird v. a. durch Standardisierung errreicht. Es wurde festgestellt, dass bisher die Aufnahme von Metainformationen im TEI-Header noch nicht im Workflow berücksichtigt wurde. Dies soll über ein [Formular](#tei-header-formular-hinweise) erfolgen, das im Nachgang zur Verfügung gestellt wurde.|
+| [Sozialgeschichte der Philosophie und Bourdieau](#sitzung-am-1305) | Als zentral wurde die Erkenntnis festgehalten, dass soziale Parameter wichtig für die Ausbildung des sog. kulturellen Geschmacks sind. Daran anschließend sollte in der weiteren Beschäftigung die Auswirkung von Exil und Flucht auf den kulturellen Geschmack betroffener Personen stets mit reflektiert werden. Nicht zuletzt sollte auch die Prägung der Philosophie durch soziale Umstände bedacht werden.|
+| [Exil und Flucht](#sitzung-am-2204)| Es wurde die fehlende begriffliche Trennschärfe der Begriffe Exil und Flucht bei [Shklar](#32warum-spricht-shklar-von-exil-und-nicht-von-flucht-und-migration) herausgestellt. Dabei wurde der Verlust des kulturellen Personals unabhängig von der Religion, insbesondere in der Philosophie, betont. Aufseiten der Betroffenen wurde außerdem auf Spannungen im Umgang mit der Schuld in Deutschland nach 1945 verwiesen. Darüber hinaus wurden die Verschiedenheiten der (philosophischen) Prägungen durch das Exil herausgestellt.|
+| [Transkription und Paläographie](#paläographie-grundlagen) | Es wurde die Wichtigkeit der Auswahl des richtigen KI-Modells für die erfolgreiche Arbeit mit Transkribus betont. Außerdem wurden verschiedene mögliche Herangehensweisen bei der Transkription schwieriger Textpassagen herausgestellt (z. B. Lektüre des Kontexts oder Schriftvergleich). |
+
+**Literatur** 
+- Deck, Klaus-Georg (2018). Digital Humanities – Eine Herausforderung an die Informatik und an die Geisteswissenschaften. In: Wie Digitalität die Geisteswissenschaften verändert: Neue Forschungsgegenstände und Methoden. Martin Huber und Sybille Krämer.
+
 
 ### Aufgabe zur nächsten Woche 
 
