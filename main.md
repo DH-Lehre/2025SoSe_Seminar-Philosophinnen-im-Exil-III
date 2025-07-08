@@ -1287,4 +1287,17 @@ Ihr könnt:
 
 * Einen einzelnen Brief, eine Gruppe von oder alle Briefe für die Beantwortung der Fragestellung verwenden. 
 * Nutzt gerne die Notebooks aus dem Seminar und verfeinert/vertieft die dort begonnenen Analysen. 
-* Euch eine interessante Präsentationsform überlegen, bspw. mit Präsentationsfolien (bevorzugt in Markdown), einem Jupyter-Notebook etc. 
+* Euch eine interessante Präsentationsform überlegen, bspw. mit Präsentationsfolien (bevorzugt in Markdown), einem Jupyter-Notebook etc.
+
+## Sitzung am 07.07.
+
+**Feedback zum Seminar**
+
+>Nehmt Euch nochmal 3 Minuten Zeit, um für Euch die folgenden Fragen zu beantworten:
+> 1. Was hat Euch gut gefallen am Seminar?
+> 2. Was hat Euch nicht so gut gefallen?
+> 3. War das Lesepensum, der Vorbereitungsaufwand und das Arbeitstempo angemessen?
+> 4. Wie sind Eure Erfahrungen in der interdisziplinären Zusammenarbeit / mit der je anderen Disziplin?
+> 5. Was wünscht Ihr Euch für zukünftige Seminare?
+
+
