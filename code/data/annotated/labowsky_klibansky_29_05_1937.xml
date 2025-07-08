@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+		<titleStmt>
+			<title>Lotte Labowsky an Raymond Klibansky, 29.05.1937</title>
+			<author ref="http://d-nb.info/gnd/1029912939"/>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>Literaturarchiv Marbach</publisher>
+			<idno>1937_05_29_Labowsky_Klibansky</idno>
+		</publicationStmt>
+		<sourceDesc>
+			<msDesc>
+			<msIdentifier>
+				<repository>Literaturarchiv Marbach</repository>
+				<idno>-</idno>
+			</msIdentifier>
+			<physDesc>
+				<objectDesc>
+				<supportDesc>
+					<support>maschinell</support>
+				</supportDesc>
+				</objectDesc>
+			</physDesc>
+			<history>
+				<origin>
+				<origDate>1937-05-29</origDate>
+				<origPlace>Hamburg</origPlace>
+				</origin>
+			</history>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+		<langUsage>
+			<language ident="de"/>
+		</langUsage>
+		<textClass>
+			<keywords scheme="LOC">
+				<term>Hand--Wounds and injuries</term>
+				<term>Latin language</term>
+				<term>Colloquial</term>
+				<term>Alcoholism</term>
+			</keywords>
+		</textClass>
+		</profileDesc>
+		<revisionDesc>
+		<change when="2025-06-24">Jonathan Klein, Duhan Akdemir, Robert Bruns, Seren Sengül</change>
+		<change when="2025-05-07">Digitalisierung durch Moritz Riemann</change>
+		</revisionDesc>
+  	</teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="1222" lry="1553">
+			<graphic url="0001_1937-05-29_Labowsky_Klibansky-1.jpg" width="1222px" height="1553px"/>
+			<zone points="198,295 190,1509 1198,1507 1194,295" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="699,337 815,344 834,357 949,323 985,346 1024,340 1061,356 1061,281 1032,270 1000,292 944,275 919,296 867,299 845,282 787,276 699,296" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="197,474 238,457 287,468 310,452 427,460 427,427 371,392 345,404 321,398 291,412 236,403 197,408" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="435,590 523,577 730,608 832,587 921,608 1104,576 1104,528 1031,544 968,516 757,560 435,544" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="203,650 1162,648 1162,603 1059,584 203,597" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="197,685 1101,710 1101,662 1019,630 197,665" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="191,741 718,763 717,742 643,710 561,712 515,683 190,708" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="207,795 1148,795 1074,744 675,770 207,745" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="203,842 596,870 909,842 1012,872 1091,838 1191,867 1167,798 517,816 361,787 203,816" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="199,906 1155,911 1155,853 309,868 199,840" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="199,943 442,969 1140,949 1103,910 858,890 603,926 199,906" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="206,1002 1171,1003 1151,958 1024,948 393,973 206,946" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="206,1044 1171,1054 1171,1024 1088,1001 206,1010" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="203,1103 1159,1112 1159,1077 1103,1058 203,1070" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="199,1171 1132,1154 1118,1098 688,1130 199,1112" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="197,1218 1119,1210 1119,1165 1072,1160 197,1171" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+				<zone points="206,1276 230,1276 256,1260 302,1278 348,1261 372,1276 408,1262 451,1271 451,1224 412,1225 369,1199 257,1228 206,1215" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+				<zone points="453,1349 552,1375 582,1358 606,1375 628,1359 698,1357 698,1306 681,1303 650,1319 617,1297 589,1311 545,1311 534,1322 481,1316 453,1336" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+				<zone points="631,1478 952,1479 952,1449 631,1448" rendition="Line" xml:id="facs_1_l"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="1231" lry="1325">
+			<graphic url="0002_1937-05-29_Labowsky_Klibansky-2.jpg" width="1231px" height="1325px"/>
+			<zone points="8,890 8,1151 274,1151 274,890" rendition="TextRegion" xml:id="facs_2_tr_1">
+				<zone points="20,942 64,932 117,939 141,929 162,931 189,950 210,935 210,875 114,888 49,863 20,875" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+				<zone points="1,1004 76,993 123,1010 136,998 158,1007 185,998 214,1004 258,989 258,943 248,939 201,955 178,948 148,964 109,944 61,962 1,936" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+				<zone points="6,1060 32,1068 66,1051 102,1059 111,1049 131,1063 151,1054 197,1058 210,1051 212,1003 190,997 148,1010 136,1001 125,1011 59,1004 7,1019" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+				<zone points="2,1154 34,1145 52,1156 84,1142 172,1163 180,1156 199,1171 231,1158 267,1172 273,1082 232,1080 217,1066 77,1101 52,1086 32,1096 7,1086" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+			</zone>
+			<zone points="280,23 280,1202 1222,1202 1222,23" rendition="TextRegion" xml:id="facs_2_tr_2">
+				<zone points="283,60 300,52 316,52 330,62 344,56 355,66 374,64 382,71 409,63 408,5 397,4 379,14 368,13 351,0 337,0 324,13 282,4" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
+				<zone points="280,158 1199,185 1199,137 279,107" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
+				<zone points="283,226 1179,228 1150,179 816,190 673,160 283,187" rendition="Line" xml:id="facs_2_tr_2_tl_3"/>
+				<zone points="278,265 1179,266 1179,234 1106,218 278,240" rendition="Line" xml:id="facs_2_tr_2_tl_4"/>
+				<zone points="275,312 1117,328 1203,322 1202,273 274,268" rendition="Line" xml:id="facs_2_tr_2_tl_5"/>
+				<zone points="280,371 943,369 1013,395 1148,372 1147,338 1068,321 1004,344 910,315 767,341 280,316" rendition="Line" xml:id="facs_2_tr_2_tl_6"/>
+				<zone points="274,430 1138,443 1127,371 892,402 274,383" rendition="Line" xml:id="facs_2_tr_2_tl_7"/>
+				<zone points="274,472 1161,476 1150,433 274,437" rendition="Line" xml:id="facs_2_tr_2_tl_8"/>
+				<zone points="274,522 1129,529 1129,495 1060,483 274,490" rendition="Line" xml:id="facs_2_tr_2_tl_9"/>
+				<zone points="280,581 1217,583 1208,532 280,534" rendition="Line" xml:id="facs_2_tr_2_tl_10"/>
+				<zone points="280,631 1219,631 1170,596 972,587 280,591" rendition="Line" xml:id="facs_2_tr_2_tl_11"/>
+				<zone points="280,676 1198,673 1178,627 280,643" rendition="Line" xml:id="facs_2_tr_2_tl_12"/>
+				<zone points="281,745 1160,755 1160,709 951,680 897,704 791,680 281,697" rendition="Line" xml:id="facs_2_tr_2_tl_13"/>
+				<zone points="274,786 1213,791 1213,758 1171,753 274,745" rendition="Line" xml:id="facs_2_tr_2_tl_14"/>
+				<zone points="274,840 1060,828 1113,855 1199,830 1199,796 881,785 274,808" rendition="Line" xml:id="facs_2_tr_2_tl_15"/>
+				<zone points="275,883 1177,887 1177,850 994,833 716,862 275,844" rendition="Line" xml:id="facs_2_tr_2_tl_16"/>
+				<zone points="274,941 1189,939 1172,892 274,895" rendition="Line" xml:id="facs_2_tr_2_tl_17"/>
+				<zone points="280,986 932,1011 1147,980 1129,949 916,941 280,958" rendition="Line" xml:id="facs_2_tr_2_tl_18"/>
+				<zone points="275,1042 1201,1034 1201,992 1083,1011 1021,985 932,1011 275,999" rendition="Line" xml:id="facs_2_tr_2_tl_19"/>
+				<zone points="278,1096 1163,1088 1163,1054 1063,1044 278,1067" rendition="Line" xml:id="facs_2_tr_2_tl_20"/>
+				<zone points="278,1140 970,1141 1027,1171 1172,1137 1172,1095 1024,1117 760,1090 636,1122 278,1096" rendition="Line" xml:id="facs_2_tr_2_tl_21"/>
+				<zone points="280,1198 417,1210 484,1190 540,1204 634,1189 671,1197 671,1178 584,1155 371,1172 280,1160" rendition="Line" xml:id="facs_2_tr_2_tl_22"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lg>
+						<l facs="#facs_1_tr_1_tl_1">
+                            <placeName ref="geo-2911297">Hamburg</placeName>, am <date when="1937-05-29">29. V. 1937</date>
+                        </l>
+						<l facs="#facs_1_tr_1_tl_2">Lieber <persName ref="gnd-118777378">Raymond</persName>,</l>
+						<l facs="#facs_1_tr_1_tl_3">anbei der Anfang von clm 14708, manche Sätze</l>
+						<l facs="#facs_1_tr_1_tl_4">scheinen unverständlich, ich glaube aber, im Grossen und Ganzen</l>
+						<l facs="#facs_1_tr_1_tl_5">richtig gelesen zu haben, es ist ein barbarisches Latein. -</l>
+						<l facs="#facs_1_tr_1_tl_6">Ich bin leider die ganze Zeit etwas gehandicapt, da der</l>
+						<l facs="#facs_1_tr_1_tl_8">Schmerz in meiner rechten Hand, den ich schon in <placeName ref="geo-11524648">Oxford </placeName>hatte,</l>
+						<l facs="#facs_1_tr_1_tl_9">sich seit meiner Ankunft sehr verstärkt hat, man hat Überanstren-</l>
+						<l facs="#facs_1_tr_1_tl_10">gung und leicht Entzündung des Nervs festgestellt und ich muss</l>
+						<l facs="#facs_1_tr_1_tl_11">die Hand nach Möglichkeit schonen, daher fasse ich mich kurz.</l>
+						<l facs="#facs_1_tr_1_tl_12">In der Bibliothek schreibe ich mit einem riesendicken Bleistift.</l>
+						<l facs="#facs_1_tr_1_tl_13">Für Deinen Brief aus <placeName ref="geo-2643743">London </placeName>herzlichen Dank, bin froh, dass wie-</l>
+						<l facs="#facs_1_tr_1_tl_14">der eine Schlacht geschlagen, ich wünschte allerdings, Du trän-</l>
+						<l facs="#facs_1_tr_1_tl_15">kest Champagner lieber nach als vor Deinen Vorträgen. - Bitte</l>
+						<l facs="#facs_1_tr_1_tl_16">lass mich wissen, ob es zweckmässig wäre, wenn ich noch mehr</l>
+						<l facs="#facs_1_tr_1_tl_17">transskribierte.</l>
+						<l facs="#facs_1_tr_1_tl_18">Alles Herzliche</l>
+						<l facs="#facs_1_l">
+                            <persName ref="gnd-1029912939">Lotte</persName>
+                        </l>
+					</lg>
+				</p>
+				<pb facs="#facs_2" n="2"/>
+				<p facs="#facs_2_tr_1">
+					<lg>
+						<l facs="#facs_2_tr_1_tl_1">_| Lücke!</l>
+						<l facs="#facs_2_tr_1_tl_2">muss noch</l>
+						<l facs="#facs_2_tr_1_tl_3">einmal</l>
+						<l facs="#facs_2_tr_1_tl_4">nachprüfen</l>
+					</lg>
+				</p>
+				<p facs="#facs_2_tr_2">
+					<lg>
+						<l facs="#facs_2_tr_2_tl_1">Cod. bamberg. - Ba</l>
+						<l facs="#facs_2_tr_2_tl_2">
+                            <persName ref="gnd-118594893">Plato</persName> philosophorum doctissimus decem volumina de re publica</l>
+						<l facs="#facs_2_tr_2_tl_3">composuit, in quibus tota fuit eius intentio animis hominum</l>
+						<l facs="#facs_2_tr_2_tl_4">inculcare amorem iustitie, sine qua nec etiam exiguus cetus</l>
+						<l facs="#facs_2_tr_2_tl_5">hominum xxxxxxxx possit constare. Sed cum iustitie sit summis</l>
+						<l facs="#facs_2_tr_2_tl_6">equare infimis, difficile erat persuadere ei qui plurimum</l>
+						<l facs="#facs_2_tr_2_tl_7">posset velle equari quippe cum excellere potuisset, nisi</l>
+						<l facs="#facs_2_tr_2_tl_8">digna cultus iustitie ostenderetur remuneratio. Hac igitur</l>
+						<l facs="#facs_2_tr_2_tl_9">ratione inductus de premiis xxxxxxxxxxxxxx conservatoris</l>
+						<l facs="#facs_2_tr_2_tl_10">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</l>
+						<l facs="#facs_2_tr_2_tl_11">iustitie et de penis eiusdem contemptoris in eodem opere trac-</l>
+						<l facs="#facs_2_tr_2_tl_12">tavit, ut spe premii et timore penarum iustitiam colerent et</l>
+						<l facs="#facs_2_tr_2_tl_13">conservarent. Sed quia non sine magno premio qui plurimum</l>
+						<l facs="#facs_2_tr_2_tl_14">posset pateretur se equari minus potenti, idcirco ad ostenden-</l>
+						<l facs="#facs_2_tr_2_tl_15">dendam qualitatem et quantitatem tam premiorum quam penarum</l>
+						<l facs="#facs_2_tr_2_tl_16">se transtulit ostendens quia premium conservatoris iustitie</l>
+						<l facs="#facs_2_tr_2_tl_17">est celestis habitatio _| et mors eterna. Sed quia incredibilis</l>
+						<l facs="#facs_2_tr_2_tl_18">videretur aliquid corporeum posse esse particeps celestis</l>
+						<l facs="#facs_2_tr_2_tl_19">habitatonis et immortalitatis nimirum cum terrena mole aggra-</l>
+						<l facs="#facs_2_tr_2_tl_20">vatum potius tendat deorsum quam sursum, nam omne terrenum</l>
+						<l facs="#facs_2_tr_2_tl_21">ad ima deprimitur, ideo probavit in eodem hominem esse par-</l>
+						<l facs="#facs_2_tr_2_tl_22">ticipem immortalitatis...</l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

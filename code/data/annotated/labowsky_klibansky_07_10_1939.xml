@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Brief von Lotte Labowsky an Raymond Klibansky vom 7. Oktober 1939</title>
+        <author ref="http://d-nb.info/gnd/1029912939"/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+        <idno>1939-10-07_Labowsky_Klibansky.xml</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno/>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>handschriftlich</support>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>1939-10-07</origDate>
+              <origPlace>Oxford, England</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de"/>
+      </langUsage>
+      <textClass>
+        <keywords scheme="LOC">
+              <term>Marriage</term>
+              <term>Mental health</term>
+              <term>Apologies</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-06-28">Jonathan Klein, Robert Bruns, Duhan Akdemir, Seren Sengül, Aleyna Soylu, Alba Jashari</change>
+      <change when="2025-05-06">Digitalisierung durch Moritz Riemann</change>
+    </revisionDesc>
+  </teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="671" lry="1038">
+			<graphic url="0001_1939-10-07_Labowksy_Klibansky-1.jpg" width="671px" height="1038px"/>
+			<zone points="40,91 40,1023 668,1023 668,91" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="324,127 473,126 525,147 570,127 586,138 651,137 651,83 637,78 609,98 588,91 556,103 473,93 433,63 403,63 363,97 324,97" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="490,205 500,208 508,200 524,203 529,198 556,202 571,188 582,193 591,184 619,201 619,137 599,134 582,146 567,147 551,136 534,149 514,138 509,143 503,137 490,138" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="456,242 499,257 518,254 560,274 602,262 617,274 638,273 637,202 614,201 603,192 574,209 534,199 508,200 498,208 488,199 480,203 465,191 455,193" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="91,345 141,352 161,339 226,361 267,357 303,382 382,343 451,361 450,304 376,321 264,278 201,305 90,304" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="333,439 361,451 600,452 598,414 554,418 511,392 480,421 443,425 362,395 332,396" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="39,514 655,521 654,470 417,459 370,480 240,454 149,484 100,453 38,466" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="39,569 251,566 295,588 332,566 514,590 626,574 625,541 596,533 506,556 264,527 220,554 191,531 38,514" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="39,617 91,633 459,627 480,642 581,625 580,593 517,590 484,611 428,578 250,600 157,567 38,569" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="38,694 202,706 250,685 304,710 478,690 543,710 609,688 609,662 486,637 446,673 398,651 200,663 37,634" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="41,747 486,769 655,758 654,712 573,700 510,726 409,710 265,735 187,693 149,712 40,707" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="44,816 137,839 316,816 345,841 395,816 599,817 667,857 666,774 582,792 505,778 451,802 171,767 134,788 44,779" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="35,888 647,895 646,865 546,841 410,863 236,834 159,868 111,840 35,842" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="38,958 92,936 271,958 340,943 408,976 443,946 592,944 591,915 504,898 192,925 140,897 115,912 37,899" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="50,1021 64,1027 81,1022 96,1026 108,1014 129,1017 141,1010 158,1018 163,1012 181,1017 190,1012 188,973 164,982 144,968 123,971 104,955 94,954 73,971 60,966 47,969" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="672" lry="1038">
+			<graphic url="0002_1939-10-07_Labowksy_Klibansky-2.jpg" width="672px" height="1038px"/>
+			<zone points="27,61 27,1010 668,1010 668,61" rendition="TextRegion" xml:id="facs_2_tr_1">
+				<zone points="65,117 141,130 196,100 296,121 318,99 405,99 599,128 654,98 655,71 555,71 536,53 504,77 391,76 310,34 185,79 66,48" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+				<zone points="53,187 129,167 521,195 547,171 633,193 647,145 596,130 532,162 244,128 163,150 52,115" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+				<zone points="54,230 125,227 164,249 231,232 641,241 641,189 620,186 563,202 443,188 406,218 265,192 215,222 163,188 54,195" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+				<zone points="49,308 138,306 179,330 329,308 368,336 394,314 424,331 496,304 634,311 634,274 538,260 488,278 432,260 391,292 49,267" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+				<zone points="49,379 186,370 243,397 348,375 387,394 507,368 575,403 603,394 603,323 561,340 510,324 463,363 336,328 281,361 242,337 49,322" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+				<zone points="34,442 161,437 210,472 267,450 496,448 646,473 645,415 624,401 568,426 362,385 325,420 33,401" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+				<zone points="38,503 376,508 462,552 485,532 574,531 573,487 540,468 481,491 407,485 354,456 227,462 179,494 68,443 36,449" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+				<zone points="27,578 127,590 209,568 300,610 352,577 470,579 559,609 596,578 648,576 648,541 504,531 466,561 375,536 293,555 26,530" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+				<zone points="27,662 101,632 248,642 312,668 360,666 393,640 562,649 561,612 502,595 469,614 362,599 333,622 282,598 239,614 164,590 26,615" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+				<zone points="30,732 122,715 629,720 629,682 551,671 507,691 379,668 317,705 262,680 200,690 168,662 91,692 30,677" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+				<zone points="26,793 93,809 162,787 377,809 419,793 510,829 645,793 630,756 476,745 388,770 189,742 99,762 25,736" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+				<zone points="29,860 610,866 610,817 544,807 514,829 422,835 303,811 249,842 168,809 29,817" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+				<zone points="37,864 558,876 629,883 665,894 667,932 396,964 39,954" rendition="Line" xml:id="facs_2_l_1"/>
+				<zone points="21,964 99,954 198,949 231,948 515,946 559,969 560,1001 503,1019 287,1021 22,996" rendition="Line" xml:id="facs_2_l"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="671" lry="1033">
+			<graphic url="0003_1939-10-07_Labowksy_Klibansky-3.jpg" width="671px" height="1033px"/>
+			<zone points="16,0 16,1015 667,1015 667,0" rendition="TextRegion" xml:id="facs_3_tr_1">
+				<zone points="78,38 84,39 87,38 91,34 91,32 98,34 107,32 93,0 66,0" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+				<zone points="53,105 101,122 122,105 232,104 289,129 402,101 462,119 582,112 572,56 427,54 391,79 356,54 53,65" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
+				<zone points="33,169 265,159 437,178 522,160 596,183 612,182 611,134 549,114 519,136 447,137 372,115 259,152 232,131 32,129" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+				<zone points="33,237 112,213 147,234 252,218 304,240 526,224 614,255 635,250 634,193 391,203 359,175 265,210 212,180 32,183" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+				<zone points="40,293 127,298 199,273 253,296 285,272 387,298 425,277 637,288 636,253 533,229 486,258 383,232 181,259 137,236 39,245" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+				<zone points="35,335 168,337 224,361 278,338 528,344 547,361 573,345 593,361 609,312 352,319 285,295 155,323 34,298" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+				<zone points="32,406 172,398 258,422 331,400 410,432 457,402 634,408 633,370 31,357" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+				<zone points="27,464 51,456 89,490 193,464 629,476 627,419 494,450 452,426 269,442 26,424" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+				<zone points="26,527 558,542 595,535 595,475 355,477 327,499 299,476 224,497 142,471 101,502 25,466" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+				<zone points="22,588 651,595 655,543 537,563 513,540 388,560 352,542 309,568 213,538 21,546" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+				<zone points="36,640 417,643 454,669 497,648 640,662 639,621 591,605 491,627 359,619 315,594 207,618 34,595" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+				<zone points="19,697 131,714 330,697 539,733 575,711 630,721 649,657 553,681 439,676 406,653 358,673 300,651 256,675 118,647 18,664" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+				<zone points="26,775 101,777 122,756 415,782 443,761 665,771 665,720 641,715 429,744 282,723 245,750 157,717 115,746 26,723" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+				<zone points="11,837 237,818 344,842 396,820 446,847 488,821 589,850 633,832 632,777 595,771 484,807 376,771 311,793 275,768 229,804 172,787 119,805 84,771 11,793" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+				<zone points="26,887 546,884 601,906 647,889 647,847 530,835 409,868 339,842 295,874 148,848 89,868 26,836" rendition="Line" xml:id="facs_3_tr_1_tl_15"/>
+				<zone points="31,961 69,950 141,981 243,950 335,963 456,945 596,966 596,899 483,906 432,938 405,917 353,929 322,903 98,922 61,890 31,898" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+				<zone points="29,967 393,958 540,970 671,1032 475,1032 171,1018 30,1009" rendition="Line" xml:id="facs_3_l"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="664" lry="1031">
+			<graphic url="0004_1939-10-07_Labowksy_Klibansky-4.jpg" width="664px" height="1031px"/>
+			<zone points="24,73 24,1007 662,1007 662,73" rendition="TextRegion" xml:id="facs_4_tr_1">
+				<zone points="45,97 163,126 237,103 392,122 442,106 495,127 531,98 651,105 650,54 531,90 446,58 413,81 190,83 45,57" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+				<zone points="50,153 180,170 225,154 258,171 354,153 385,177 466,167 491,184 541,152 577,158 577,130 432,106 352,132 319,114 136,132 49,109" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+				<zone points="49,211 112,200 160,224 247,204 366,226 449,209 599,235 640,220 639,181 312,185 278,169 235,196 47,151" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+				<zone points="38,254 113,283 149,254 200,273 267,257 489,281 507,267 564,293 567,240 475,217 398,241 264,215 210,233 180,213 37,210" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+				<zone points="29,319 228,306 248,326 314,311 360,335 484,312 565,320 564,291 527,277 489,290 336,271 219,292 196,271 28,266" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+				<zone points="22,362 497,371 550,398 586,366 647,370 647,339 604,320 571,338 499,323 455,353 394,330 284,348 239,319 189,350 22,326" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+				<zone points="22,432 646,434 640,384 587,409 430,377 168,410 22,384" rendition="Line" xml:id="facs_4_tr_1_tl_7"/>
+				<zone points="31,512 145,478 640,488 639,457 602,451 476,443 423,470 343,434 168,457 30,435" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+				<zone points="23,545 80,564 164,540 224,557 347,538 481,540 532,563 615,551 614,497 586,490 545,510 350,514 115,490 23,514" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+				<zone points="27,603 146,632 183,606 266,625 312,600 456,625 497,600 659,609 658,578 603,567 425,582 257,548 176,585 26,566" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+				<zone points="27,677 70,689 148,659 190,678 324,661 565,676 638,668 638,635 494,651 443,629 297,643 26,614" rendition="Line" xml:id="facs_4_tr_1_tl_11"/>
+				<zone points="42,739 133,753 189,722 413,728 434,746 624,730 624,695 520,711 360,694 316,712 293,694 162,705 42,682" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+				<zone points="21,788 77,812 205,791 273,818 340,791 567,811 650,796 650,766 603,773 556,740 440,781 399,760 230,772 71,734 21,744" rendition="Line" xml:id="facs_4_tr_1_tl_13"/>
+				<zone points="19,885 210,864 256,894 640,889 640,827 587,809 461,832 416,813 368,832 229,812 99,834 19,815" rendition="Line" xml:id="facs_4_tr_1_tl_14"/>
+				<zone points="19,931 206,926 294,956 340,930 453,934 561,963 660,949 659,898 483,887 352,922 321,897 18,884" rendition="Line" xml:id="facs_4_tr_1_tl_15"/>
+				<zone points="21,955 516,950 609,962 624,965 626,1005 600,1014 21,993" rendition="Line" xml:id="facs_4_l"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_5">
+		<surface ulx="0" uly="0" lrx="670" lry="1039">
+			<graphic url="0005_1939-10-07_Labowksy_Klibansky-5.jpg" width="670px" height="1039px"/>
+			<zone points="10,26 10,1006 669,1006 669,26" rendition="TextRegion" xml:id="facs_5_tr_1">
+				<zone points="76,51 372,58 568,70 597,73 596,114 538,122 473,130 126,131 77,112" rendition="Line" xml:id="facs_5_l"/>
+				<zone points="405,71 434,74 442,82 528,72 550,80 581,68 583,30 570,33 551,22 526,33 506,21 465,22 448,36 407,28" rendition="Line" xml:id="facs_5_tr_1_tl_1"/>
+				<zone points="37,177 96,195 116,178 631,172 631,130 537,153 496,127 348,139 308,114 243,136 37,126" rendition="Line" xml:id="facs_5_tr_1_tl_4"/>
+				<zone points="28,234 665,250 665,184 379,201 352,224 304,197 170,195 147,217 28,189" rendition="Line" xml:id="facs_5_tr_1_tl_5"/>
+				<zone points="30,313 197,313 242,338 379,302 666,314 666,280 633,268 339,268 264,291 183,272 153,293 119,269 31,266" rendition="Line" xml:id="facs_5_tr_1_tl_6"/>
+				<zone points="6,382 64,383 123,418 243,376 617,385 619,312 597,307 572,330 387,344 328,323 300,346 7,350" rendition="Line" xml:id="facs_5_tr_1_tl_7"/>
+				<zone points="19,456 80,481 132,458 210,476 430,447 604,456 623,452 624,409 289,404 175,438 144,415 76,431 20,412" rendition="Line" xml:id="facs_5_tr_1_tl_8"/>
+				<zone points="16,535 125,551 350,530 592,542 593,476 184,494 17,468" rendition="Line" xml:id="facs_5_tr_1_tl_9"/>
+				<zone points="26,597 225,584 272,606 337,599 378,627 446,585 623,594 623,547 453,545 391,566 293,550 248,578 175,538 27,537" rendition="Line" xml:id="facs_5_tr_1_tl_10"/>
+				<zone points="24,664 595,657 643,682 643,624 502,633 443,613 337,639 309,616 209,632 151,609 24,627" rendition="Line" xml:id="facs_5_tr_1_tl_11"/>
+				<zone points="6,726 141,740 168,721 226,738 449,721 536,743 608,729 607,689 423,693 341,671 252,697 188,678 5,690" rendition="Line" xml:id="facs_5_tr_1_tl_12"/>
+				<zone points="19,795 668,790 668,746 603,737 442,763 334,749 298,771 224,737 143,762 19,753" rendition="Line" xml:id="facs_5_tr_1_tl_13"/>
+				<zone points="12,860 413,866 440,849 622,881 633,812 512,797 118,827 13,795" rendition="Line" xml:id="facs_5_tr_1_tl_14"/>
+				<zone points="36,930 96,929 148,959 370,920 429,939 471,917 613,919 615,875 318,879 276,912 37,884" rendition="Line" xml:id="facs_5_tr_1_tl_15"/>
+				<zone points="29,997 625,988 614,942 366,946 334,971 203,938 30,962" rendition="Line" xml:id="facs_5_tr_1_tl_16"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_6">
+		<surface ulx="0" uly="0" lrx="676" lry="1033">
+			<graphic url="0006_1939-10-07_Labowksy_Klibansky-6.jpg" width="676px" height="1033px"/>
+			<zone points="18,65 18,981 673,981 673,65" rendition="TextRegion" xml:id="facs_6_tr_1">
+				<zone points="59,113 108,102 164,137 210,105 310,120 370,104 398,122 433,104 605,106 605,80 577,66 443,82 352,53 304,74 277,53 222,75 176,56 59,63" rendition="Line" xml:id="facs_6_tr_1_tl_1"/>
+				<zone points="42,195 180,169 314,192 506,178 560,208 586,200 585,146 436,124 397,146 293,152 249,129 180,160 41,131" rendition="Line" xml:id="facs_6_tr_1_tl_2"/>
+				<zone points="23,251 321,239 421,270 442,249 614,249 613,213 427,205 382,225 315,196 287,213 159,190 84,226 22,196" rendition="Line" xml:id="facs_6_tr_1_tl_3"/>
+				<zone points="26,312 293,306 362,338 416,304 618,318 617,281 562,258 476,293 367,265 25,273" rendition="Line" xml:id="facs_6_tr_1_tl_4"/>
+				<zone points="31,369 155,393 260,370 672,382 671,354 557,322 522,353 423,337 397,357 276,315 220,359 112,321 30,327" rendition="Line" xml:id="facs_6_tr_1_tl_5"/>
+				<zone points="23,435 280,466 327,448 383,464 403,445 601,449 588,409 527,420 430,399 322,418 303,401 241,418 161,391 139,409 22,396" rendition="Line" xml:id="facs_6_tr_1_tl_6"/>
+				<zone points="14,489 173,518 301,500 547,526 644,505 642,461 457,488 337,467 297,487 233,462 125,469 59,434 12,447" rendition="Line" xml:id="facs_6_tr_1_tl_7"/>
+				<zone points="19,567 128,555 228,584 293,559 431,587 636,561 635,537 592,529 287,545 227,517 148,537 18,512" rendition="Line" xml:id="facs_6_tr_1_tl_8"/>
+				<zone points="27,643 122,631 157,650 259,621 647,627 637,590 466,581 386,610 348,585 252,602 209,570 94,593 26,562" rendition="Line" xml:id="facs_6_tr_1_tl_9"/>
+				<zone points="35,716 152,681 519,705 578,691 578,657 474,643 387,666 314,649 257,665 242,651 217,670 198,652 34,642" rendition="Line" xml:id="facs_6_tr_1_tl_10"/>
+				<zone points="124,764 212,755 285,790 397,763 447,785 487,758 584,760 585,727 308,721 278,705 224,732 125,706" rendition="Line" xml:id="facs_6_tr_1_tl_11"/>
+				<zone points="37,785 75,779 103,778 543,786 607,788 606,827 431,847 253,850 92,848 37,846" rendition="Line" xml:id="facs_6_l"/>
+				<zone points="28,907 456,888 555,915 589,905 590,852 464,833 318,865 228,835 174,859 28,867" rendition="Line" xml:id="facs_6_tr_1_tl_14"/>
+				<zone points="36,918 154,907 528,921 624,927 624,966 501,986 350,994 152,996 38,984" rendition="Line" xml:id="facs_6_l_2"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_7">
+		<surface ulx="0" uly="0" lrx="671" lry="1030">
+			<graphic url="0007_1939-10-07_Labowksy_Klibansky-7.jpg" width="671px" height="1030px"/>
+			<zone points="20,100 20,1001 668,1001 668,100" rendition="TextRegion" xml:id="facs_7_tr_1">
+				<zone points="54,153 665,141 666,67 629,60 550,105 55,107" rendition="Line" xml:id="facs_7_tr_1_tl_1"/>
+				<zone points="20,169 51,165 535,153 605,155 623,161 623,226 462,242 281,241 20,214" rendition="Line" xml:id="facs_7_l"/>
+				<zone points="30,300 157,280 596,290 633,282 633,249 550,258 485,235 422,261 348,232 313,259 29,248" rendition="Line" xml:id="facs_7_tr_1_tl_4"/>
+				<zone points="18,376 108,348 286,369 363,339 416,361 652,354 652,297 598,287 506,327 280,288 130,326 59,291 18,301" rendition="Line" xml:id="facs_7_tr_1_tl_5"/>
+				<zone points="30,416 267,448 312,417 559,439 662,419 662,383 604,372 504,368 440,402 332,361 216,387 30,371" rendition="Line" xml:id="facs_7_tr_1_tl_6"/>
+				<zone points="16,499 93,481 148,503 208,480 484,506 611,489 629,507 662,496 661,440 601,459 428,458 332,428 293,456 15,449" rendition="Line" xml:id="facs_7_tr_1_tl_7"/>
+				<zone points="15,546 317,545 413,569 508,545 547,577 615,553 613,498 589,491 547,515 374,490 310,515 221,491 185,513 88,487 63,508 14,498" rendition="Line" xml:id="facs_7_tr_1_tl_8"/>
+				<zone points="26,620 169,599 585,615 584,582 497,562 420,594 206,547 133,585 75,545 24,543" rendition="Line" xml:id="facs_7_tr_1_tl_9"/>
+				<zone points="32,681 189,661 246,689 341,664 598,700 643,689 641,632 509,657 392,632 352,659 311,631 235,622 173,650 29,617" rendition="Line" xml:id="facs_7_tr_1_tl_10"/>
+				<zone points="18,730 161,749 397,734 428,760 465,735 641,762 651,704 446,689 416,716 328,697 293,722 229,683 183,701 17,691" rendition="Line" xml:id="facs_7_tr_1_tl_11"/>
+				<zone points="19,808 132,796 189,818 334,792 592,817 599,765 532,764 512,785 468,757 392,783 324,758 148,767 17,740" rendition="Line" xml:id="facs_7_tr_1_tl_12"/>
+				<zone points="27,866 616,874 615,833 597,829 304,826 243,800 185,819 132,796 26,807" rendition="Line" xml:id="facs_7_tr_1_tl_13"/>
+				<zone points="21,922 209,938 531,918 647,938 647,878 617,874 542,906 301,870 199,894 21,880" rendition="Line" xml:id="facs_7_tr_1_tl_14"/>
+				<zone points="27,952 41,948 330,931 525,947 641,963 632,1001 89,1002 27,991" rendition="Line" xml:id="facs_7_l_1"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_8">
+		<surface ulx="0" uly="0" lrx="668" lry="1035">
+			<graphic url="0008_1939-10-07_Labowksy_Klibansky-8.jpg" width="668px" height="1035px"/>
+			<zone points="15,44 15,957 666,957 666,44" rendition="TextRegion" xml:id="facs_8_tr_1">
+				<zone points="56,77 133,105 224,73 376,98 434,81 471,105 520,79 557,94 547,0 438,45 313,54 285,39 216,62 138,64 57,34" rendition="Line" xml:id="facs_8_tr_1_tl_1"/>
+				<zone points="30,145 116,139 199,162 313,133 585,136 586,87 513,81 476,106 335,88 300,115 254,96 174,123 32,74" rendition="Line" xml:id="facs_8_tr_1_tl_2"/>
+				<zone points="30,207 285,193 354,217 536,185 644,201 646,146 595,165 548,141 431,162 31,161" rendition="Line" xml:id="facs_8_tr_1_tl_3"/>
+				<zone points="25,283 116,290 210,257 382,275 414,250 624,265 637,210 539,242 478,208 440,229 307,211 209,239 26,225" rendition="Line" xml:id="facs_8_tr_1_tl_4"/>
+				<zone points="22,342 629,332 629,264 487,275 433,306 378,287 241,307 193,281 158,302 24,293" rendition="Line" xml:id="facs_8_tr_1_tl_5"/>
+				<zone points="17,405 112,387 138,409 193,394 214,409 428,377 617,392 617,369 537,342 436,339 398,362 277,349 249,367 157,348 103,369 19,345" rendition="Line" xml:id="facs_8_tr_1_tl_6"/>
+				<zone points="31,474 162,461 543,489 646,457 646,419 543,435 267,416 123,450 32,407" rendition="Line" xml:id="facs_8_tr_1_tl_7"/>
+				<zone points="23,554 127,566 308,534 439,564 491,533 622,533 623,510 507,479 439,515 339,473 24,494" rendition="Line" xml:id="facs_8_tr_1_tl_8"/>
+				<zone points="18,607 91,600 198,630 295,601 398,617 654,592 654,549 494,551 453,582 333,554 295,585 18,554" rendition="Line" xml:id="facs_8_tr_1_tl_9"/>
+				<zone points="31,682 169,666 241,682 273,662 612,671 597,619 31,637" rendition="Line" xml:id="facs_8_tr_1_tl_10"/>
+				<zone points="10,745 654,759 637,681 517,721 468,693 134,717 10,699" rendition="Line" xml:id="facs_8_tr_1_tl_11"/>
+				<zone points="19,826 71,835 113,806 176,819 281,796 384,814 428,794 459,809 460,763 435,753 398,767 347,748 272,786 207,769 21,771" rendition="Line" xml:id="facs_8_tr_1_tl_12"/>
+				<zone points="80,875 140,873 182,899 345,867 588,882 619,876 621,825 475,849 446,824 383,828 360,810 303,846 260,830 213,854 82,822" rendition="Line" xml:id="facs_8_tr_1_tl_13"/>
+				<zone points="31,962 293,946 382,969 411,946 539,939 564,955 663,936 665,894 385,885 296,914 33,899" rendition="Line" xml:id="facs_8_tr_1_tl_14"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_9">
+		<surface ulx="0" uly="0" lrx="667" lry="1037">
+			<graphic url="0009_1939-10-07_Labowksy_Klibansky-9.jpg" width="667px" height="1037px"/>
+			<zone points="21,102 13,1027 661,1029 664,102" rendition="TextRegion" xml:id="facs_9_tr_1">
+				<zone points="77,168 573,150 574,104 532,90 513,106 398,100 368,122 260,130 119,99 79,116" rendition="Line" xml:id="facs_9_tr_1_tl_1"/>
+				<zone points="21,225 205,222 247,252 340,215 390,233 560,212 640,233 641,154 557,185 22,184" rendition="Line" xml:id="facs_9_tr_1_tl_2"/>
+				<zone points="26,279 253,275 278,299 335,272 647,282 648,250 619,236 481,236 441,266 392,236 308,230 256,251 197,234 140,263 27,250" rendition="Line" xml:id="facs_9_tr_1_tl_3"/>
+				<zone points="26,349 208,344 284,369 350,344 399,377 653,341 653,301 607,296 575,318 510,297 425,324 370,301 26,305" rendition="Line" xml:id="facs_9_tr_1_tl_4"/>
+				<zone points="17,419 646,410 646,377 476,356 411,387 351,354 253,386 17,374" rendition="Line" xml:id="facs_9_tr_1_tl_5"/>
+				<zone points="21,499 111,515 216,482 370,504 403,479 639,486 640,433 340,448 269,419 144,473 22,444" rendition="Line" xml:id="facs_9_tr_1_tl_6"/>
+				<zone points="17,564 662,574 662,500 570,523 17,500" rendition="Line" xml:id="facs_9_tr_1_tl_7"/>
+				<zone points="33,640 281,630 354,658 411,634 495,635 495,614 447,589 346,589 312,606 181,585 33,586" rendition="Line" xml:id="facs_9_tr_1_tl_8"/>
+				<zone points="102,729 150,731 207,696 412,714 631,698 632,641 560,659 527,640 463,677 367,657 332,680 279,654 144,663 103,641" rendition="Line" xml:id="facs_9_tr_1_tl_9"/>
+				<zone points="28,802 82,793 117,819 184,778 651,770 652,725 569,714 454,738 200,736 141,762 30,732" rendition="Line" xml:id="facs_9_tr_1_tl_10"/>
+				<zone points="15,803 49,792 178,784 423,779 644,806 643,836 523,858 333,865 43,854 17,849" rendition="Line" xml:id="facs_9_l"/>
+				<zone points="50,854 503,893 504,945 321,954 69,923 51,918" rendition="Line" xml:id="facs_9_l_1"/>
+				<zone points="481,1010 598,1010 598,980 481,980" rendition="Line" xml:id="facs_9_l_154"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lg>
+						<l facs="#facs_1_tr_1_tl_1">11, St. Margarets Rd.</l>
+						<l facs="#facs_1_tr_1_tl_2">
+                            <placeName ref="geo-2640729">Oxford</placeName>
+                        </l>
+						<l facs="#facs_1_tr_1_tl_3">
+                            <date when="1939-10-07">7. X. 39</date>
+                        </l>
+						<l facs="#facs_1_tr_1_tl_4">Lieber<persName ref="gnd-118777378"> Raymond</persName>,</l>
+						<l facs="#facs_1_tr_1_tl_5">Ich möchte</l>
+						<l facs="#facs_1_tr_1_tl_6">nur noch einmal versuchen,</l>
+						<l facs="#facs_1_tr_1_tl_7">Dich zu bestimmen, <persName ref="gnd-119364042">Miss</persName>
+                        </l>
+						<l facs="#facs_1_tr_1_tl_8">
+                            <persName ref="gnd-119364042">Rathbone</persName> am Dienstag</l>
+						<l facs="#facs_1_tr_1_tl_9">nicht abreisen zu lassen.</l>
+						<l facs="#facs_1_tr_1_tl_10">und Dich doch zur Heirat</l>
+						<l facs="#facs_1_tr_1_tl_11">zu entschließen. Ich weiß</l>
+						<l facs="#facs_1_tr_1_tl_12">daß dies etwas inkonse-</l>
+						<l facs="#facs_1_tr_1_tl_13">quent und verspätet er-</l>
+						<l facs="#facs_1_tr_1_tl_14">scheint nach meinem Gehabe</l>
+					</lg>
+				</p>
+				<pb facs="#facs_2" n="2"/>
+				<p facs="#facs_2_tr_1">
+					<lg>
+						<l facs="#facs_2_tr_1_tl_1">vorige Woche, und außer-</l>
+						<l facs="#facs_2_tr_1_tl_2">dem weiß ich auch, daß</l>
+						<l facs="#facs_2_tr_1_tl_3">ich in keinem Fall die</l>
+						<l facs="#facs_2_tr_1_tl_4">Verantwortung für Euren</l>
+						<l facs="#facs_2_tr_1_tl_5">Entschluß trage. Daß</l>
+						<l facs="#facs_2_tr_1_tl_6">aber meine Reaktion auf</l>
+						<l facs="#facs_2_tr_1_tl_7">Deine Mitteilung die</l>
+						<l facs="#facs_2_tr_1_tl_8">Entwicklung (doch) irgend-</l>
+						<l facs="#facs_2_tr_1_tl_9">wie beeinflußt hat</l>
+						<l facs="#facs_2_tr_1_tl_10">fürchte ich doch. Und</l>
+						<l facs="#facs_2_tr_1_tl_11">diese übertrieben affektive</l>
+						<l facs="#facs_2_tr_1_tl_12">Reaktion bedaure ich</l>
+						<l facs="#facs_2_l_1">jetzt sehr. Ich kann</l>
+						<l facs="#facs_2_l">mich nicht deswegen</l>
+					</lg>
+				</p>
+				<pb facs="#facs_3" n="3"/>
+				<p facs="#facs_3_tr_1">
+					<lg>
+						<l facs="#facs_3_tr_1_tl_1">2</l>
+						<l facs="#facs_3_tr_1_tl_2">entschuldigen. Es war</l>
+						<l facs="#facs_3_tr_1_tl_3">durchaus natürlich, daß</l>
+						<l facs="#facs_3_tr_1_tl_4">sich nach allen Vorange-</l>
+						<l facs="#facs_3_tr_1_tl_5">gangen der letzten Jahre</l>
+						<l facs="#facs_3_tr_1_tl_6">sehr viel emotioneller</l>
+						<l facs="#facs_3_tr_1_tl_7">Krankheitsstoff bei mir</l>
+						<l facs="#facs_3_tr_1_tl_8">angesammelt hatte. Und</l>
+						<l facs="#facs_3_tr_1_tl_9">die Unmöglichkeit der</l>
+						<l facs="#facs_3_tr_1_tl_10">Aussprache bewirkte, daß</l>
+						<l facs="#facs_3_tr_1_tl_11">ich in einer ungesunden</l>
+						<l facs="#facs_3_tr_1_tl_12">seelischen Isolierung lebte,</l>
+						<l facs="#facs_3_tr_1_tl_13">in der ich den Kontakt</l>
+						<l facs="#facs_3_tr_1_tl_14">mit der Realität verlor,</l>
+						<l facs="#facs_3_tr_1_tl_15">in der es keine Entwick-</l>
+						<l facs="#facs_3_tr_1_tl_16">lung gab und alles</l>
+						<l facs="#facs_3_l">nur auf ein Ereignis</l>
+					</lg>
+				</p>
+				<pb facs="#facs_4" n="4"/>
+				<p facs="#facs_4_tr_1">
+					<lg>
+						<l facs="#facs_4_tr_1_tl_1">bezogen wurde, da(ß)s mich</l>
+						<l facs="#facs_4_tr_1_tl_2">immerzu beschäftigte.</l>
+						<l facs="#facs_4_tr_1_tl_3">Es war deshalb sehr gut,</l>
+						<l facs="#facs_4_tr_1_tl_4">daß all diese Dinge</l>
+						<l facs="#facs_4_tr_1_tl_5">einmal ausgesprochen</l>
+						<l facs="#facs_4_tr_1_tl_6">worden sind und ich fühle</l>
+						<l facs="#facs_4_tr_1_tl_7">mich seltsamerweise viel</l>
+						<l facs="#facs_4_tr_1_tl_8">freier seitdem. Und des-</l>
+						<l facs="#facs_4_tr_1_tl_9">wegen bin ich auch ganz</l>
+						<l facs="#facs_4_tr_1_tl_10">sicher, daß etwas Ähnliches</l>
+						<l facs="#facs_4_tr_1_tl_11">nicht wiederkehren wird.</l>
+						<l facs="#facs_4_tr_1_tl_12">Es ist sehr schwer, diese</l>
+						<l facs="#facs_4_tr_1_tl_13">Erfahrungen zu erklären,</l>
+						<l facs="#facs_4_tr_1_tl_14">aber ich bin durch die</l>
+						<l facs="#facs_4_tr_1_tl_15">Erschütterungen der Aussprache</l>
+						<l facs="#facs_4_l">endlich von der dauernden</l>
+					</lg>
+				</p>
+				<pb facs="#facs_5" n="5"/>
+				<p facs="#facs_5_tr_1">
+					<lg>
+						<l facs="#facs_5_l">Gegenwart der Krise</l>
+						<l facs="#facs_5_tr_1_tl_1">von damals</l>
+						<l facs="#facs_5_tr_1_tl_4">befreit worden – es ist</l>
+						<l facs="#facs_5_tr_1_tl_5">nun endlich Vergangenheit</l>
+						<l facs="#facs_5_tr_1_tl_6">Und daß es so erschütternd</l>
+						<l facs="#facs_5_tr_1_tl_7">war, hat auch nichts zu</l>
+						<l facs="#facs_5_tr_1_tl_8">sagen gehabt: es ist eine</l>
+						<l facs="#facs_5_tr_1_tl_9">bekannte neurologische</l>
+						<l facs="#facs_5_tr_1_tl_10">Tatsache, daß man an</l>
+						<l facs="#facs_5_tr_1_tl_11">nicht mehr vorhanden,</l>
+						<l facs="#facs_5_tr_1_tl_12">amputierten Gliedmaßen</l>
+						<l facs="#facs_5_tr_1_tl_13">noch viel Jahre hinterher</l>
+						<l facs="#facs_5_tr_1_tl_14">von Zeit zu Zeit heftige</l>
+						<l facs="#facs_5_tr_1_tl_15">Schmerzen haben kann,</l>
+						<l facs="#facs_5_tr_1_tl_16">wenm irgend ein Reiz die</l>
+					</lg>
+				</p>
+				<pb facs="#facs_6" n="6"/>
+				<p facs="#facs_6_tr_1">
+					<lg>
+						<l facs="#facs_6_tr_1_tl_1">betreffenden Nervenäste</l>
+						<l facs="#facs_6_tr_1_tl_2">trifft. Und so etwas gibt</l>
+						<l facs="#facs_6_tr_1_tl_3">es auch bei amputierten</l>
+						<l facs="#facs_6_tr_1_tl_4">seelischen Organen. Aber</l>
+						<l facs="#facs_6_tr_1_tl_5">in beiden Fällen ist es Unsinn</l>
+						<l facs="#facs_6_tr_1_tl_6">der momentanen Illusion</l>
+						<l facs="#facs_6_tr_1_tl_7">nachzugeben, man muß viel-</l>
+						<l facs="#facs_6_tr_1_tl_8">mehr alles tun, um der</l>
+						<l facs="#facs_6_tr_1_tl_9">Umorganisation des Nerven-</l>
+						<l facs="#facs_6_tr_1_tl_10">sysems nachzuhelfen.</l>
+						<l facs="#facs_6_tr_1_tl_11">So viel also von</l>
+						<l facs="#facs_6_l">mir. Was aber die</l>
+						<l facs="#facs_6_tr_1_tl_14">reale Seite der Frage</l>
+						<l facs="#facs_6_l_2">anlangt, so ist es grade</l>
+					</lg>
+				</p>
+				<pb facs="#facs_7" n="7"/>
+				<p facs="#facs_7_tr_1">
+					<lg>
+						<l facs="#facs_7_tr_1_tl_1">vom Standpunkt der Arbeit</l>
+						<l facs="#facs_7_l">aus witzig, daß für Dich</l>
+						<l facs="#facs_7_tr_1_tl_4">jetzt nicht noch einmal</l>
+						<l facs="#facs_7_tr_1_tl_5">für ein Jahr alles in der</l>
+						<l facs="#facs_7_tr_1_tl_6">Schwebe bleibt. Abgesehen</l>
+						<l facs="#facs_7_tr_1_tl_7">davon, daß Du - wenn Sonja</l>
+						<l facs="#facs_7_tr_1_tl_8">in <placeName ref="geo-3017382">Frankreich</placeName> bleibt - für</l>
+						<l facs="#facs_7_tr_1_tl_9">Deine Mutter ein „home"</l>
+						<l facs="#facs_7_tr_1_tl_10">haben mußt, und davon</l>
+						<l facs="#facs_7_tr_1_tl_11">daß jetzt das praktische</l>
+						<l facs="#facs_7_tr_1_tl_12">Alltägliche – mit all</l>
+						<l facs="#facs_7_tr_1_tl_13">den Rationierungen etc.</l>
+						<l facs="#facs_7_tr_1_tl_14">so Kompliziert wird, daß</l>
+						<l facs="#facs_7_l_1">man als einzelner Mann</l>
+					</lg>
+				</p>
+				<pb facs="#facs_8" n="8"/>
+				<p facs="#facs_8_tr_1">
+					<lg>
+						<l facs="#facs_8_tr_1_tl_1">Kaum damit fertig</l>
+						<l facs="#facs_8_tr_1_tl_2">wird. Du wirst Dir</l>
+						<l facs="#facs_8_tr_1_tl_3">[?] [verloren?] und</l>
+						<l facs="#facs_8_tr_1_tl_4">hilflos vorkommen und</l>
+						<l facs="#facs_8_tr_1_tl_5">außerdem jenes Gefühl</l>
+						<l facs="#facs_8_tr_1_tl_6">der Amputation haben.</l>
+						<l facs="#facs_8_tr_1_tl_7">Das mochte ich gern jetzt</l>
+						<l facs="#facs_8_tr_1_tl_8">noch verlindern, denn</l>
+						<l facs="#facs_8_tr_1_tl_9">ich weiß, daß ein solcher</l>
+						<l facs="#facs_8_tr_1_tl_10">seelischer Schnitt sich</l>
+						<l facs="#facs_8_tr_1_tl_11">doch nachträglich nicht</l>
+						<l facs="#facs_8_tr_1_tl_12">reparieren läßt.</l>
+						<l facs="#facs_8_tr_1_tl_13">Alles das hätte mir</l>
+						<l facs="#facs_8_tr_1_tl_14">natürlich sofort einfallen</l>
+					</lg>
+				</p>
+				<pb facs="#facs_9" n="9"/>
+				<p facs="#facs_9_tr_1">
+					<lg>
+						<l facs="#facs_9_tr_1_tl_1">sollen und können,</l>
+						<l facs="#facs_9_tr_1_tl_2">aber unglücklicherweise</l>
+						<l facs="#facs_9_tr_1_tl_3">war ich grade in einem</l>
+						<l facs="#facs_9_tr_1_tl_4">so hochgradig gespannten</l>
+						<l facs="#facs_9_tr_1_tl_5">und verwirrten Zustand</l>
+						<l facs="#facs_9_tr_1_tl_6">daß die Dinge sich mir</l>
+						<l facs="#facs_9_tr_1_tl_7">erst allmählich Zurecht-</l>
+						<l facs="#facs_9_tr_1_tl_8">rücken mußten.</l>
+						<l facs="#facs_9_tr_1_tl_9">Aber in dieser Rich-</l>
+						<l facs="#facs_9_tr_1_tl_10">tung werde ich bestimmt</l>
+						<l facs="#facs_9_l">keine Rückfälle haben.</l>
+						<l facs="#facs_9_l_1">Also! Herzlichst</l>
+						<l facs="#facs_9_l_154">
+                            <persName ref="gnd-1029912939">Lotte</persName>
+                        </l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

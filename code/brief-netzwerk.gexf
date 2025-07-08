@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2025-07-01">
+  <meta lastmodifieddate="2025-07-07">
     <creator>NetworkX 3.5</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -11,11 +11,27 @@
       <attribute id="3" title="color" type="string" />
     </attributes>
     <nodes>
-      <node id="gnd-116183853" label="Bing, Gertrud Bing, Getrud Bing, Miss Bing, Mrs Bing">
+      <node id="gnd-118777378" label="Herrn Dr.R.Klibansky, Klibansky's, Professor R. Klibansky, Raymond">
         <attvalues>
-          <attvalue for="0" value="Bing, Gertrud Bing, Getrud Bing, Miss Bing, Mrs Bing" />
-          <attvalue for="1" value="17" />
-          <attvalue for="2" value="44" />
+          <attvalue for="0" value="Herrn Dr.R.Klibansky, Klibansky's, Professor R. Klibansky, Raymond" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="42" />
+          <attvalue for="3" value="#FF0000" />
+        </attvalues>
+      </node>
+      <node id="gnd-129339350" label="Dr. Meier">
+        <attvalues>
+          <attvalue for="0" value="Dr. Meier" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-116183853" label="Bing, G. B., Gertrud Bing, Getrud Bing, Miss Bing, Mrs Bing">
+        <attvalues>
+          <attvalue for="0" value="Bing, G. B., Gertrud Bing, Getrud Bing, Miss Bing, Mrs Bing" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="50" />
           <attvalue for="3" value="#FF0000" />
         </attvalues>
       </node>
@@ -27,11 +43,11 @@
           <attvalue for="3" value="#97C2FC" />
         </attvalues>
       </node>
-      <node id="gnd-118804898" label="Herrn Prof. Saxl, Herrn Saxl, Saxl">
+      <node id="gnd-118804898" label="Herrn Prof. Saxl, Herrn Saxl, Sax's, Saxl, Saxl's">
         <attvalues>
-          <attvalue for="0" value="Herrn Prof. Saxl, Herrn Saxl, Saxl" />
-          <attvalue for="1" value="7" />
-          <attvalue for="2" value="24" />
+          <attvalue for="0" value="Herrn Prof. Saxl, Herrn Saxl, Sax's, Saxl, Saxl's" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="30" />
           <attvalue for="3" value="#97C2FC" />
         </attvalues>
       </node>
@@ -43,12 +59,12 @@
           <attvalue for="3" value="#97C2FC" />
         </attvalues>
       </node>
-      <node id="gnd-118777378" label="Raymond">
+      <node id="gnd-128355638" label="Strayer's">
         <attvalues>
-          <attvalue for="0" value="Raymond" />
-          <attvalue for="1" value="4" />
-          <attvalue for="2" value="18" />
-          <attvalue for="3" value="#FF0000" />
+          <attvalue for="0" value="Strayer's" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="#97C2FC" />
         </attvalues>
       </node>
       <node id="gnd-118512110" label="Blunt">
@@ -83,11 +99,11 @@
           <attvalue for="3" value="#97C2FC" />
         </attvalues>
       </node>
-      <node id="gnd-1029912939" label="Dr. L. Labowsky, Lotte, Lotti, Miss Labowsky">
+      <node id="gnd-1029912939" label="Dr. L. Labowsky, Lotte, Lotte Labowsky, Lotti, Miss Labowsky">
         <attvalues>
-          <attvalue for="0" value="Dr. L. Labowsky, Lotte, Lotti, Miss Labowsky" />
-          <attvalue for="1" value="9" />
-          <attvalue for="2" value="28" />
+          <attvalue for="0" value="Dr. L. Labowsky, Lotte, Lotte Labowsky, Lotti, Miss Labowsky" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="42" />
           <attvalue for="3" value="#FF0000" />
         </attvalues>
       </node>
@@ -155,6 +171,22 @@
           <attvalue for="3" value="#97C2FC" />
         </attvalues>
       </node>
+      <node id="gnd-119144719" label="Einaudi, son of the present President">
+        <attvalues>
+          <attvalue for="0" value="Einaudi, son of the present President" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="18" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-124986242" label="Yates">
+        <attvalues>
+          <attvalue for="0" value="Yates" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
       <node id="gnd-126628432" label="Lieftinck">
         <attvalues>
           <attvalue for="0" value="Lieftinck" />
@@ -206,8 +238,8 @@
       <node id="gnd-118594893" label="Plato">
         <attvalues>
           <attvalue for="0" value="Plato" />
-          <attvalue for="1" value="1" />
-          <attvalue for="2" value="12" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
           <attvalue for="3" value="#97C2FC" />
         </attvalues>
       </node>
@@ -291,11 +323,11 @@
           <attvalue for="3" value="#97C2FC" />
         </attvalues>
       </node>
-      <node id="gnd-118667386" label="Mrs. Toni Cassirer">
+      <node id="gnd-118667386" label="Cassirer, Mrs. Toni Cassirer">
         <attvalues>
-          <attvalue for="0" value="Mrs. Toni Cassirer" />
-          <attvalue for="1" value="1" />
-          <attvalue for="2" value="12" />
+          <attvalue for="0" value="Cassirer, Mrs. Toni Cassirer" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
           <attvalue for="3" value="#97C2FC" />
         </attvalues>
       </node>
@@ -310,14 +342,6 @@
       <node id="gnd-116719583" label="Father Henry">
         <attvalues>
           <attvalue for="0" value="Father Henry" />
-          <attvalue for="1" value="1" />
-          <attvalue for="2" value="12" />
-          <attvalue for="3" value="#97C2FC" />
-        </attvalues>
-      </node>
-      <node id="gnd-119144719" label="Einaudi">
-        <attvalues>
-          <attvalue for="0" value="Einaudi" />
           <attvalue for="1" value="1" />
           <attvalue for="2" value="12" />
           <attvalue for="3" value="#97C2FC" />
@@ -347,70 +371,201 @@
           <attvalue for="3" value="#97C2FC" />
         </attvalues>
       </node>
+      <node id="gnd-116966467" label="Lily, Lily Zarncke">
+        <attvalues>
+          <attvalue for="0" value="Lily, Lily Zarncke" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-11948711X" label="Frau Weber">
+        <attvalues>
+          <attvalue for="0" value="Frau Weber" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-116087749" label="Marie Baum">
+        <attvalues>
+          <attvalue for="0" value="Marie Baum" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-11915966X" label="Walter">
+        <attvalues>
+          <attvalue for="0" value="Walter" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-120843676" label="Heinz">
+        <attvalues>
+          <attvalue for="0" value="Heinz" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-117706507" label="Thorspecken">
+        <attvalues>
+          <attvalue for="0" value="Thorspecken" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118624822" label="Mark Twain">
+        <attvalues>
+          <attvalue for="0" value="Mark Twain" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-118543628" label="Gundolf">
+        <attvalues>
+          <attvalue for="0" value="Gundolf" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-1149061766" label="Vater">
+        <attvalues>
+          <attvalue for="0" value="Vater" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-119364042" label="Miss, Rathbone">
+        <attvalues>
+          <attvalue for="0" value="Miss, Rathbone" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-136148662" label="Mrs. Hamilton">
+        <attvalues>
+          <attvalue for="0" value="Mrs. Hamilton" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-129434507" label="Hunt">
+        <attvalues>
+          <attvalue for="0" value="Hunt" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
+      <node id="gnd-107671662" label="Waszink">
+        <attvalues>
+          <attvalue for="0" value="Waszink" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="#97C2FC" />
+        </attvalues>
+      </node>
     </nodes>
     <edges>
-      <edge source="gnd-116183853" target="gnd-118509039" id="0" />
-      <edge source="gnd-116183853" target="gnd-118777378" id="1" />
-      <edge source="gnd-116183853" target="gnd-118804898" id="2" />
-      <edge source="gnd-116183853" target="gnd-118512110" id="3" />
-      <edge source="gnd-116183853" target="gnd-119325586" id="4" />
-      <edge source="gnd-116183853" target="gnd-12034517X" id="5" />
-      <edge source="gnd-116183853" target="gnd-118801775" id="6" />
-      <edge source="gnd-116183853" target="gnd-123279933" id="7" />
-      <edge source="gnd-116183853" target="gnd-120712016" id="8" />
-      <edge source="gnd-116183853" target="gnd-126628432" id="9" />
-      <edge source="gnd-116183853" target="gnd-118669036" id="10" />
-      <edge source="gnd-116183853" target="gnd-102384894" id="11" />
-      <edge source="gnd-116183853" target="gnd-118797786" id="12" />
-      <edge source="gnd-116183853" target="gnd-118641778" id="13" />
-      <edge source="gnd-116183853" target="gnd-122779983" id="14" />
-      <edge source="gnd-116183853" target="gnd-118519522" id="15" />
-      <edge source="gnd-116183853" target="gnd-1029912939" id="16" />
-      <edge source="gnd-116183853" target="gnd-119144719" id="17" />
-      <edge source="gnd-118509039" target="gnd-118804898" id="18" />
-      <edge source="gnd-118804898" target="gnd-118671448" id="19" />
-      <edge source="gnd-118804898" target="gnd-123279933" id="20" />
-      <edge source="gnd-118804898" target="gnd-12034517X" id="21" />
-      <edge source="gnd-118804898" target="gnd-116719583" id="22" />
-      <edge source="gnd-118804898" target="gnd-1029912939" id="23" />
-      <edge source="gnd-118777378" target="gnd-118801775" id="24" />
-      <edge source="gnd-118777378" target="gnd-126628432" id="25" />
-      <edge source="gnd-118512110" target="gnd-119325586" id="26" />
-      <edge source="gnd-12034517X" target="gnd-123279933" id="27" />
-      <edge source="gnd-12034517X" target="gnd-1029912939" id="28" />
-      <edge source="gnd-123279933" target="gnd-116112093" id="29" />
-      <edge source="gnd-123279933" target="gnd-122779983" id="30" />
-      <edge source="gnd-1029912939" target="gnd-117206407" id="31" />
-      <edge source="gnd-1029912939" target="gnd-122779983" id="32" />
-      <edge source="gnd-1029912939" target="gnd-129070807" id="33" />
-      <edge source="gnd-1029912939" target="gnd-118640763" id="34" />
-      <edge source="gnd-1029912939" target="gnd-118591568" id="35" />
-      <edge source="gnd-1029912939" target="gnd-116719583" id="36" />
-      <edge source="gnd-1029912939" target="gnd-118519522" id="37" />
-      <edge source="gnd-1029912939" target="gnd-118686097" id="38" />
-      <edge source="gnd-1029912939" target="gnd-174122004" id="39" />
-      <edge source="gnd-120712016" target="gnd-118650130" id="40" />
-      <edge source="gnd-120712016" target="gnd-118522477" id="41" />
-      <edge source="gnd-120712016" target="gnd-119000954" id="42" />
-      <edge source="gnd-117206407" target="gnd-118522477" id="43" />
-      <edge source="gnd-119000954" target="gnd-122779983" id="44" />
-      <edge source="gnd-122779983" target="gnd-11863562X" id="45" />
-      <edge source="gnd-122779983" target="gnd-118594893" id="46" />
-      <edge source="gnd-118669036" target="gnd-102384894" id="47" />
-      <edge source="gnd-116112093" target="gnd-118797786" id="48" />
-      <edge source="gnd-118641778" target="gnd-118594893" id="49" />
-      <edge source="gnd-118641778" target="gnd-129070807" id="50" />
-      <edge source="gnd-118640763" target="gnd-118541137" id="51" />
-      <edge source="gnd-118541137" target="gnd-102421382" id="52" />
-      <edge source="gnd-102421382" target="gnd-11871936X" id="53" />
-      <edge source="gnd-11871936X" target="gnd-116326239" id="54" />
-      <edge source="gnd-116326239" target="gnd-118708899" id="55" />
-      <edge source="gnd-118519522" target="gnd-1157950825" id="56" />
-      <edge source="gnd-1157950825" target="gnd-171253949" id="57" />
-      <edge source="gnd-171253949" target="gnd-118667386" id="58" />
-      <edge source="gnd-118667386" target="gnd-118591568" id="59" />
-      <edge source="gnd-119144719" target="gnd-118686097" id="60" />
-      <edge source="gnd-174122004" target="gnd-127962247" id="61" />
+      <edge source="gnd-118777378" target="gnd-129339350" id="0" />
+      <edge source="gnd-118777378" target="gnd-116183853" id="1" />
+      <edge source="gnd-118777378" target="gnd-118804898" id="2" />
+      <edge source="gnd-118777378" target="gnd-128355638" id="3" />
+      <edge source="gnd-118777378" target="gnd-118801775" id="4" />
+      <edge source="gnd-118777378" target="gnd-126628432" id="5" />
+      <edge source="gnd-118777378" target="gnd-116966467" id="6" />
+      <edge source="gnd-118777378" target="gnd-1029912939" id="7" />
+      <edge source="gnd-118777378" target="gnd-118667386" id="8" />
+      <edge source="gnd-118777378" target="gnd-118624822" id="9" />
+      <edge source="gnd-118777378" target="gnd-119364042" id="10" />
+      <edge source="gnd-118777378" target="gnd-136148662" id="11" />
+      <edge source="gnd-129339350" target="gnd-116183853" id="12" />
+      <edge source="gnd-116183853" target="gnd-118509039" id="13" />
+      <edge source="gnd-116183853" target="gnd-118804898" id="14" />
+      <edge source="gnd-116183853" target="gnd-118512110" id="15" />
+      <edge source="gnd-116183853" target="gnd-119325586" id="16" />
+      <edge source="gnd-116183853" target="gnd-12034517X" id="17" />
+      <edge source="gnd-116183853" target="gnd-118801775" id="18" />
+      <edge source="gnd-116183853" target="gnd-123279933" id="19" />
+      <edge source="gnd-116183853" target="gnd-120712016" id="20" />
+      <edge source="gnd-116183853" target="gnd-126628432" id="21" />
+      <edge source="gnd-116183853" target="gnd-118669036" id="22" />
+      <edge source="gnd-116183853" target="gnd-102384894" id="23" />
+      <edge source="gnd-116183853" target="gnd-118797786" id="24" />
+      <edge source="gnd-116183853" target="gnd-118641778" id="25" />
+      <edge source="gnd-116183853" target="gnd-122779983" id="26" />
+      <edge source="gnd-116183853" target="gnd-118519522" id="27" />
+      <edge source="gnd-116183853" target="gnd-1029912939" id="28" />
+      <edge source="gnd-116183853" target="gnd-119144719" id="29" />
+      <edge source="gnd-118509039" target="gnd-118804898" id="30" />
+      <edge source="gnd-118804898" target="gnd-118671448" id="31" />
+      <edge source="gnd-118804898" target="gnd-128355638" id="32" />
+      <edge source="gnd-118804898" target="gnd-123279933" id="33" />
+      <edge source="gnd-118804898" target="gnd-12034517X" id="34" />
+      <edge source="gnd-118804898" target="gnd-119144719" id="35" />
+      <edge source="gnd-118804898" target="gnd-124986242" id="36" />
+      <edge source="gnd-118804898" target="gnd-1029912939" id="37" />
+      <edge source="gnd-118804898" target="gnd-116719583" id="38" />
+      <edge source="gnd-118512110" target="gnd-119325586" id="39" />
+      <edge source="gnd-12034517X" target="gnd-123279933" id="40" />
+      <edge source="gnd-12034517X" target="gnd-1029912939" id="41" />
+      <edge source="gnd-123279933" target="gnd-116112093" id="42" />
+      <edge source="gnd-123279933" target="gnd-122779983" id="43" />
+      <edge source="gnd-1029912939" target="gnd-117206407" id="44" />
+      <edge source="gnd-1029912939" target="gnd-122779983" id="45" />
+      <edge source="gnd-1029912939" target="gnd-129070807" id="46" />
+      <edge source="gnd-1029912939" target="gnd-118640763" id="47" />
+      <edge source="gnd-1029912939" target="gnd-118591568" id="48" />
+      <edge source="gnd-1029912939" target="gnd-116719583" id="49" />
+      <edge source="gnd-1029912939" target="gnd-118519522" id="50" />
+      <edge source="gnd-1029912939" target="gnd-118686097" id="51" />
+      <edge source="gnd-1029912939" target="gnd-174122004" id="52" />
+      <edge source="gnd-1029912939" target="gnd-1149061766" id="53" />
+      <edge source="gnd-1029912939" target="gnd-119364042" id="54" />
+      <edge source="gnd-1029912939" target="gnd-107671662" id="55" />
+      <edge source="gnd-1029912939" target="gnd-118594893" id="56" />
+      <edge source="gnd-120712016" target="gnd-118650130" id="57" />
+      <edge source="gnd-120712016" target="gnd-118522477" id="58" />
+      <edge source="gnd-120712016" target="gnd-119000954" id="59" />
+      <edge source="gnd-117206407" target="gnd-118522477" id="60" />
+      <edge source="gnd-119000954" target="gnd-122779983" id="61" />
+      <edge source="gnd-122779983" target="gnd-11863562X" id="62" />
+      <edge source="gnd-122779983" target="gnd-118594893" id="63" />
+      <edge source="gnd-119144719" target="gnd-124986242" id="64" />
+      <edge source="gnd-119144719" target="gnd-118686097" id="65" />
+      <edge source="gnd-118669036" target="gnd-102384894" id="66" />
+      <edge source="gnd-116112093" target="gnd-118797786" id="67" />
+      <edge source="gnd-118641778" target="gnd-118594893" id="68" />
+      <edge source="gnd-118641778" target="gnd-129070807" id="69" />
+      <edge source="gnd-118640763" target="gnd-118541137" id="70" />
+      <edge source="gnd-118541137" target="gnd-102421382" id="71" />
+      <edge source="gnd-102421382" target="gnd-11871936X" id="72" />
+      <edge source="gnd-11871936X" target="gnd-116326239" id="73" />
+      <edge source="gnd-116326239" target="gnd-118708899" id="74" />
+      <edge source="gnd-118519522" target="gnd-1157950825" id="75" />
+      <edge source="gnd-1157950825" target="gnd-171253949" id="76" />
+      <edge source="gnd-171253949" target="gnd-118667386" id="77" />
+      <edge source="gnd-118667386" target="gnd-118591568" id="78" />
+      <edge source="gnd-118667386" target="gnd-120843676" id="79" />
+      <edge source="gnd-174122004" target="gnd-127962247" id="80" />
+      <edge source="gnd-116966467" target="gnd-11948711X" id="81" />
+      <edge source="gnd-116966467" target="gnd-116087749" id="82" />
+      <edge source="gnd-116087749" target="gnd-11915966X" id="83" />
+      <edge source="gnd-120843676" target="gnd-117706507" id="84" />
+      <edge source="gnd-118624822" target="gnd-118543628" id="85" />
+      <edge source="gnd-118543628" target="gnd-1149061766" id="86" />
+      <edge source="gnd-136148662" target="gnd-129434507" id="87" />
+      <edge source="gnd-129434507" target="gnd-107671662" id="88" />
     </edges>
   </graph>
 </gexf>

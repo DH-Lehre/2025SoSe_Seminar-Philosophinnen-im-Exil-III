@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lotte Labowsky an Raymond Klibansky, 12.12.1946</title>
+				<author ref="http://d-nb.info/gnd/1029912939"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Literaturarchiv Marbach</publisher>
+				<idno>Labowsky_Klibansky_12.12.1946</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>Literaturarchiv Marbach</repository>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>handschriftlich</support>
+							</supportDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<origDate>1946-12-12</origDate>
+							<origPlace>London</origPlace>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="de"/>
+			</langUsage>
+			<textClass>
+				<keywords scheme="LOC">
+					<term>Travel</term>
+					<term>Health</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2025-07-02">Jonathan Klein, Robert Bruns, Aleyna Soylu, Alba Jashari</change>
+			<change when="2025-05-06">Digitalisierung durch Moritz Riemann</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="1205" lry="1428">
+			<graphic url="0001_1946-12-12_Labowsky_Klibansky-1.jpg" width="1205px" height="1428px"/>
+			<zone points="1160,0 1202,0 1202,1386 7,1396 8,0 691,0 625,4" rendition="TextRegion" xml:id="facs_1_r">
+				<zone points="169,75 272,68 303,96 469,71 612,104 611,38 501,55 387,0 370,13 285,0 234,25 167,15" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="28,177 64,186 102,163 170,186 259,186 302,170 458,197 497,180 497,133 383,138 336,117 275,138 28,143" rendition="Line" xml:id="facs_1_l_5"/>
+				<zone points="501,240 698,259 770,237 824,262 920,229 1001,263 1150,250 1150,206 1112,197 1003,189 893,216 841,194 751,223 501,186" rendition="Line" xml:id="facs_1_l_6"/>
+				<zone points="33,311 299,278 1177,303 1195,254 31,241" rendition="Line" xml:id="facs_1_l_7"/>
+				<zone points="37,367 306,328 1109,359 1139,311 35,308" rendition="Line" xml:id="facs_1_l_8"/>
+				<zone points="47,371 719,407 1155,398 1189,358 46,333" rendition="Line" xml:id="facs_1_l_9"/>
+				<zone points="38,426 1198,436 1187,392 219,413 38,367" rendition="Line" xml:id="facs_1_l_10"/>
+				<zone points="13,472 1124,489 1124,455 1026,436 13,442" rendition="Line" xml:id="facs_1_l_11"/>
+				<zone points="59,518 1186,538 1174,454 901,512 59,487" rendition="Line" xml:id="facs_1_l_12"/>
+				<zone points="68,574 1125,575 1125,541 998,529 68,523" rendition="Line" xml:id="facs_1_l_13"/>
+				<zone points="1,605 1180,640 1180,578 145,596 1,552" rendition="Line" xml:id="facs_1_l_14"/>
+				<zone points="4,655 1171,660 1146,615 4,623" rendition="Line" xml:id="facs_1_l_15"/>
+				<zone points="64,701 1170,731 1168,680 1040,667 64,668" rendition="Line" xml:id="facs_1_l_16"/>
+				<zone points="0,770 1186,766 1184,720 1124,716 211,731 93,694 0,735" rendition="Line" xml:id="facs_1_l_17"/>
+				<zone points="52,804 275,779 893,834 1186,824 1186,779 50,762" rendition="Line" xml:id="facs_1_l_18"/>
+				<zone points="43,831 930,880 1167,874 1165,816 501,830 41,787" rendition="Line" xml:id="facs_1_l_19"/>
+				<zone points="1,920 226,887 781,930 1164,906 1150,870 0,843" rendition="Line" xml:id="facs_1_l_20"/>
+				<zone points="4,964 1161,972 1161,918 723,898 4,920" rendition="Line" xml:id="facs_1_l_21"/>
+				<zone points="43,1007 1150,1016 1182,970 244,936 41,966" rendition="Line" xml:id="facs_1_l_22"/>
+				<zone points="67,1060 228,1032 543,1074 630,1044 1096,1068 1116,1025 65,995" rendition="Line" xml:id="facs_1_l_23"/>
+				<zone points="40,1091 1142,1113 1006,1050 905,1085 714,1051 549,1077 226,1032 40,1071" rendition="Line" xml:id="facs_1_l_24"/>
+				<zone points="3,1190 108,1142 1026,1192 1170,1167 1170,1131 1,1113" rendition="Line" xml:id="facs_1_l_25"/>
+				<zone points="86,1216 1069,1236 1112,1221 1111,1176 531,1190 84,1149" rendition="Line" xml:id="facs_1_l_26"/>
+				<zone points="96,1267 1184,1300 1198,1239 95,1221" rendition="Line" xml:id="facs_1_l_27"/>
+				<zone points="30,1323 1131,1331 1116,1288 807,1269 30,1291" rendition="Line" xml:id="facs_1_l_28"/>
+				<zone points="44,1397 217,1360 340,1403 969,1372 949,1321 753,1347 44,1321" rendition="Line" xml:id="facs_1_l_29"/>
+				<zone points="41,1392 37,1172 40,1024 37,896 40,807 41,739 40,673 40,629 41,446 40,219 36,35 6,36 10,219 11,446 10,629 10,673 11,739 10,807 7,896 10,1024 7,1172 11,1392" rendition="Line" xml:id="facs_1_l_30"/>
+				<zone points="13,33 12,246 12,344 13,482 12,614 12,731 14,758 12,1028 11,1158 41,1158 42,1028 44,757 42,730 42,614 43,482 42,344 42,246 43,33" rendition="Line" xml:id="facs_1_l_31"/>
+			</zone>
+			<zone points="691,0 1160,0 1186,98 1157,198 1022,194 904,200 578,193 574,176 574,159 627,99 627,5 1202,0 1202,1386 7,1396 8,0" rendition="TextRegion" xml:id="facs_1_r_1">
+				<zone points="574,192 719,188 766,210 912,185 963,203 982,183 1029,207 1063,189 1130,200 1130,154 1068,136 1014,157 970,136 868,157 637,140 574,158" rendition="Line" xml:id="facs_1_l_3"/>
+				<zone points="624,138 708,146 748,127 827,146 872,130 918,151 1051,135 1128,151 1127,112 1056,99 729,111 624,89" rendition="Line" xml:id="facs_1_l_4"/>
+				<zone points="812,78 835,80 840,84 849,78 859,78 871,89 878,87 887,95 895,95 895,50 883,49 871,61 864,56 858,59 850,53 837,59 819,49 812,49" rendition="Line" xml:id="facs_1_l_2"/>
+				<zone points="705,22 751,53 760,49 766,56 791,56 813,46 837,62 843,56 852,58 865,0 713,0" rendition="Line" xml:id="facs_1_l"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="1204" lry="1449">
+			<graphic url="0002_1946-12-12_Labowsky_Klibansky-2.jpg" width="1204px" height="1449px"/>
+			<zone points="28,0 28,694 204,694 204,0" rendition="TextRegion" xml:id="facs_2_tr_1">
+				<zone points="83,443 87,395 58,392 53,440" rendition="Line" xml:id="facs_2_l_150"/>
+				<zone points="94,460 69,449 60,434 56,414 68,397 78,387 102,381 95,352 64,361 45,378 27,408 32,445 49,471 82,488" rendition="Line" xml:id="facs_2_l_146"/>
+				<zone points="101,447 106,401 76,398 71,444" rendition="Line" xml:id="facs_2_l_154"/>
+				<zone points="123,443 125,402 95,400 93,441" rendition="Line" xml:id="facs_2_l_158"/>
+			</zone>
+			<zone points="276,54 274,592 594,588 596,55" rendition="TextRegion" xml:id="facs_2_tr_2">
+				<zone points="341,549 343,195 313,194 311,549" rendition="Line" xml:id="facs_2_l"/>
+				<zone points="404,485 402,192 372,192 374,485" rendition="Line" xml:id="facs_2_l_105"/>
+				<zone points="465,441 463,94 433,95 435,441" rendition="Line" xml:id="facs_2_l_109"/>
+				<zone points="520,348 523,150 493,149 490,347" rendition="Line" xml:id="facs_2_l_113"/>
+				<zone points="575,289 575,132 545,132 545,289" rendition="Line" xml:id="facs_2_l_117"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_r">
+					<lg>
+						<l facs="#facs_1_l_1">
+                            <placeName ref="geo-2643743">London</placeName>, <date when="1946-12-12">12. 12. 1946</date>
+                        </l>
+						<l facs="#facs_1_l_5">My dear <persName ref="gnd-118777378">Raymond</persName>,</l>
+						<l facs="#facs_1_l_6">Thank you very much for your</l>
+						<l facs="#facs_1_l_7">two letters, the one from <placeName ref="geo-2643743">London</placeName> and the other from <placeName ref="geo-6077243">Montreal</placeName>
+                        </l>
+						<l facs="#facs_1_l_8">I was very relieved to see from the cable which Sonja</l>
+						<l facs="#facs_1_l_9">sent me that you had arrived safely and from your letter that</l>
+						<l facs="#facs_1_l_10">it was not too much of an ordeal. But your several false</l>
+						<l facs="#facs_1_l_11">starts in <placeName ref="geo-2643743">London</placeName> must have been something of a trial.</l>
+						<l facs="#facs_1_l_12">
+                            <persName ref="gnd-136148662">Mrs. Hamilton</persName> described your last visit very vividly to me.</l>
+						<l facs="#facs_1_l_13">She was full of self reproach because she let you go to</l>
+						<l facs="#facs_1_l_14">
+                            <placeName ref="geo-6251999">Canada</placeName> without a proper breakfast and without sewing</l>
+						<l facs="#facs_1_l_15">your coat button on and I had to promise that I would</l>
+						<l facs="#facs_1_l_16">write her apologies to you. There is another woman whose</l>
+						<l facs="#facs_1_l_17">protective and maternal instincts you have thoroughly</l>
+						<l facs="#facs_1_l_18">roused. — I would have written to you earlier, but</l>
+						<l facs="#facs_1_l_19">according to my very unheroic fashion l went down</l>
+						<l facs="#facs_1_l_20">with a small attack of flu shortly after you went.</l>
+						<l facs="#facs_1_l_21">Not, however, before l had done some tidying in your</l>
+						<l facs="#facs_1_l_22">room, taken away the things destined for me, your books</l>
+						<l facs="#facs_1_l_23">to the Taylor, calling on <persName ref="gnd-129434507">Hunt</persName> etc. - and having</l>
+						<l facs="#facs_1_l_24">my class. The letter to <persName ref="gnd-107671662">Waszink</persName> has also gone.</l>
+						<l facs="#facs_1_l_25">The one to Astrue [?] has been written and will go to-day. -</l>
+						<l facs="#facs_1_l_26">Scotts have my address. - I have only come over to</l>
+						<l facs="#facs_1_l_27">
+                            <placeName ref="geo-2643743">London</placeName> for two days in order to attend to various matters</l>
+						<l facs="#facs_1_l_28">and am going back to <placeName ref="geo-11524648">Oxford</placeName> tonight in order to</l>
+						<l facs="#facs_1_l_29">finish tidying up and Christmas presenting in College</l>
+						<l facs="#facs_1_l_30">I hope that the two engravings in your room of the two cultural centres in which</l>
+						<l facs="#facs_1_l_31">you have been active will keep the good Christean in you alive.</l>
+					</lg>
+				</p>
+				<p facs="#facs_1_r_1">
+					<lg>
+						<l facs="#facs_1_l_3">I am longing to hear more about</l>
+						<l facs="#facs_1_l_4">your adventures and activities.</l>
+						<l facs="#facs_1_l_2">Love</l>
+						<l facs="#facs_1_l">
+                            <persName ref="gnd-1029912939">Lotte</persName>
+                        </l>
+					</lg>
+				</p>
+				<pb facs="#facs_2" n="2"/>
+				<p facs="#facs_2_tr_1">
+					<lg>
+						<l facs="#facs_2_l_150">5 15 PM</l>
+						<l facs="#facs_2_l_146">
+                            <placeName ref="geo-2640692">Paddington</placeName> W2</l>
+						<date when="1946-12-13">
+                            <l facs="#facs_2_l_154">13 DEC</l>
+						<l facs="#facs_2_l_158">1946</l>
+                        </date>
+					</lg>
+				</p>
+				<p facs="#facs_2_tr_2">
+					<lg>
+						<l facs="#facs_2_l">
+                            <persName ref="gnd-118777378">Professor R. Klibansky</persName>
+                        </l>
+						<l facs="#facs_2_l_105">University Club</l>
+						<l facs="#facs_2_l_109">2047 Mansfield St.</l>
+						<l facs="#facs_2_l_113">
+                            <placeName ref="geo-6077243">Montreal</placeName>
+                        </l>
+						<l facs="#facs_2_l_117">Canada</l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lotte Labowsky an Raymond Klibansky, 04.09.1930</title>
+				<author ref="http://d-nb.info/gnd/1029912939"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Literaturarchiv Marbach</publisher>
+				<idno>Labowsky_Klibansky_04.09.1930</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>Literaturarchiv Marbach</repository>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>handschriftlich</support>
+							</supportDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<origDate>1930-09-04</origDate>
+							<origPlace>Heidelberg</origPlace>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="de"/>
+			</langUsage>
+			<textClass>
+				<keywords scheme="LOC">
+					<term>Birth</term>
+					<term>Travel</term>
+					<term>Desire</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2025-07-02">Jonathan Klein, Robert Bruns, Aleyna Soylu, Alba Jashari</change>
+			<change when="2025-05-06">Digitalisierung durch Moritz Riemann</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="1205" lry="1554">
+			<graphic url="0001_1930-09-04_Labowsky_Klibansky-001.jpg" width="1205px" height="1554px"/>
+			<zone points="118,218 118,1440 1176,1440 1176,218" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="723,288 801,263 858,280 947,261 962,275 1004,256 1119,267 1118,219 1031,193 987,226 918,209 855,223 824,201 803,219 721,234" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="441,440 495,443 549,416 637,444 695,434 751,455 834,444 824,382 782,395 734,369 711,385 635,372 494,394 441,377" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="653,562 788,556 829,529 882,549 943,522 1063,539 1090,561 1131,550 1131,478 1077,506 1046,486 987,510 910,493 784,514 745,495 653,506" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="118,587 269,612 393,583 970,585 1037,611 1037,566 997,554 326,565 118,518" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="118,663 1168,652 1148,595 864,632 585,591 190,619 118,587" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="121,703 1171,719 1171,652 1013,682 121,653" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="110,758 1156,766 1144,716 110,724" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="121,830 1101,817 1077,763 929,796 791,762 121,771" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="118,866 607,891 784,861 947,905 1077,866 1077,820 998,851 855,818 118,843" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="123,941 541,913 614,946 1148,947 1138,876 736,910 122,866" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="122,942 148,938 233,935 352,933 698,930 1084,933 1169,943 1169,987 246,988 169,987 123,976" rendition="Line" xml:id="facs_1_l"/>
+				<zone points="281,995 302,991 1114,988 1169,1004 1169,1038 895,1068 326,1042 302,1038 282,1027" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="125,1106 334,1079 641,1123 703,1090 1171,1107 1171,1062 1073,1048 125,1048" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+				<zone points="114,1147 1148,1165 1148,1111 114,1107" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+				<zone points="118,1198 1156,1219 1156,1178 117,1148" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+				<zone points="113,1251 184,1280 487,1248 1167,1277 1167,1222 1094,1210 900,1240 113,1206" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+				<zone points="121,1316 784,1308 859,1348 1063,1318 1050,1278 884,1268 121,1287" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+				<zone points="481,1389 796,1365 906,1402 970,1366 1088,1398 1173,1372 1173,1339 921,1323 861,1347 681,1318 602,1348 481,1326" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+				<zone points="122,1420 836,1431 899,1465 1114,1432 1114,1386 122,1382" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="1165" lry="1546">
+			<graphic url="0002_1930-09-04_Labowsky_Klibansky-002.jpg" width="1165px" height="1546px"/>
+			<zone points="110,77 110,1436 1163,1436 1163,77" rendition="TextRegion" xml:id="facs_2_tr_1">
+				<zone points="126,142 1107,152 1107,103 126,111" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+				<zone points="115,200 1111,225 1136,163 1042,195 793,153 618,183 113,149" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+				<zone points="119,266 1132,275 1130,216 117,203" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+				<zone points="111,310 942,312 1074,347 1159,328 1158,286 109,266" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+				<zone points="111,366 1112,394 1111,354 992,323 846,361 581,315 111,328" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+				<zone points="111,420 382,420 535,449 602,422 764,447 738,387 704,408 623,375 567,411 377,362 238,402 149,369 111,387" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+				<zone points="270,478 596,474 660,506 744,480 1100,487 1099,449 1051,432 734,470 269,433" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+				<zone points="103,535 1080,563 1080,515 101,481" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+				<zone points="109,601 1076,614 1055,553 108,547" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+				<zone points="105,640 1117,679 1116,622 1024,601 938,631 105,601" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+				<zone points="111,718 1047,715 925,655 776,689 665,647 178,679 111,656" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+				<zone points="111,771 327,752 487,804 565,775 1065,783 1065,725 1004,717 895,746 809,707 656,746 540,701 416,740 216,701 111,729" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+				<zone points="113,810 1016,848 1087,838 1087,781 112,772" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+				<zone points="113,880 267,906 495,870 582,897 1113,879 1113,841 943,827 800,862 644,827 113,842" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+				<zone points="103,939 1159,931 1159,883 103,896" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+				<zone points="237,992 1119,987 1119,942 1068,937 885,976 813,938 669,972 568,933 468,963 237,930" rendition="Line" xml:id="facs_2_tr_1_tl_17"/>
+				<zone points="103,1045 1009,1063 1030,1018 101,996" rendition="Line" xml:id="facs_2_tr_1_tl_18"/>
+				<zone points="105,1115 1033,1104 1033,1054 959,1046 701,1090 618,1046 458,1080 105,1047" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+				<zone points="111,1173 1092,1174 1149,1163 1149,1117 109,1120" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
+				<zone points="117,1240 1061,1266 1059,1191 1004,1221 946,1191 410,1188 229,1227 117,1184" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+				<zone points="117,1323 237,1291 1051,1323 1041,1261 116,1262" rendition="Line" xml:id="facs_2_tr_1_tl_22"/>
+				<zone points="121,1360 701,1391 1082,1369 1059,1324 121,1320" rendition="Line" xml:id="facs_2_tr_1_tl_23"/>
+				<zone points="120,1440 420,1420 493,1441 635,1427 713,1456 740,1443 739,1378 628,1411 593,1390 119,1379" rendition="Line" xml:id="facs_2_tr_1_tl_24"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lg>
+						<l facs="#facs_1_tr_1_tl_1">
+                            <placeName ref="geo-2907911">Heidelberg</placeName>, am <date when="1930-09-04">4. IX. 30</date>.</l>
+						<l facs="#facs_1_tr_1_tl_2">Mein lieber <persName ref="gnd-118777378">Raymond</persName>,</l>
+						<l facs="#facs_1_tr_1_tl_3">es ist gänzlich reizlos, in</l>
+						<l facs="#facs_1_tr_1_tl_4">
+                            <placeName ref="geo-2907911">Heidelberg </placeName>anzukommen, wenn einem weder der</l>
+						<l facs="#facs_1_tr_1_tl_5">bekannte Pfiff entgegentönt noch eine freundlich-ernste</l>
+						<l facs="#facs_1_tr_1_tl_6">Auseinandersetzung über falsche, bzw. ungenaue Ankunfts-</l>
+						<l facs="#facs_1_tr_1_tl_7">zeitangabe die ersten Minuten würzt. Sollte ich mich</l>
+						<l facs="#facs_1_tr_1_tl_9">getäuscht haben, als mir schien, daß die Mienen des Taxi-</l>
+						<l facs="#facs_1_tr_1_tl_10">chaufferors, der mich und mein Gepäck in die</l>
+						<l facs="#facs_1_tr_1_tl_11">Ziegelhäuser L(an)dstr. 14. beförderte, ein halb mitleidiges</l>
+						<l facs="#facs_1_l">Erstaunen über meine Einsamkeit kaum verhehlen?</l>
+						<l facs="#facs_1_l_1">Hier wurde ich von der weissgekleideten Ehren-</l>
+						<l facs="#facs_1_tr_1_tl_16">jungfrau <persName ref="gnd-116966467">Lily</persName> mit grosser Begeisterung empfangen.</l>
+						<l facs="#facs_1_tr_1_tl_17">Sie empfing mich mit der Nachricht, dass</l>
+						<l facs="#facs_1_tr_1_tl_18">Keas Kind, ein Mädchen, mit enormer Beschleu-</l>
+						<l facs="#facs_1_tr_1_tl_19">nigung, nämlich 14 Tage zu früh und inner-</l>
+						<l facs="#facs_1_tr_1_tl_20">halb 4 Stunden, aber et mater et filia salva,</l>
+						<l facs="#facs_1_tr_1_tl_22">eingetroffen sei. <persName ref="gnd-11948711X">Frau Weber</persName> kam später und bericht-</l>
+						<l facs="#facs_1_tr_1_tl_23"> tete dass alles über Bitten und Hoffen gut sei.</l>
+					</lg>
+				</p>
+				<pb facs="#facs_2" n="2"/>
+				<p facs="#facs_2_tr_1">
+					<lg>
+						<l facs="#facs_2_tr_1_tl_2">Bei meiner scherzhaften Gratulation wurde sie (T. M.) über</l>
+						<l facs="#facs_2_tr_1_tl_3">und über rot. Beim Abendessen mit ihr und</l>
+						<l facs="#facs_2_tr_1_tl_4">
+                            <persName ref="gnd-116966467">Lily Zarncke</persName> umfing mir dann – etwas plötzlich</l>
+						<l facs="#facs_2_tr_1_tl_5">und verwirrend - wieder die berühmte &lt;Atmosphäre&gt;</l>
+						<l facs="#facs_2_tr_1_tl_6">samt genius loci und Zubehör, später kam</l>
+						<l facs="#facs_2_tr_1_tl_7">auch <persName ref="gnd-116087749">Marie Baum</persName> - ach ja.</l>
+						<l facs="#facs_2_tr_1_tl_8">Zu hause wars recht nett. Mit Elisabeth</l>
+						<l facs="#facs_2_tr_1_tl_9">habe ich mich diesmal wieder gut verständigen</l>
+						<l facs="#facs_2_tr_1_tl_10">können. Sie war oft reizend. Ich glaube, dass</l>
+						<l facs="#facs_2_tr_1_tl_11">ich in meinem letzten Urteil über sie zu weit ging:</l>
+						<l facs="#facs_2_tr_1_tl_12">die allgemeine Beunruhigung in ihrem Wesen</l>
+						<l facs="#facs_2_tr_1_tl_13">greift doch tiefer, dass aber im tiefsten immer</l>
+						<l facs="#facs_2_tr_1_tl_14">noch viel von der alten Angst da ist, dafür ist</l>
+						<l facs="#facs_2_tr_1_tl_15">z.B. symptomatisch dass sie sich bei Walter über-</l>
+						<l facs="#facs_2_tr_1_tl_16">haupt nicht gemeldet hat nach ihrer Rückkehr.</l>
+						<l facs="#facs_2_tr_1_tl_17">Mit <persName ref="gnd-11915966X">Walter</persName> war ich an einem der letzten</l>
+						<l facs="#facs_2_tr_1_tl_18">Abende im Kino und – im Alkazar. Ich</l>
+						<l facs="#facs_2_tr_1_tl_19">gehöre jetzt also nicht mehr zu den seltenen</l>
+						<l facs="#facs_2_tr_1_tl_20">Mädchen, die noch nicht in diesem Lokal waren</l>
+						<l facs="#facs_2_tr_1_tl_21">Ruth läßt Dich sehr herzlich grüssen. Sie ist</l>
+						<l facs="#facs_2_tr_1_tl_22">jetzt wieder sehr wohl und frisch. Hoffentlich</l>
+						<l facs="#facs_2_tr_1_tl_23">kehren die Schmerzen, deren Ursache und Art nicht</l>
+						<l facs="#facs_2_tr_1_tl_24">gefunden worden ist, nicht wieder.</l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

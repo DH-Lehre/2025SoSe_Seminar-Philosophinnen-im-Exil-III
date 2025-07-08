@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+		<titleStmt>
+			<title>Brief von Getrud Bing an Raymond Klibansky vom 25. Juli 1930</title>
+			<author ref="http://d-nb.info/gnd/116183853"/>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>Literaturarchiv Marbach</publisher>
+			<idno>1930-07-25_Bing_Klibansky</idno>
+		</publicationStmt>
+		<sourceDesc>
+			<msDesc>
+			<msIdentifier>
+				<repository>Literaturarchiv Marbach</repository>
+				<idno/>
+			</msIdentifier>
+			<physDesc>
+				<objectDesc>
+				<supportDesc>
+					<support>maschinell</support>
+				</supportDesc>
+				</objectDesc>
+			</physDesc>
+			<history>
+				<origin>
+				<origDate>1930-07-25</origDate>
+				<origPlace>Hamburg</origPlace>
+				</origin>
+			</history>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+		<langUsage>
+			<language ident="de"/>
+		</langUsage>
+		<textClass>
+			<keywords scheme="LOC">
+				<term>sh85006042</term>
+				<term>sh2005007061</term>
+			</keywords>
+		</textClass>
+		</profileDesc>
+		<revisionDesc>
+		<change when="2025-06-24">Amélie Mink, Jasper Stelter, Peer Broxtermann, Rimsha Tahir</change>
+		<change when="2025-05-07">Digitalisierung durch Moritz Riemann</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="0001_p001.jpg" width="2479px" height="3508px"/>
+			<zone points="211,374 211,3438 2412,3438 2412,374" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="622,444 1840,456 1840,365 1676,353 1578,386 1491,341 1424,379 622,367" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="199,596 337,610 351,598 477,605 496,591 582,601 582,533 568,531 552,540 526,528 491,545 470,531 411,561 369,542 302,552 276,531 199,556" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="1844,650 1900,657 1978,612 2038,626 2062,612 2111,622 2181,596 2244,605 2242,521 2181,503 2155,514 2118,498 2076,517 2055,505 2015,531 1959,538 1870,486 1842,491" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="203,636 575,631 577,601 549,594 510,605 498,594 482,605 344,596 285,608 206,598" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="203,692 257,669 288,685 299,676 374,690 395,708 458,676 503,690 533,666 575,678 575,633 540,626 203,636" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="524,1092 594,1120 650,1092 690,1122 767,1134 846,1115 954,1159 1012,1131 1010,1010 886,996 802,1040 750,1021 713,1040 676,1024 615,1047 521,1038" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="650,1288 1068,1283 1272,1346 1323,1311 1426,1342 1487,1297 1643,1328 2338,1297 2338,1223 2225,1269 1802,1225 1323,1262 1036,1208 923,1253 650,1244" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="533,1400 1964,1426 2127,1391 2316,1424 2314,1349 2204,1311 1952,1356 1688,1314 1075,1353 533,1314" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="531,1498 2403,1519 2403,1428 2302,1449 2181,1400 1973,1454 1678,1393 1456,1452 1349,1400 1244,1452 1059,1407 1003,1442 531,1431" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="533,1582 769,1582 837,1627 1608,1582 1931,1643 1999,1601 2080,1643 2146,1590 2338,1606 2338,1531 2134,1508 2069,1547 1426,1498 1353,1550 1036,1505 643,1538 533,1501" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="531,1674 1162,1678 1218,1716 1360,1678 2356,1688 2326,1606 2190,1648 2022,1601 1893,1648 1449,1590 1208,1641 1087,1594 531,1634" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="533,1784 676,1819 1290,1779 1388,1814 2330,1812 2298,1741 1381,1737 1272,1690 1190,1727 533,1709" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="533,1868 1332,1870 1414,1914 1758,1872 2087,1931 2272,1882 2270,1826 2209,1809 1917,1802 1828,1840 1697,1802 531,1812" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="531,1954 2405,2001 2403,1898 2298,1940 2165,1893 2036,1938 1585,1921 1491,1875 1206,1924 977,1872 853,1914 531,1891" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+				<zone points="524,2083 2267,2083 2267,1992 2197,1980 1725,1975 1438,2027 1367,1994 1141,2020 1045,1966 919,2006 673,1971 524,2006" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+				<zone points="524,2186 559,2167 568,2176 624,2158 678,2167 711,2150 722,2158 729,2150 755,2153 753,2083 732,2092 704,2066 690,2080 659,2069 640,2083 594,2069 559,2076 542,2090 521,2085" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+				<zone points="1230,2246 1276,2260 1344,2249 1379,2270 1477,2253 1498,2270 1526,2253 1566,2256 1564,2204 1487,2190 1463,2207 1395,2193 1342,2211 1318,2195 1267,2197 1225,2181" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+				<zone points="1318,2361 1332,2359 1363,2387 1417,2368 1428,2373 1435,2368 1447,2380 1463,2377 1461,2258 1435,2263 1417,2253 1395,2267 1367,2265 1349,2277 1339,2267 1335,2272 1316,2267" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+				<zone points="1461,2433 1487,2431 1512,2459 1573,2417 1639,2445 1690,2408 1718,2405 1723,2274 1629,2298 1580,2279 1524,2330 1466,2342" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+				<zone points="510,2555 617,2562 664,2595 776,2574 818,2592 877,2562 949,2592 1014,2564 1134,2578 1134,2503 1043,2508 928,2454 863,2494 704,2522 603,2496 510,2506" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+				<zone points="521,2674 542,2667 591,2686 631,2667 722,2693 739,2679 757,2690 870,2674 867,2618 844,2609 706,2597 626,2611 587,2576 517,2562" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lg>
+						<orgName ref="gnd-37542-1"><l facs="#facs_1_tr_1_tl_1"><orgName ref="gnd-37542-1">Kulturwissenschaftliche Bibliothek Warburg</orgName></l></orgName>
+						<l facs="#facs_1_tr_1_tl_2"><placeName ref="geo-2911297">Hamburg</placeName> 20</l>
+						<l facs="#facs_1_tr_1_tl_3"><date when="1930-07-30">25.Juli 1930</date>.</l>
+						<l facs="#facs_1_tr_1_tl_4">Heilwigstraße 114/116</l>
+						<l facs="#facs_1_tr_1_tl_5">Telephon: Vulkan 9239</l>
+						<l facs="#facs_1_tr_1_tl_6">Lieber <persName ref="gnd-118777378">Raymond</persName>!</l>
+						<l facs="#facs_1_tr_1_tl_8">Ich habe mich um den Kommentar, der angeblich ge¬</l>
+						<l facs="#facs_1_tr_1_tl_9">druckt sein soll, weiter bemüht, kann aber bis jetzt ebenso</l>
+						<l facs="#facs_1_tr_1_tl_10">wenig herausbekommen wie Sie und fürchte beinah, dass <persName ref="gnd-129339350">Dr. Meier</persName>,</l>
+						<l facs="#facs_1_tr_1_tl_11">so unwahrscheinlich es auch klingt, in diesem Falle doch dem</l>
+						<l facs="#facs_1_tr_1_tl_12">allgemeinen menschlichen Schicksal des Irrtums verfallen ist.</l>
+						<l facs="#facs_1_tr_1_tl_14">Da ich aber unmöglich mit dieser Vermutung (wenn ich sie ihm gegenüber äußern sollte) seinen eben ange¬</l>
+						<l facs="#facs_1_tr_1_tl_15">tretenen Urlaub zu einem schnellen und schrecklichen Enden</l>
+						<l facs="#facs_1_tr_1_tl_16">bringen möchte, möchte ich der Frage erst ungefähr am <date when="1930-08-20">20. August</date></l>
+						<l facs="#facs_1_tr_1_tl_17">wieder nachgehen. Es tut mir sehr leid, Sie enttäuschen zu</l>
+						<l facs="#facs_1_tr_1_tl_18">müssen.</l>
+						<l facs="#facs_1_tr_1_tl_19">Herzlichst</l>
+						<l facs="#facs_1_tr_1_tl_20">Ihre</l>
+						<l facs="#facs_1_tr_1_tl_21"><persName ref="gnd-116183853">G. B.</persName></l>
+						<l facs="#facs_1_tr_1_tl_22"><persName ref="gnd-118777378">Herrn Dr.R.Klibansky</persName></l>
+						<l facs="#facs_1_tr_1_tl_23"><placeName ref="geo-2907911">Heidelberg</placeName>.</l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

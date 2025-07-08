@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lotte Labowsky an Raymond Klibansky, 06.08.1930</title>
+				<author ref="http://d-nb.info/gnd/1029912939"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Literaturarchiv Marbach</publisher>
+				<idno>Labowsky_Klibansky_06.08.1930</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>Literaturarchiv Marbach</repository>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>handschriftlich</support>
+							</supportDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<origDate>1930-08-06</origDate>
+							<origPlace>Hamburg</origPlace>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="de"/>
+			</langUsage>
+			<textClass>
+				<keywords scheme="LOC">
+					<term>Literature</term>
+					<term>Travel</term>
+					<term>Friendship</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2025-07-02">Jonathan Klein, Robert Bruns, Aleyna Soylu, Alba Jashari</change>
+			<change when="2025-05-06">Digitalisierung durch Moritz Riemann</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="1220" lry="1553">
+			<graphic url="0001_1930-08-06_Labowsky_Klibansky-001.jpg" width="1220px" height="1553px"/>
+			<zone points="58,242 58,1457 1190,1457 1190,242" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="752,284 807,280 868,301 970,283 995,303 1025,294 1062,310 1142,277 1142,247 1055,230 1024,253 964,259 918,236 872,253 793,216 752,228" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="428,543 498,544 530,530 573,541 602,564 674,543 714,563 735,553 735,495 599,499 566,484 547,499 519,479 428,496" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="564,714 618,720 711,677 910,724 980,694 1056,710 1128,687 1127,594 930,653 741,639 563,656" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="58,752 1029,802 1028,751 927,720 58,722" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="54,813 833,885 1158,871 1107,807 1028,838 854,786 636,817 51,756" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="64,888 1131,960 1141,902 683,895 481,838 61,845" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="58,939 445,973 546,944 1055,1012 1111,1005 1107,949 54,889" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="54,1005 574,1025 1182,1120 1180,1033 48,954" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="54,1089 188,1063 639,1091 1015,1173 1009,1108 905,1070 48,1016" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="54,1132 260,1120 435,1173 590,1142 1060,1210 1101,1205 1097,1154 910,1164 738,1104 372,1106 298,1070 49,1093" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="54,1180 437,1196 570,1236 646,1229 645,1192 540,1168 467,1188 182,1115 51,1138" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="61,1261 604,1279 745,1330 795,1295 1029,1320 997,1257 751,1279 585,1240 454,1255 267,1195 57,1213" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="65,1328 1100,1385 925,1322 789,1347 368,1279 61,1277" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="55,1400 942,1431 1138,1490 1183,1476 1178,1391 51,1346" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="1212" lry="1550">
+			<graphic url="0002_1930-08-06_Labowsky_Klibansky-002.jpg" width="1212px" height="1550px"/>
+			<zone points="70,154 70,1478 1182,1478 1182,154" rendition="TextRegion" xml:id="facs_2_tr_1">
+				<zone points="99,207 188,193 281,217 426,191 540,219 668,211 666,151 642,148 566,169 436,133 344,160 97,144" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+				<zone points="92,244 761,245 1070,295 1068,224 91,208" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+				<zone points="91,326 269,291 355,328 527,299 1181,330 1178,281 1119,269 960,306 827,263 701,291 88,243" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+				<zone points="92,380 629,361 894,415 1046,387 1067,351 507,313 91,330" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+				<zone points="89,428 1098,470 1072,405 1017,436 975,407 835,431 754,385 88,385" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+				<zone points="88,487 561,492 1017,559 1161,538 1159,491 85,432" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+				<zone points="86,544 1042,616 1038,555 964,539 85,509" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+				<zone points="84,649 591,642 1074,697 1068,605 996,632 791,595 716,635 599,591 446,620 188,565 80,587" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+				<zone points="82,687 577,745 680,720 757,758 1092,749 1087,686 435,691 80,636" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+				<zone points="80,787 320,782 407,815 625,788 687,834 852,842 920,824 915,750 613,725 505,757 302,710 210,739 74,714" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+				<zone points="232,846 579,880 736,861 964,916 1016,884 1130,894 1127,858 920,824 820,850 527,798 229,795" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+				<zone points="64,900 657,928 769,968 1140,959 1138,927 832,879 775,915 629,871 550,905 442,856 62,850" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+				<zone points="69,997 84,991 95,993 118,979 129,980 143,989 148,983 165,985 165,924 155,924 145,917 129,926 107,913 85,924 69,923" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+				<zone points="166,1041 609,1038 1015,1081 1024,1002 834,1037 712,997 650,1034 473,968 266,1006 162,974" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+				<zone points="74,1097 1086,1152 1082,1086 939,1107 720,1063 624,1092 70,1027" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+				<zone points="64,1141 1164,1222 1160,1177 1085,1150 60,1094" rendition="Line" xml:id="facs_2_tr_1_tl_17"/>
+				<zone points="69,1215 618,1244 946,1314 1168,1293 1163,1220 861,1244 63,1155" rendition="Line" xml:id="facs_2_tr_1_tl_18"/>
+				<zone points="70,1290 96,1303 123,1288 159,1305 218,1281 234,1293 278,1278 302,1290 300,1231 186,1222 155,1229 134,1248 69,1244" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+				<zone points="208,1348 341,1325 453,1362 576,1342 889,1359 886,1297 852,1286 581,1274 450,1316 369,1281 296,1308 206,1282" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
+				<zone points="746,1395 793,1414 798,1407 820,1415 841,1404 860,1417 884,1412 901,1422 926,1411 921,1364 894,1371 864,1353 835,1367 801,1359 788,1366 767,1360 743,1366" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+				<zone points="882,1462 901,1469 921,1456 946,1455 960,1464 994,1460 1023,1478 1041,1469 1074,1478 1089,1474 1085,1429 1059,1437 1011,1417 968,1427 935,1408 898,1423 878,1422" rendition="Line" xml:id="facs_2_tr_1_tl_22"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lg>
+						<l facs="#facs_1_tr_1_tl_1">
+                            <placeName ref="geo-2911297">Hamburg</placeName>, am <date when="1930-08-06">6. VIII. 30</date>
+                        </l>
+						<l facs="#facs_1_tr_1_tl_2">Lieber <persName ref="gnd-118777378">Raymond</persName>,</l>
+						<l facs="#facs_1_tr_1_tl_3">meine Reise ist glatt verlaufen:</l>
+						<l facs="#facs_1_tr_1_tl_4">ist war während der ganzen Zeit nur mit einem</l>
+						<l facs="#facs_1_tr_1_tl_5">schwedischen Ehepaar zusammen im Coupé, deren melodisch-</l>
+						<l facs="#facs_1_tr_1_tl_6">unverständliche Unterhaltung eine angenehme Begleitmusik</l>
+						<l facs="#facs_1_tr_1_tl_7">zu meiner <persName ref="gnd-118624822">Mark Twain</persName>-Lekture war; da die Bücher</l>
+						<l facs="#facs_1_tr_1_tl_8">wirklich sehr ergötzlich sind - wenn auch von einer Harmlosig-</l>
+						<l facs="#facs_1_tr_1_tl_9">keit des Humors, neben der &lt;unsere&gt; Aufführung</l>
+						<l facs="#facs_1_tr_1_tl_10">gradezu bioneisch-sulzig anmutet - ist mir die Reise</l>
+						<l facs="#facs_1_tr_1_tl_11">so schnell wie nie vergangen. Ich verfehlte natürlich</l>
+						<l facs="#facs_1_tr_1_tl_13">nicht, schon auf dem Bahnsteig meiner Mutter,</l>
+						<l facs="#facs_1_tr_1_tl_14">indem ich zuerst von meiner amusanten Reiselekture</l>
+						<l facs="#facs_1_tr_1_tl_15">sprach und nur beiläufig einfließen ließ, daß <persName ref="gnd-118543628">Gundolf</persName>
+                        </l>
+					</lg>
+				</p>
+				<pb facs="#facs_2" n="2"/>
+				<p facs="#facs_2_tr_1">
+					<lg>
+						<l facs="#facs_2_tr_1_tl_1">sie mir geliehen habe, auf meinen berühmten</l>
+						<l facs="#facs_2_tr_1_tl_3">Umgang aufmerksam zu machen und mit</l>
+						<l facs="#facs_2_tr_1_tl_4">Hilfe ihrer Fragen, die ich geschickt zu provocieren</l>
+						<l facs="#facs_2_tr_1_tl_5">verstand, war ich bis zur Agnesstrasse 23</l>
+						<l facs="#facs_2_tr_1_tl_6">in die wünschenswerte Erfülltheit hineingeraten,</l>
+						<l facs="#facs_2_tr_1_tl_7">sodass ich dann vor beiden stolzen Eltern (mein</l>
+						<l facs="#facs_2_tr_1_tl_8">
+                            <persName ref="gnd-1149061766">Vater</persName> hatte mich zu hause erwartet) von</l>
+						<l facs="#facs_2_tr_1_tl_9">den rauschenden Festen und meinen Erfolgen</l>
+						<l facs="#facs_2_tr_1_tl_10">berichten konnte. Die Erzählung von Löwensteins</l>
+						<l facs="#facs_2_tr_1_tl_11">Frage verfehlte ihre Wirkung nicht. -</l>
+						<l facs="#facs_2_tr_1_tl_12">Walter sprach ich heute am Telephon und</l>
+						<l facs="#facs_2_tr_1_tl_13">habe mich zu morgen nachmittag mit ihm verab-</l>
+						<l facs="#facs_2_tr_1_tl_14">redet.</l>
+						<l facs="#facs_2_tr_1_tl_15">Wie gehts Dir denn?? Lassen Dich die</l>
+						<l facs="#facs_2_tr_1_tl_16">Palatier jetzt etwas ruhig schlafen? Und zeigt</l>
+						<l facs="#facs_2_tr_1_tl_17">sich etwas Brauchbares auf dem Wohnungsmarkte?</l>
+						<l facs="#facs_2_tr_1_tl_18">Vergiss bitte nicht, Dir immer etwas zum Abendbrot</l>
+						<l facs="#facs_2_tr_1_tl_19">zu besorgen!</l>
+						<l facs="#facs_2_tr_1_tl_20">Lass es Dir gut gehn, mein Lieber!</l>
+						<l facs="#facs_2_tr_1_tl_21">Ich bin</l>
+						<l facs="#facs_2_tr_1_tl_22">Deine <persName ref="gnd-1029912939">Lotte</persName>
+                        </l>
+					</lg>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>
