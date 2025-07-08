@@ -1270,7 +1270,7 @@ Stellt die Transkription fertig (und gebt mir wegen des Exports Bescheid), annot
 
 ### Voyant Tools für die Analyse von Texten 
 
-![Voyant Tools](img/voyant_tools.png)
+[Voyant Tools](img/voyant_tools.png)
 
 ### Aufgabe zur nächsten Sitzung 
 
